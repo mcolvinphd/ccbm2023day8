@@ -1,0 +1,3101 @@
+ID,Major,HighSchoolGPA,SATScores,AppliedtoanotherUC,AdmittedtoanotherUC,FirstGeneration,Gender,TotalHSHonorsCoursesTaken,MathPlacementScore,FirstMathClassGrade,@1stSemesterGPA,Retained1stYear,Graduated
+74542,Psychology,3.6,1030,,Yes,Yes,F,6,3,A+,1,N,No
+67208,Undeclared,3.6,740,No,No,Yes,M,13,3,D,1,N,No
+72290,Sociology,3.6,970,,Yes,Yes,F,0,3,F,1,N,No
+76242,Sociology,3.6,860,,Yes,No,M,14,3,F,1,N,No
+196944,Computer Science & Engineering,3.72,690,Yes,Yes,Yes,F,0,7,I,1,N,No
+129670,Earth Systems Science,3.66,830,,No,Yes,F,0,7,I,1,N,No
+190194,Biological Sciences,3.72,990,,Yes,Yes,F,0,7,I,1,N,No
+180604,Biological Sciences,3.71,1040,,Yes,Yes,F,0,7,I,1,N,No
+72712,Undeclared,3.6,1030,Yes,No,Yes,F,0,3,A+,1.1,N,No
+86088,Biological Sciences,3.61,1040,,Yes,Yes,M,10,3,A+,1.1,N,No
+107544,Management & Business Economics,3.63,1110,,No,Yes,F,6,3,A+,1.1,N,No
+97156,Bioengineering,3.62,1140,Yes,No,No,F,9,3,A+,1.1,N,No
+138604,Undeclared SSHA,2.84,1220,,Yes,Yes,F,0,8,B,1.1,N,No
+134980,Biological Sciences,2.81,930,,,Yes,F,18,8,B+,1.1,N,No
+135268,Undeclared SSHA,2.82,1080,,No,Yes,F,11,8,B+,1.1,N,No
+175778,Environmental Engineering,3.7,1230,,Yes,Yes,M,14,7,B+,1.1,N,No
+269916,Applied Mathematical Sciences,3.8,740,,Yes,Yes,F,0,7,C,1.1,N,No
+278072,Management &Business Economics,3.81,850,,No,Yes,F,0,7,C,1.1,N,No
+279498,Biological Sciences,3.81,900,,No,Yes,F,0,,C,1.1,N,No
+281578,Undeclared SSHA,3.81,900,,Yes,Yes,F,0,7,C,1.1,N,No
+276260,Undeclared,3.81,1070,Yes,No,Yes,F,0,7,C,1.1,N,No
+271280,Biological Sciences,3.8,1100,,Yes,Yes,F,0,7,C,1.1,N,No
+280078,Bioengineering,3.81,1140,Yes,Yes,Yes,F,0,7,C,1.1,N,No
+277800,Undeclared,3.81,1220,Yes,Yes,Yes,F,0,7,C,1.1,N,No
+276124,Computer Science & Engineering,3.81,920,Yes,No,Yes,F,0,7,C,1.1,N,No
+276138,Biological Sciences,3.81,960,,No,Yes,F,0,7,C,1.1,N,No
+281796,Anthropology,3.81,1020,Yes,Yes,Yes,F,0,7,C,1.1,N,No
+265308,Computer Science & Engineering,3.8,1030,,No,Yes,F,0,7,C,1.1,N,No
+69548,Undeclared,2.33,1080,,Yes,No,M,0,7,C,1.1,N,No
+164136,Undeclared SSHA,2.91,920,,Yes,No,M,8,8,C,1.1,N,No
+169156,Applied Mathematical Sciences,2.92,950,,,Yes,M,8,8,C,1.1,N,No
+158672,Psychology,2.9,1020,,Yes,Yes,M,8,8,C,1.1,N,No
+165280,Undeclared,2.91,1020,Yes,Yes,Yes,M,12,8,C,1.1,N,No
+151578,History,2.88,1070,,Yes,No,M,8,8,C,1.1,N,No
+170382,Management & Business Economics,2.94,1110,,,Yes,M,7,8,C,1.1,N,No
+108330,Undeclared,2.7,1010,,No,No,M,6,7,C-,1.1,N,No
+84348,Biological Sciences,2.54,1090,,Yes,No,M,10,3,D,1.1,N,No
+73682,Materials Sci & Engineering,2.4,1110,,Yes,Yes,F,0,3,D,1.1,N,No
+83206,Undeclared SSHA,2.52,940,,No,Yes,F,0,4,D,1.1,N,No
+78458,Undeclared,2.47,1100,,No,Yes,F,0,4,D,1.1,N,No
+72272,Undeclared,2.38,760,,No,Yes,F,0,5,D,1.1,N,No
+77502,Undeclared,2.45,910,,No,Yes,M,11,5,D,1.1,N,No
+83196,Computer Science & Engineering,2.52,1070,Yes,Yes,No,M,6,5,D,1.1,N,No
+75142,Undeclared,2.42,970,,Yes,Yes,F,6,,D,1.1,N,No
+75138,Computer Science & Engineering,2.42,1280,,,Yes,F,12,1,D,1.1,N,No
+75568,Biological Sciences,2.43,820,Yes,Yes,Yes,F,18,2,D,1.1,N,No
+74970,Biological Sciences,2.42,1110,Yes,No,No,F,8,2,D,1.1,N,No
+74948,Bioengineering,2.42,830,,Yes,No,M,8,3,D,1.1,N,No
+76182,Biological Sciences,2.45,1030,,No,Yes,F,8,3,D,1.1,N,No
+73610,Psychology,2.4,830,,No,No,F,0,4,D,1.1,N,No
+72624,Undeclared,2.38,840,Yes,Yes,No,M,6,4,D,1.1,N,No
+77634,Biological Sciences,2.45,970,,Yes,Yes,M,6,4,D,1.1,N,No
+78352,Psychology,2.47,1050,,Yes,No,F,10,5,D,1.1,N,No
+87336,Biological Sciences,2.57,1120,,No,No,M,9,5,D,1.1,N,No
+97026,Chemical Sciences,3.62,900,,Yes,No,F,0,3,F,1.1,N,No
+78460,Undeclared Engineering,3.6,940,No,No,Yes,M,10,3,F,1.1,N,No
+116810,Biological Sciences,3.65,1000,,,Yes,M,12,3,F,1.1,N,No
+101620,Biological Sciences,3.63,1010,,Yes,No,F,12,,F,1.1,N,No
+68750,Literatures and Cultures,3.5,1210,,Yes,No,F,0,2,F,1.1,N,No
+190590,Environmental Engineering,3.72,940,,Yes,Yes,M,12,7,F,1.1,N,No
+231822,Management & Business Economics,3.76,870,,No,Yes,F,0,7,I,1.1,N,No
+264896,Mechanical Engineering,3.8,880,,Yes,Yes,F,0,7,I,1.1,N,No
+186502,Undeclared,2.96,1180,,Yes,No,F,10,8,D,1.2,N,No
+280630,Bioengineering,3.12,850,,No,No,F,0,,W,1.2,N,No
+77608,Political Science,3.6,730,No,No,Yes,M,10,3,D+,1.21,N,No
+264360,Undeclared,3.8,1180,,Yes,No,F,0,7,F,1.21,N,No
+76632,Undeclared,2.45,1010,,Yes,No,M,8,6,D,1.25,N,No
+72084,Social and Cognitive Science,2.38,1120,,No,No,M,8,6,D,1.25,N,No
+210058,Biological Sciences,3,940,Yes,No,,M,8,8,D-,1.25,N,No
+208306,Undeclared,3,1180,,Yes,No,M,10,8,D-,1.25,N,No
+254944,Biological Sciences,3.79,800,,No,No,M,0,2,F,1.25,N,No
+229378,Psychology,3.76,980,,,No,M,0,2,F,1.25,N,No
+271652,History,3.8,1020,,Yes,No,M,0,2,F,1.25,N,No
+233316,Mechanical Engineering,3.05,1260,,Yes,Yes,M,6,7,F,1.25,N,No
+233786,Literatures and Cultures,3.05,1260,,Yes,Yes,M,10,7,F,1.25,N,No
+78428,Psychology,2.47,990,,No,Yes,M,6,6,D,1.44,N,No
+217462,Undeclared,3.04,1080,Yes,No,Yes,M,7,8,F,1.44,N,No
+79140,Undeclared,2.48,980,,Yes,Yes,F,0,,D,1.46,N,No
+239792,Undeclared,3.05,1020,,Yes,No,M,8,8,I,1.46,N,No
+86474,Undeclared,2.56,1110,,No,No,M,8,6,D,1.48,N,No
+249290,Management & Business Economics,3.08,870,,Yes,Yes,M,7,,I,1.48,N,No
+78188,Political Science,3.6,1020,,No,No,F,12,3,F,1.5,N,No
+67600,Biological Sciences,3.6,930,,Yes,No,M,12,3,F,1.5,N,No
+173974,Undeclared,2.95,1110,Yes,,Yes,F,0,7,I,1.5,N,No
+267816,Undeclared,3.8,1120,,Yes,Yes,F,4,6,A+,1.54,N,No
+271660,Undeclared,3.11,800,,No,Yes,F,0,8,C,1.54,N,No
+270172,Psychology,3.8,1010,Yes,No,Yes,F,6,7,A,1.55,N,No
+282850,Applied Mathematical Sciences,3.12,1090,,Yes,Yes,F,6,,A+,1.55,N,No
+280616,History,3.12,1100,,No,No,M,7,8,A+,1.6,N,No
+72080,Biological Sciences,2.38,1130,,No,No,M,6,7,D,1.6,N,No
+282806,Psychology,3.12,920,,,No,M,8,8,A+,1.64,N,No
+76600,Undeclared,2.45,880,,Yes,Yes,F,8,7,D,1.64,N,No
+281002,Undeclared Engineering,3.12,1060,,Yes,No,F,0,,A+,1.65,N,No
+280048,Psychology,3.12,1090,,No,No,F,0,8,A+,1.65,N,No
+60782,Biological Sciences,3.59,1130,,No,Yes,F,8,8,A+,1.65,N,No
+64596,Management & Business Economics,3.59,1160,,Yes,No,M,8,,C,1.65,N,No
+85728,Undeclared Engineering,2.55,870,No,No,No,M,35,7,D,1.65,N,No
+85770,Undeclared,2.55,1010,Yes,No,No,M,14,8,D,1.65,N,No
+85640,Psychology,2.55,1210,Yes,Yes,Yes,M,7,7,D,1.65,N,No
+84898,Biological Sciences,2.54,980,Yes,Yes,Yes,F,0,8,D,1.65,N,No
+114934,Physics,3.65,690,,No,No,M,6,3,B-,1.66,N,No
+65184,Materials Sci & Engineering,3.59,1240,,Yes,Yes,F,6,8,C-,1.66,N,No
+63812,Psychology,3.59,920,,Yes,Yes,M,10,9,A-,1.67,N,No
+63052,Psychology,3.59,1080,,Yes,No,M,8,8,B,1.67,N,No
+63820,Undeclared,3.59,1140,Yes,Yes,No,F,12,,C+,1.67,N,No
+136060,Biological Sciences,3.66,890,,Yes,No,F,0,3,F,1.67,N,No
+175396,Biological Sciences,3.7,930,,No,No,F,8,9,A-,1.68,N,No
+65658,Undeclared,3.59,740,,Yes,Yes,M,6,8,D-,1.68,N,No
+76916,Biological Sciences,3.6,870,,Yes,No,M,8,8,C,1.69,N,No
+129818,Chemical Sciences,3.66,970,Yes,Yes,Yes,F,10,3,F,1.69,N,No
+142902,Undeclared Engineering,3.66,1130,Yes,Yes,Yes,F,10,3,A+,1.7,N,No
+77830,Biological Sciences,3.6,920,Yes,Yes,Yes,F,0,8,A+,1.7,N,No
+75358,Biological Sciences,3.6,1100,,Yes,Yes,F,0,8,A+,1.7,N,No
+182390,Management & Business Economics,3.71,1190,,Yes,Yes,F,0,9,D,1.7,N,No
+144572,Biological Sciences,3.67,950,Yes,Yes,No,F,0,7,D-,1.7,N,No
+154518,Biological Sciences,3.68,900,,Yes,No,F,10,3,F,1.7,N,No
+113886,Biological Sciences,3.64,900,No,No,No,F,0,1,F,1.7,N,No
+280002,Computer Science & Engineering,3.81,1110,Yes,No,No,F,0,1,F,1.7,N,No
+129732,Chemical Sciences,3.66,690,Yes,Yes,No,M,0,2,F,1.7,N,No
+182828,Undeclared,3.71,710,,Yes,No,M,0,2,F,1.7,N,No
+168664,Biological Sciences,3.7,850,,Yes,No,F,0,2,F,1.7,N,No
+142370,Undeclared SSHA,3.66,870,,Yes,No,F,0,2,F,1.7,N,No
+130660,Psychology,3.66,910,,No,No,M,0,2,F,1.7,N,No
+157614,Undeclared SSHA,3.68,970,Yes,Yes,No,M,0,2,F,1.7,N,No
+123064,Undeclared,3.65,980,,Yes,No,F,0,2,F,1.7,N,No
+151124,Applied Mathematical Sciences,3.68,1000,,Yes,No,F,0,2,F,1.7,N,No
+170162,Physics,3.7,1020,,Yes,No,F,0,2,F,1.7,N,No
+123614,Environmental Engineering,3.65,1240,Yes,Yes,No,F,0,2,F,1.7,N,No
+67552,Biological Sciences,3.6,1010,,Yes,Yes,F,8,8,A+,1.7,Y,Yes
+212416,Undeclared,3.75,620,Yes,No,Yes,F,10,8,B-,1.7,Y,Yes
+74244,Biological Sciences,2.41,1130,,Yes,No,F,0,1,F,1.7,Y,Yes
+266958,Undeclared Natural Sciences,3.8,1000,,Yes,No,F,0,6,F,1.7,Y,Yes
+148100,Computer Science & Engineering,3.68,1010,,Yes,No,M,6,3,F,1.71,N,No
+67014,Chemical Sciences,3.6,710,,Yes,Yes,F,10,8,C,1.71,Y,No
+67596,Computer Science & Engineering,3.6,740,,Yes,Yes,F,8,8,D,1.73,N,No
+147700,Economics,3.68,800,Yes,Yes,No,F,0,3,F,1.73,Y,No
+74130,Computer Science & Engineering,3.6,1130,Yes,Yes,Yes,F,8,8,A+,1.74,N,No
+69692,Management & Business Economics,3.6,1250,,Yes,Yes,M,11,8,A+,1.74,N,No
+151836,Management & Business Economics,3.68,960,Yes,Yes,Yes,F,0,3,F,1.74,N,No
+159440,Undeclared,3.68,980,,No,No,F,8,3,F,1.74,N,No
+153608,Mechanical Engineering,3.68,990,,Yes,Yes,F,0,3,F,1.74,N,No
+78248,Psychology,3.6,1040,,Yes,Yes,M,10,8,A+,1.74,Y,No
+154108,History,3.68,890,,Yes,Yes,F,0,3,F,1.74,Y,No
+75412,Psychology,3.6,1050,,Yes,No,M,11,8,A+,1.74,Y,Yes
+67026,Mechanical Engineering,3.6,750,Yes,Yes,Yes,F,6,,D-,1.74,Y,Yes
+146002,Undeclared,3.68,780,,Yes,Yes,F,8,3,W,1.74,Y,Yes
+157288,Undeclared Natural Sciences,3.68,1170,,Yes,No,F,12,3,A+,1.75,N,No
+78356,Undeclared SSHA,3.6,1060,,,Yes,F,9,8,A+,1.75,N,No
+94028,Psychology,2.63,860,No,No,Yes,M,8,6,D,1.75,N,No
+97598,Psychology,2.65,1140,,Yes,No,F,16,6,D,1.75,N,No
+65530,Bioengineering,3.59,780,,Yes,Yes,M,13,7,D,1.75,N,No
+153506,Undeclared Engineering,3.68,950,,No,Yes,F,0,3,F,1.75,N,No
+198016,Computer Science & Engineering,3.72,920,,Yes,No,M,0,2,F,1.75,N,No
+66674,Undeclared,3.6,940,,No,Yes,M,9,8,W,1.75,N,No
+66282,Undeclared SSHA,3.6,950,Yes,Yes,Yes,M,10,8,W,1.75,N,No
+161098,Biological Sciences,3.69,1040,Yes,Yes,No,M,10,3,A+,1.75,Y,No
+96584,Biological Sciences,2.65,1090,,,No,M,9,7,D,1.75,Y,No
+69190,Psychology,3.6,980,Yes,Yes,No,F,11,,F,1.75,Y,No
+164402,Cognitive Science,3.69,1030,,Yes,No,M,12,3,A+,1.75,Y,Yes
+76836,Undeclared,3.6,1140,Yes,No,No,F,8,8,A+,1.75,Y,Yes
+197564,Undeclared,3,960,,Yes,No,F,7,3,D,1.75,Y,Yes
+210524,Undeclared,3,950,Yes,No,Yes,M,8,,F,1.75,Y,Yes
+282170,Environmental Engineering,3.12,1040,Yes,No,Yes,F,0,7,I,1.75,Y,Yes
+159792,Psychology,3.69,1230,,Yes,No,F,8,3,A+,1.77,N,No
+99180,Undeclared SSHA,3.62,1070,Yes,Yes,Yes,M,10,8,A+,1.77,N,No
+110510,Undeclared,3.63,1110,,No,Yes,F,8,8,A+,1.77,N,No
+86578,Undeclared,3.61,1130,Yes,Yes,Yes,F,6,8,A+,1.77,N,No
+108976,Chemical Sciences,3.63,1180,,Yes,No,F,0,8,A+,1.77,N,No
+101496,Mechanical Engineering,3.63,900,Yes,Yes,Yes,F,0,8,C,1.77,N,No
+172034,Undeclared,3.7,810,,No,Yes,F,8,3,F,1.77,N,No
+161732,Sociology,3.69,890,Yes,Yes,No,F,0,3,F,1.77,N,No
+172836,English,3.7,960,Yes,Yes,Yes,M,8,3,F,1.77,N,No
+173602,Undeclared,3.7,970,Yes,No,Yes,M,10,,F,1.77,N,No
+109344,Undeclared Natural Sciences,3.63,780,,Yes,Yes,F,0,8,W,1.77,N,No
+83880,Undeclared,3.61,850,Yes,Yes,Yes,F,6,8,C,1.77,Y,No
+176896,Applied Mathematical Sciences,3.7,860,,Yes,Yes,F,0,3,F,1.77,Y,No
+159872,Undeclared Natural Sciences,3.69,1070,Yes,No,Yes,F,10,3,A+,1.77,Y,Yes
+166086,Undeclared,3.7,1080,,No,Yes,M,8,3,A+,1.77,Y,Yes
+78210,Undeclared SSHA,3.6,990,,,No,F,8,8,A+,1.77,Y,Yes
+83916,Political Science,3.61,1050,Yes,Yes,Yes,F,10,8,A+,1.77,Y,Yes
+162346,Mechanical Engineering,3.69,1000,Yes,Yes,Yes,F,10,,F,1.77,Y,Yes
+221886,History,3.75,1130,,Yes,No,M,6,3,A+,1.78,N,No
+112592,Chemical Sciences,3.64,1120,Yes,Yes,No,F,12,8,A+,1.78,N,No
+121492,Biological Sciences,3.65,870,,Yes,No,F,9,8,C,1.78,N,No
+219980,Undeclared SSHA,3.75,860,No,No,No,M,6,3,F,1.78,N,No
+183758,Management & Business Economics,3.71,860,,Yes,No,M,8,3,F,1.78,Y,No
+124914,Economics,3.65,1110,Yes,Yes,No,M,8,8,A+,1.78,Y,Yes
+120900,Materials Sci & Engineering,3.65,640,No,No,Yes,F,13,8,B+,1.8,N,No
+149996,Undeclared,3.68,890,,No,Yes,M,7,8,C,1.8,N,No
+242684,Undeclared,3.77,800,,Yes,No,F,0,3,F,1.8,N,No
+148820,Applied Mathematical Sciences,3.68,590,,Yes,Yes,F,6,8,C,1.8,Y,No
+175334,Undeclared,3.7,820,No,No,Yes,F,11,2,C-,1.8,Y,No
+29832,Undeclared SSHA,3.05,580,,No,Yes,F,2,1,D+,1.8,Y,No
+232222,Economics,3.76,1020,,Yes,Yes,F,7,3,A+,1.8,Y,Yes
+148420,Management & Business Economics,3.68,950,Yes,Yes,Yes,F,0,8,A+,1.8,Y,Yes
+153312,Applied Mathematical Sciences,3.68,960,,Yes,No,M,6,8,A+,1.8,Y,Yes
+248262,Psychology,3.78,890,,No,Yes,M,8,3,F,1.8,Y,Yes
+153626,Undeclared,3.68,1010,Yes,No,Yes,F,0,8,A+,1.82,Y,No
+124280,Undeclared,2.77,1170,,Yes,Yes,F,0,3,D,1.82,Y,Yes
+166352,Psychology,3.7,920,Yes,Yes,No,F,8,8,A+,1.83,N,No
+172272,Management & Business Economics,3.7,950,,No,Yes,F,0,8,A+,1.83,N,No
+172516,Bioengineering,3.7,1080,,Yes,No,F,10,8,A+,1.83,N,No
+172552,Biological Sciences,3.7,830,Yes,Yes,No,M,6,8,C,1.83,N,No
+174218,Psychology,3.7,900,,No,Yes,F,0,8,A+,1.83,Y,No
+170442,Physics,3.7,920,Yes,No,No,M,11,8,A+,1.83,Y,Yes
+156670,Management & Business Economics,3.68,830,,Yes,Yes,F,0,3,D,1.83,Y,Yes
+64522,Psychology,3.59,870,No,No,Yes,F,0,3,D,1.83,Y,Yes
+67792,Undeclared SSHA,3.6,920,Yes,Yes,Yes,F,0,3,D,1.83,Y,Yes
+77952,Mechanical Engineering,3.6,940,,,Yes,F,0,3,D,1.83,Y,Yes
+116274,Psychology,3.65,970,,No,Yes,F,0,3,D,1.83,Y,Yes
+87076,Economics,3.61,1230,Yes,Yes,Yes,F,0,3,D,1.83,Y,Yes
+174258,Public Health,3.7,890,,No,Yes,F,0,,C,1.84,N,No
+170558,Psychology,3.7,920,Yes,Yes,Yes,M,8,8,A+,1.84,Y,No
+153722,Undeclared Natural Sciences,3.68,830,No,No,Yes,F,0,3,D,1.84,Y,Yes
+150984,Undeclared,3.68,890,No,No,Yes,F,0,3,D,1.84,Y,Yes
+166224,Undeclared,3.7,930,Yes,Yes,Yes,F,8,8,A+,1.85,N,No
+186800,Psychology,3.72,1180,,Yes,No,F,10,8,A+,1.85,N,No
+174986,Undeclared,3.7,890,No,No,Yes,F,15,8,C,1.85,N,No
+168740,Undeclared,3.7,920,,No,Yes,M,6,8,A+,1.85,Y,No
+175626,Computer Science & Engineering,3.7,860,,Yes,Yes,F,0,3,D,1.85,Y,Yes
+174456,Computer Science & Engineering,3.7,990,Yes,No,Yes,F,0,3,D,1.85,Y,Yes
+178476,Psychology,3.7,1130,,Yes,Yes,F,0,3,D,1.85,Y,Yes
+174384,Biological Sciences,3.7,1160,Yes,Yes,Yes,F,0,3,D,1.85,Y,Yes
+209316,Sociology,3.74,890,,No,Yes,F,10,8,C,1.86,N,No
+174868,Undeclared,3.7,1050,Yes,Yes,Yes,F,0,3,D,1.86,Y,Yes
+149022,Biological Sciences,2.97,730,,No,No,M,8,5,A,1.87,N,No
+209046,Undeclared,3.74,1080,,Yes,Yes,M,6,8,A+,1.87,Y,Yes
+239362,Biological Sciences,3.77,910,Yes,Yes,No,F,8,8,A+,1.88,N,No
+73334,Anthropology,3.62,690,Yes,Yes,No,F,6,5,I,1.88,Y,No
+235738,Psychology,3.77,820,,No,No,M,10,6,A,1.89,N,No
+242424,Political Science,3.77,860,Yes,Yes,No,F,0,8,C,1.89,Y,No
+179270,Computer Science & Engineering,3.7,1020,Yes,Yes,,F,8,7,A,1.9,N,No
+213752,Management & Business Economics,3.75,810,,No,No,M,10,9,A,1.9,N,No
+263276,Cognitive Science,3.1,820,No,No,No,M,7,9,A,1.9,N,No
+170874,Computer Science & Engineering,3.7,810,No,No,No,M,5,10,A,1.9,N,No
+137234,Chemical Sciences,3.66,840,,Yes,Yes,F,0,,A-,1.9,N,No
+283168,Political Science,3.81,1050,,Yes,No,F,0,3,A+,1.9,N,No
+281700,Bioengineering,3.81,1060,,Yes,No,F,10,3,A+,1.9,N,No
+270794,Management &Business Economics,3.8,1080,,No,Yes,M,6,3,A+,1.9,N,No
+272806,Political Science,3.8,1190,,Yes,No,F,9,3,A+,1.9,N,No
+269844,Mechanical Engineering,3.8,1040,Yes,Yes,Yes,M,8,8,A+,1.9,N,No
+225210,Computer Science & Engineering,3.75,850,,No,Yes,F,4,7,B-,1.9,N,No
+270078,Anthropology,3.8,900,,No,Yes,F,0,7,C,1.9,N,No
+219892,Undeclared,3.75,870,,No,No,F,12,5,D,1.9,N,No
+145878,Materials Sci & Engineering,2.86,850,Yes,,No,F,0,3,D-,1.9,N,No
+260348,Biological Sciences,3.09,1230,,Yes,No,F,0,3,D-,1.9,N,No
+132536,Computer Science & Engineering,3.66,1250,,Yes,No,F,0,3,D-,1.9,N,No
+179212,Chemical Sciences,2.95,1230,Yes,Yes,No,F,0,5,D-,1.9,N,No
+177446,Computer Science & Engineering,3.7,750,No,No,No,F,0,8,D-,1.9,N,No
+246696,Management & Business Economics,3.78,820,No,No,No,F,0,8,D-,1.9,N,No
+155342,Political Science,2.9,860,Yes,Yes,No,F,0,8,D-,1.9,N,No
+130028,Political Science,3.66,930,Yes,No,Yes,F,0,1,D+,1.9,N,No
+35892,Undeclared,3.59,820,,Yes,Yes,F,0,8,D+,1.9,N,No
+283744,Undeclared,3.12,830,,No,Yes,F,0,8,D+,1.9,N,No
+76658,Economics,3.6,880,,Yes,No,F,0,8,D+,1.9,N,No
+179006,Psychology,3.7,880,,No,Yes,F,0,8,D+,1.9,N,No
+281070,Bioengineering,3.81,940,,Yes,No,F,0,8,D+,1.9,N,No
+234292,Undeclared,3.77,910,Yes,Yes,Yes,F,0,10,D+,1.9,N,No
+197784,Anthropology,3.72,790,Yes,Yes,No,F,0,8,F,1.9,N,No
+197528,Public Health,3.72,1060,Yes,Yes,No,F,0,8,F,1.9,N,No
+77068,Biological Sciences,2.45,1220,Yes,Yes,No,F,0,8,F,1.9,N,No
+284248,Political Science,3.13,960,,Yes,Yes,F,0,3,F,1.9,N,No
+230928,Psychology,3.76,550,,No,No,M,3,8,I,1.9,N,No
+141922,Bioengineering,2.85,720,,Yes,Yes,F,0,8,I,1.9,N,No
+217392,Psychology,3.75,550,No,No,No,M,2,9,I,1.9,N,No
+86430,Mechanical Engineering,2.86,720,,No,No,M,5,9,A,1.9,Y,No
+208798,Undeclared,3,820,,No,No,M,6,9,A,1.9,Y,No
+272424,Biological Sciences,3.8,1000,Yes,Yes,Yes,M,9,8,A+,1.9,Y,No
+29826,Biological Sciences,3.06,530,,Yes,,F,0,1,D,1.9,Y,No
+257590,Biological Sciences,3.79,950,,Yes,Yes,F,17,3,F,1.9,Y,No
+59708,Cognitive Science,3.59,1130,,Yes,Yes,F,10,3,A+,1.9,Y,Yes
+249626,Undeclared,3.78,950,,Yes,No,F,14,8,A+,1.9,Y,Yes
+248806,Computer Science & Engineering,3.78,1100,,No,No,F,13,8,A+,1.9,Y,Yes
+247026,English,3.78,1180,,Yes,No,F,10,8,A+,1.9,Y,Yes
+262000,Biological Sciences,3.8,820,Yes,Yes,No,F,9,,C,1.9,Y,Yes
+130734,Political Science,3.66,680,Yes,No,Yes,F,10,5,C-,1.9,Y,Yes
+189186,Undeclared SSHA,3.72,1140,,Yes,Yes,F,0,9,D,1.9,Y,Yes
+218180,Anthropology,3.75,860,Yes,Yes,No,M,12,5,D,1.9,Y,Yes
+134478,Mechanical Engineering,3.66,890,,Yes,No,F,0,8,D-,1.9,Y,Yes
+99978,Undeclared,3.63,620,Yes,Yes,Yes,F,0,8,D+,1.9,Y,Yes
+179220,Biological Sciences,3.7,880,Yes,Yes,No,F,0,8,D+,1.9,Y,Yes
+132546,Undeclared,3.66,1040,,Yes,Yes,F,0,8,D+,1.9,Y,Yes
+284880,Chemical Sciences,3.82,1040,,No,No,F,0,8,D+,1.9,Y,Yes
+82712,Undeclared,3.22,1290,,Yes,Yes,F,0,,D+,1.9,Y,Yes
+261528,Biological Sciences,3.8,990,,Yes,Yes,F,0,3,F,1.9,Y,Yes
+66140,Bioengineering,2.35,940,,Yes,No,F,0,8,F,1.9,Y,Yes
+67684,Undeclared,3.6,1020,Yes,Yes,No,F,0,8,F,1.9,Y,Yes
+111198,Undeclared,2.72,1030,,Yes,No,F,0,8,F,1.9,Y,Yes
+128092,Undeclared,2.8,1160,,Yes,No,F,0,8,F,1.9,Y,Yes
+77132,Undeclared,2.45,1250,Yes,Yes,No,F,0,8,F,1.9,Y,Yes
+78096,History,3.6,1250,,Yes,No,F,0,8,F,1.9,Y,Yes
+262088,Undeclared SSHA,3.8,760,,Yes,No,F,12,3,I,1.9,Y,Yes
+180708,Earth Systems Science,3.71,1200,Yes,Yes,No,F,0,3,D-,1.91,Y,Yes
+165162,Computer Science & Engineering,2.91,1130,Yes,Yes,Yes,F,0,8,I,1.91,Y,Yes
+239066,Biological Sciences,3.77,810,,Yes,No,F,0,3,D-,1.93,N,No
+204222,Undeclared,3,950,,No,Yes,F,0,8,I,1.93,N,No
+138626,Biological Sciences,2.84,1200,,Yes,Yes,F,0,3,D+,1.93,Y,No
+170236,Undeclared,2.94,870,Yes,Yes,Yes,F,0,8,I,1.93,Y,Yes
+145652,Undeclared,2.86,890,,Yes,Yes,F,0,3,D+,1.96,Y,Yes
+280590,Chemical Sciences,3.12,990,Yes,No,Yes,F,0,8,I,1.96,Y,Yes
+187350,Undeclared Engineering,2.96,1100,Yes,No,Yes,F,0,3,D+,1.97,Y,Yes
+280074,Undeclared,3.12,1040,,Yes,Yes,F,0,8,I,1.97,Y,Yes
+194574,Undeclared,3,1140,,No,Yes,F,0,3,D+,1.99,N,No
+179390,Computer Science & Engineering,3.7,760,,Yes,Yes,F,0,8,I,1.99,Y,No
+123140,History,3.65,910,Yes,Yes,No,F,0,7,B+,2,N,No
+118284,Earth Systems Science,3.65,1030,,Yes,No,F,0,7,B+,2,N,No
+105454,Undeclared SSHA,3.63,1250,,Yes,No,F,0,7,B+,2,N,No
+90348,Mechanical Engineering,3.62,920,,No,Yes,F,0,6,C,2,N,No
+222490,Management & Business Economics,3.75,1030,Yes,Yes,Yes,F,0,6,C,2,N,No
+133668,Chemical Sciences,3.66,1070,,No,Yes,F,0,6,C,2,N,No
+134222,Biological Sciences,3.66,1080,,No,Yes,F,0,,C,2,N,No
+153564,Biological Sciences,3.68,900,,No,Yes,F,0,6,D+,2,N,No
+114214,Undeclared SSHA,3.64,950,,No,No,F,0,6,D+,2,N,No
+273036,Computer Science & Engineering,3.8,980,,Yes,No,F,0,6,D+,2,N,No
+66004,Undeclared,3.6,1000,,No,Yes,F,0,6,D+,2,N,No
+103968,Chemical Sciences,3.63,1010,Yes,No,Yes,F,0,2,D+,2,N,No
+283706,Biological Sciences,3.82,840,No,No,No,F,0,6,D+,2,N,No
+144070,Psychology,3.67,830,,No,No,F,0,4,D+,2,N,No
+68446,Environmental Engineering,3.6,890,,Yes,No,F,0,1,F,2,N,No
+67648,Undeclared,3.6,850,,No,No,F,0,5,F,2,N,No
+74866,Biological Sciences,3.6,850,No,No,No,F,0,5,F,2,N,No
+67750,Psychology,3.6,890,No,No,No,F,0,5,F,2,N,No
+72984,Undeclared,3.6,930,,No,No,F,0,5,F,2,N,No
+107012,Computer Science & Engineering,3.63,940,Yes,Yes,No,F,0,5,F,2,N,No
+95058,Undeclared Natural Sciences,2.63,1130,Yes,Yes,No,F,0,5,F,2,N,No
+114212,Undeclared,2.73,1130,Yes,No,No,F,0,5,F,2,N,No
+125298,Undeclared,2.78,990,,Yes,No,F,0,7,F,2,N,No
+124140,Mechanical Engineering,3.65,1060,,Yes,No,F,0,7,F,2,N,No
+73780,Undeclared,3.6,760,Yes,Yes,No,F,0,2,F,2,N,No
+76956,Economics,3.6,1030,Yes,Yes,No,F,0,2,F,2,N,No
+70432,Undeclared,3.6,640,No,No,No,F,0,,F,2,N,No
+78128,Undeclared Engineering,3.6,770,,No,No,F,0,2,F,2,N,No
+108934,Biological Sciences,3.63,890,,Yes,No,F,0,2,F,2,N,No
+73518,Computer Science & Engineering,3.6,910,No,No,No,F,0,2,F,2,N,No
+63110,Undeclared,3.59,920,,Yes,No,M,0,2,F,2,N,No
+72692,Environmental Engineering,3.6,920,,Yes,No,F,0,2,F,2,N,No
+68772,Political Science,3.6,950,,Yes,No,F,0,2,F,2,N,No
+69086,Biological Sciences,3.6,1040,Yes,Yes,No,F,0,2,F,2,N,No
+70392,Computer Science & Engineering,3.6,1100,Yes,,No,F,0,2,F,2,N,No
+210712,Undeclared,3,1120,,No,No,M,6,3,F,2,N,No
+157682,Environmental Engineering,3.68,790,,Yes,No,F,0,8,A-,2,Y,No
+164296,Undeclared SSHA,3.69,1170,Yes,Yes,No,F,7,7,A+,2,Y,No
+280010,Environmental Engineering,3.12,1180,Yes,Yes,No,F,0,8,W,2,Y,No
+86972,Biological Sciences,2.67,920,No,No,No,F,0,1,W,2,Y,No
+132152,Economics,3.66,1110,,No,Yes,F,0,6,C,2,Y,Yes
+213596,Applied Mathematical Sciences,3.75,570,,No,No,F,0,8,C,2,Y,Yes
+268606,Undeclared Natural Sciences,3.1,950,,No,Yes,F,7,7,C-,2,Y,Yes
+262682,Computer Science & Engineering,3.1,970,Yes,Yes,Yes,F,9,7,C-,2,Y,Yes
+86408,Undeclared SSHA,3.61,810,,Yes,No,F,10,5,D,2,Y,Yes
+108996,Undeclared,3.63,830,,Yes,Yes,F,0,5,D,2,Y,Yes
+74962,Undeclared,3.6,840,No,No,Yes,F,0,5,D,2,Y,Yes
+71124,Undeclared,3.6,860,Yes,Yes,Yes,F,4,,D,2,Y,Yes
+154324,Undeclared,3.68,880,,No,Yes,F,4,5,D,2,Y,Yes
+250198,Undeclared SSHA,3.78,880,,No,No,F,0,5,D,2,Y,Yes
+276962,Undeclared,3.81,880,No,No,Yes,F,0,5,D,2,Y,Yes
+65622,Undeclared Engineering,3.59,860,Yes,Yes,No,M,17,8,D,2,Y,Yes
+95090,Social and Cognitive Science,3.03,550,,No,No,M,8,5,D,2,Y,Yes
+118106,Undeclared,2.75,930,,No,Yes,F,0,1,D,2,Y,Yes
+205852,Undeclared,3,940,,No,No,M,8,7,D,2,Y,Yes
+240984,Economics,3.77,980,,No,No,F,0,2,D-,2,Y,Yes
+209504,Undeclared,3.74,1130,Yes,No,No,F,0,2,D-,2,Y,Yes
+240260,Computer Science & Engineering,3.77,770,No,No,No,F,0,6,D-,2,Y,Yes
+236784,Computer Science & Engineering,3.77,810,No,No,No,F,0,6,D-,2,Y,Yes
+199548,Undeclared,3.72,850,,Yes,No,F,0,6,D-,2,Y,Yes
+216684,Undeclared,3.75,870,,No,No,F,0,6,D-,2,Y,Yes
+246740,Public Health,3.78,950,No,No,No,F,0,6,D-,2,Y,Yes
+202248,English,3.73,1000,Yes,Yes,No,F,0,6,D-,2,Y,Yes
+190360,Undeclared,3,1090,Yes,No,No,F,0,6,D-,2,Y,Yes
+181270,Biological Sciences,2.95,1180,Yes,Yes,No,F,0,6,D-,2,Y,Yes
+202688,Biological Sciences,3.73,750,,Yes,Yes,F,0,,D-,2,Y,Yes
+79670,Computer Science & Engineering,3.6,740,,Yes,Yes,M,6,6,D-,2,Y,Yes
+67828,Environmental Engineering,3.6,750,Yes,Yes,No,F,14,6,D-,2,Y,Yes
+70818,Literatures and Cultures,3.6,750,No,No,Yes,F,0,6,D-,2,Y,Yes
+65764,Undeclared,3.59,1060,,Yes,No,F,4,6,D-,2,Y,Yes
+242422,Applied Mathematical Sciences,3.77,740,,Yes,No,F,0,6,D-,2,Y,Yes
+92780,Mechanical Engineering,3.62,1170,,Yes,Yes,F,0,2,D+,2,Y,Yes
+140848,Biological Sciences,2.85,810,,No,Yes,F,0,,D+,2,Y,Yes
+80972,Management & Business Economics,2.5,870,No,No,Yes,F,0,6,D+,2,Y,Yes
+112992,Environmental Engineering,3.64,790,,No,Yes,F,6,3,B+,2,Y,Yes
+204794,Undeclared,3,810,,No,No,M,6,2,B+,2,Y,Yes
+183294,Psychology,3.71,810,No,No,Yes,F,8,7,C-,2,Y,Yes
+272326,Earth Systems Science,3.8,820,Yes,Yes,No,F,8,7,C-,2,Y,Yes
+199186,Undeclared Natural Sciences,3.72,900,Yes,Yes,Yes,F,10,7,C-,2,Y,Yes
+175704,Mechanical Engineering,3.7,1030,,Yes,Yes,F,9,7,C-,2,Y,Yes
+171120,Psychology,3.7,1130,Yes,Yes,Yes,F,10,7,C-,2,Y,Yes
+176958,Undeclared,3.7,1160,Yes,Yes,Yes,F,20,7,C-,2,Y,Yes
+251698,Biological Sciences,3.78,800,,Yes,Yes,M,7,7,C-,2,Y,Yes
+194160,Undeclared,3,940,,No,Yes,M,6,1,D,2,Y,Yes
+165830,Psychology,3.7,740,,Yes,Yes,F,0,7,D-,2,Y,Yes
+184298,Biological Sciences,3.71,890,,Yes,No,F,0,7,D-,2,Y,Yes
+62634,Political Science,3.59,1080,Yes,No,Yes,F,0,3,D+,2,Y,Yes
+64674,Materials Sci & Engineering,3.59,1120,,Yes,Yes,F,0,3,D+,2,Y,Yes
+67040,Undeclared SSHA,2.37,660,,Yes,Yes,F,0,7,D+,2,Y,Yes
+269556,Applied Mathematical Sciences,3.8,1070,Yes,Yes,No,F,0,7,D+,2,Y,Yes
+66778,Management & Business Economics,2.37,830,,Yes,No,F,0,7,F,2,Y,Yes
+119870,Bioengineering,3.65,990,,Yes,No,F,0,7,F,2,Y,Yes
+108672,Psychology,3.63,1010,Yes,No,No,F,0,7,F,2,Y,Yes
+235310,Undeclared,3.77,760,No,No,Yes,F,0,8,I,2,Y,Yes
+189550,Computer Science & Engineering,3.72,830,No,No,Yes,F,0,8,I,2,Y,Yes
+154658,Biological Sciences,2.99,1110,Yes,Yes,No,F,0,2,W,2,Y,Yes
+172654,Undeclared SSHA,3.05,1230,Yes,Yes,No,F,0,,W,2,Y,Yes
+281294,Bioengineering,3.12,1060,Yes,No,No,F,0,3,W,2,Y,Yes
+247748,Mechanical Engineering,3.78,1260,,Yes,No,F,0,3,W,2,Y,Yes
+273826,History,3.11,820,,No,No,F,0,5,W,2,Y,Yes
+279576,Political Science,3.12,880,Yes,Yes,No,F,0,,W,2,Y,Yes
+157462,Management & Business Economics,3.68,940,,No,Yes,F,6,5,W,2,Y,Yes
+278524,Economics,3.12,1050,,Yes,No,F,0,5,W,2,Y,Yes
+273924,Biological Sciences,3.11,1080,,No,No,F,0,5,W,2,Y,Yes
+253562,Biological Sciences,3.08,950,Yes,No,No,F,2,5,A,2,Y,Yes
+268640,Biological Sciences,3.1,960,Yes,No,No,F,12,5,A,2,Y,Yes
+160122,Biological Sciences,3,980,,No,No,F,3,5,A,2,Y,Yes
+186018,Biological Sciences,3.06,980,,No,No,F,3,5,A,2,Y,Yes
+159400,Environmental Engineering,3.68,890,,Yes,Yes,F,10,8,A-,2,Y,Yes
+73200,Political Science,3.6,1050,Yes,,Yes,F,0,6,C,2,Y,Yes
+67258,Biological Sciences,3.6,1070,,Yes,Yes,F,0,6,C,2,Y,Yes
+190174,Mechanical Engineering,3.72,1070,,No,Yes,F,0,6,C,2,Y,Yes
+114822,Management & Business Economics,3.65,1110,Yes,No,Yes,F,0,6,C,2,Y,Yes
+190444,Psychology,3.72,1110,Yes,Yes,Yes,F,0,6,C,2,Y,Yes
+129460,Biological Sciences,3.66,1120,,No,Yes,F,0,6,C,2,Y,Yes
+256366,Computer Science & Engineering,3.79,1120,Yes,Yes,Yes,F,0,6,C,2,Y,Yes
+168950,Political Science,3.7,1110,,Yes,No,F,10,7,C-,2,Y,Yes
+173560,English,3.7,970,,Yes,Yes,M,6,7,C-,2,Y,Yes
+172048,Psychology,3.7,1060,,Yes,Yes,F,6,7,C-,2,Y,Yes
+273350,Biological Sciences,3.8,1060,Yes,No,Yes,F,0,7,C-,2,Y,Yes
+169920,Biological Sciences,3.7,1070,,No,No,F,12,7,C-,2,Y,Yes
+269782,Political Science,3.8,1140,Yes,No,No,M,10,7,C-,2,Y,Yes
+283032,Psychology,3.12,1110,Yes,Yes,Yes,F,6,7,C-,2,Y,Yes
+210512,Undeclared,3,880,,Yes,No,M,6,3,D,2,Y,Yes
+123926,Materials Sci & Engineering,3.65,830,,Yes,No,M,18,,D,2,Y,Yes
+245318,Biological Sciences,3.77,780,No,No,Yes,F,0,5,D,2,Y,Yes
+99768,Undeclared,3.63,990,,Yes,Yes,F,12,1,D,2,Y,Yes
+207852,Undeclared,3,760,,No,Yes,F,0,3,D,2,Y,Yes
+251640,Biological Sciences,3.08,770,No,No,Yes,F,0,3,D,2,Y,Yes
+247466,Biological Sciences,3.08,780,,No,Yes,F,0,3,D,2,Y,Yes
+170356,Undeclared SSHA,2.94,860,,No,Yes,F,6,3,D,2,Y,Yes
+131698,Undeclared,2.8,910,Yes,Yes,No,F,0,3,D,2,Y,Yes
+189532,Undeclared,3,910,,No,Yes,F,0,3,D,2,Y,Yes
+202116,Undeclared,3,910,,No,Yes,F,0,3,D,2,Y,Yes
+95042,Biological Sciences,2.63,920,,Yes,No,M,6,3,D,2,Y,Yes
+195876,Undeclared,3,920,,No,Yes,F,0,3,D,2,Y,Yes
+158696,Biological Sciences,2.9,940,,No,Yes,F,0,3,D,2,Y,Yes
+204300,Undeclared,3,940,,No,No,F,0,3,D,2,Y,Yes
+201858,Undeclared,3,950,,No,Yes,F,0,3,D,2,Y,Yes
+216092,Undeclared,3.03,950,,No,No,M,6,3,D,2,Y,Yes
+208872,Undeclared,3,1000,,No,No,M,6,3,D,2,Y,Yes
+210560,Undeclared,3,1000,Yes,No,Yes,F,6,3,D,2,Y,Yes
+99536,Social and Cognitive Science,2.66,1030,,No,Yes,F,0,3,D,2,Y,Yes
+172956,Management & Business Economics,2.95,1050,Yes,Yes,Yes,F,6,3,D,2,Y,Yes
+162782,Undeclared SSHA,2.9,1060,,Yes,No,F,0,3,D,2,Y,Yes
+191908,Undeclared,3,1060,Yes,No,Yes,F,0,3,D,2,Y,Yes
+180660,Biological Sciences,2.95,1070,Yes,Yes,No,F,0,3,D,2,Y,Yes
+186070,Undeclared,2.96,1080,,Yes,Yes,F,0,3,D,2,Y,Yes
+217252,Undeclared,3.04,1080,,Yes,No,M,6,3,D,2,Y,Yes
+178442,Undeclared,2.95,1090,Yes,No,No,F,0,3,D,2,Y,Yes
+166636,Biological Sciences,2.91,1100,Yes,Yes,No,M,6,3,D,2,Y,Yes
+176860,Economics,2.95,1100,,Yes,No,F,0,,D,2,Y,Yes
+211772,Undeclared,3,1110,Yes,No,Yes,F,0,3,D,2,Y,Yes
+85844,Undeclared,2.55,1120,Yes,No,No,F,0,3,D,2,Y,Yes
+189968,Undeclared,3,1120,,Yes,Yes,F,0,3,D,2,Y,Yes
+184836,Undeclared,2.95,1130,Yes,Yes,Yes,F,6,3,D,2,Y,Yes
+205062,Undeclared,3,1130,Yes,No,No,F,0,3,D,2,Y,Yes
+84252,Undeclared,2.54,1270,,Yes,Yes,F,0,3,D,2,Y,Yes
+105846,Undeclared,2.7,1150,,Yes,No,M,6,2,D,2,Y,Yes
+166126,Biological Sciences,3.7,1220,Yes,Yes,No,F,0,3,D,2,Y,Yes
+261720,Anthropology,3.8,750,Yes,Yes,Yes,F,12,2,D-,2,Y,Yes
+178268,Physics,2.95,910,Yes,Yes,No,F,0,2,D-,2,Y,Yes
+146296,Undeclared,3.68,1150,Yes,Yes,No,F,0,6,D-,2,Y,Yes
+170856,Undeclared SSHA,2.94,920,Yes,Yes,Yes,F,0,2,D+,2,Y,Yes
+162296,Physics,2.9,1070,Yes,,Yes,F,0,2,D+,2,Y,Yes
+199466,Undeclared,3,1110,,Yes,Yes,F,0,2,D+,2,Y,Yes
+158596,Undeclared,3.68,740,Yes,Yes,No,F,0,6,D+,2,Y,Yes
+66068,Undeclared,2.35,910,,Yes,Yes,F,0,6,D+,2,Y,Yes
+188782,Management & Business Economics,3.72,930,Yes,No,Yes,F,0,6,D+,2,Y,Yes
+65636,Biological Sciences,3.59,1140,,Yes,No,F,0,6,D+,2,Y,Yes
+108306,Undeclared SSHA,3.63,960,,No,Yes,F,0,2,D+,2,Y,Yes
+233748,Anthropology,3.76,960,Yes,Yes,No,F,0,7,F,2,Y,Yes
+64050,Undeclared Engineering,3.59,770,,Yes,No,F,0,7,F,2,Y,Yes
+77126,Management & Business Economics,3.6,990,Yes,No,No,F,0,1,F,2,Y,Yes
+219268,Undeclared,3.04,850,,Yes,No,M,13,2,F,2,Y,Yes
+229658,Management & Business Economics,3.04,1100,,Yes,Yes,M,14,2,F,2,Y,Yes
+233364,Computer Science & Engineering,3.05,1250,,Yes,No,M,9,2,F,2,Y,Yes
+92536,Undeclared,2.61,730,Yes,Yes,No,F,0,5,F,2,Y,Yes
+77744,Undeclared,2.46,800,Yes,Yes,No,F,0,5,F,2,Y,Yes
+65462,Chemical Sciences,3.59,1100,,No,No,F,0,7,F,2,Y,Yes
+120206,Computer Science & Engineering,3.65,920,Yes,No,No,F,0,5,F,2,Y,Yes
+77918,Economics,3.6,950,,Yes,Yes,F,0,3,F,2,Y,Yes
+38936,Biological Sciences,3.59,850,,Yes,No,F,10,3,F,2,Y,Yes
+174698,Undeclared,2.95,1130,,Yes,No,F,0,6,F,2,Y,Yes
+229192,Undeclared SSHA,3.04,1130,Yes,Yes,No,F,0,6,F,2,Y,Yes
+77824,Bioengineering,3.6,760,,Yes,No,F,0,2,F,2,Y,Yes
+78112,Biological Sciences,3.6,840,,Yes,No,F,0,2,F,2,Y,Yes
+77792,Applied Mathematical Sciences,3.6,990,Yes,Yes,No,F,0,2,F,2,Y,Yes
+78050,Psychology,3.6,1010,Yes,Yes,No,F,0,2,F,2,Y,Yes
+61608,Psychology,3.59,1040,,Yes,No,F,0,2,F,2,Y,Yes
+233388,Undeclared,3.05,1070,Yes,Yes,Yes,M,8,6,F,2,Y,Yes
+108924,Mechanical Engineering,3.63,900,,Yes,No,F,0,2,F,2,Y,Yes
+197912,Biological Sciences,3.72,660,Yes,Yes,Yes,F,0,8,I,2,Y,Yes
+202302,Biological Sciences,3.73,870,Yes,Yes,Yes,F,0,8,I,2,Y,Yes
+244470,Psychology,3.77,1250,,Yes,Yes,F,0,8,I,2,Y,Yes
+115932,Undeclared,2.85,1070,,Yes,No,F,0,1,W,2,Y,Yes
+265910,Biological Sciences,3.1,1120,,No,No,F,0,2,W,2,Y,Yes
+262098,Political Science,3.8,850,,Yes,No,F,0,3,W,2,Y,Yes
+247088,Sociology,3.78,1010,Yes,Yes,No,F,0,3,W,2,Y,Yes
+280398,Undeclared,3.12,1030,Yes,Yes,No,F,0,3,W,2,Y,Yes
+284568,Economics,3.13,1250,,Yes,No,F,0,,W,2,Y,Yes
+283090,Psychology,3.12,1080,Yes,Yes,No,F,0,4,W,2,Y,Yes
+87444,Social and Cognitive Science,2.67,1060,,No,No,F,0,5,W,2,Y,Yes
+261040,Undeclared,3.09,1080,Yes,Yes,No,F,0,,W,2,Y,Yes
+272814,Undeclared,3.11,890,,Yes,No,F,0,,W,2,Y,Yes
+172802,Undeclared SSHA,3.05,1100,,,No,F,0,6,W,2,Y,Yes
+277754,Physics,3.12,1130,Yes,Yes,No,F,0,6,W,2,Y,Yes
+282836,Psychology,3.12,1080,,Yes,No,F,0,7,W,2,Y,Yes
+76428,Psychology,2.55,1000,,Yes,No,F,0,,W,2,Y,Yes
+257096,Biological Sciences,3.09,1160,Yes,Yes,No,M,0,,W,2,Y,Yes
+273114,Biological Sciences,3.11,700,,Yes,No,F,0,10,W,2,Y,Yes
+67312,Undeclared,3.6,950,Yes,Yes,Yes,F,0,3,C-,2.1,Y,No
+125980,Undeclared Natural Sciences,2.78,1030,,No,Yes,F,0,3,C-,2.1,Y,No
+63342,Political Science,3.59,1050,Yes,Yes,Yes,F,0,3,C-,2.1,Y,No
+63190,Literatures and Cultures,3.59,1130,,No,Yes,F,0,3,C-,2.1,Y,No
+74864,Chemical Sciences,3.6,910,,Yes,Yes,F,0,3,C-,2.1,Y,No
+29862,Undeclared Natural Sciences,3.59,910,No,,No,F,4,3,C+,2.1,Y,No
+64136,Undeclared SSHA,3.59,1280,,Yes,No,F,0,8,C+,2.1,Y,No
+176566,Environmental Engineering,3.7,950,,No,Yes,F,10,3,D,2.1,Y,No
+65544,Undeclared Engineering,3.59,890,No,No,No,M,0,8,D,2.1,Y,No
+96758,Materials Sci & Engineering,3.62,750,,Yes,No,F,0,8,D-,2.1,Y,No
+181042,Computer Science & Engineering,2.95,1260,,Yes,Yes,F,0,3,D+,2.1,Y,No
+48498,Undeclared,3.59,1000,Yes,Yes,Yes,M,8,3,F,2.1,Y,No
+65306,Undeclared,3.59,770,No,No,No,F,0,,F,2.1,Y,No
+67484,Psychology,3.6,790,,Yes,No,F,0,3,F,2.1,Y,No
+188060,Biological Sciences,3.72,870,,Yes,No,F,0,3,F,2.1,Y,No
+184092,English,3.71,940,Yes,,No,F,0,,F,2.1,Y,No
+189220,Undeclared SSHA,3.72,1060,Yes,No,No,M,0,2,F,2.1,Y,No
+229764,Computer Science & Engineering,3.76,1280,,Yes,No,M,0,2,F,2.1,Y,No
+114400,Undeclared,2.73,1060,,Yes,No,M,10,3,A,2.1,Y,Yes
+126464,Psychology,3.65,880,,Yes,No,F,0,7,A,2.1,Y,Yes
+61268,Undeclared SSHA,3.59,770,,Yes,No,M,14,8,A,2.1,Y,Yes
+77210,Literatures and Cultures,3.6,920,Yes,Yes,Yes,F,2,8,A+,2.1,Y,Yes
+150768,Undeclared,3.68,1080,,Yes,Yes,F,6,3,A+,2.1,Y,Yes
+177702,Psychology,3.7,1100,,Yes,Yes,F,4,3,A+,2.1,Y,Yes
+108050,Undeclared,2.7,960,,No,Yes,M,12,4,A+,2.1,Y,Yes
+156754,Psychology,3.68,1170,,Yes,No,M,4,6,A+,2.1,Y,Yes
+77152,Undeclared,3.6,910,Yes,Yes,No,M,8,8,A+,2.1,Y,Yes
+79286,Biological Sciences,3.6,910,Yes,Yes,Yes,F,3,8,A+,2.1,Y,Yes
+67826,Political Science,3.6,920,Yes,No,Yes,F,4,8,A+,2.1,Y,Yes
+76752,Psychology,3.6,930,,No,No,F,0,8,A+,2.1,Y,Yes
+67456,Management & Business Economics,3.6,940,,Yes,No,F,8,8,A+,2.1,Y,Yes
+126966,Mechanical Engineering,3.65,980,,No,No,F,9,8,A+,2.1,Y,Yes
+69580,Bioengineering,3.6,1010,,Yes,Yes,M,6,8,A+,2.1,Y,Yes
+86642,Biological Sciences,3.61,1010,Yes,Yes,Yes,M,2,8,A+,2.1,Y,Yes
+74780,Psychology,3.6,1020,,Yes,Yes,M,8,8,A+,2.1,Y,Yes
+112682,Biological Sciences,3.64,1030,,No,Yes,F,0,8,A+,2.1,Y,Yes
+67496,Biological Sciences,3.6,1040,,Yes,No,F,1,8,A+,2.1,Y,Yes
+74474,Literatures and Cultures,3.6,1050,,Yes,Yes,M,10,8,A+,2.1,Y,Yes
+86512,Management & Business Economics,3.61,1060,,Yes,Yes,F,9,8,A+,2.1,Y,Yes
+70994,Biological Sciences,3.6,1070,Yes,Yes,No,M,11,8,A+,2.1,Y,Yes
+146264,Bioengineering,3.68,1070,,Yes,Yes,F,0,8,A+,2.1,Y,Yes
+85168,Undeclared,3.61,1090,Yes,Yes,Yes,M,0,8,A+,2.1,Y,Yes
+110602,Mechanical Engineering,3.64,1090,Yes,No,No,M,6,8,A+,2.1,Y,Yes
+84128,Computer Science & Engineering,3.61,1110,,No,Yes,F,2,8,A+,2.1,Y,Yes
+70662,Materials Sci & Engineering,3.6,1150,Yes,Yes,Yes,M,4,8,A+,2.1,Y,Yes
+121266,Undeclared Natural Sciences,3.65,1180,,Yes,Yes,F,6,8,A+,2.1,Y,Yes
+70378,Sociology,3.6,1280,,Yes,Yes,M,0,,A+,2.1,Y,Yes
+99968,Economics,3.63,960,,Yes,Yes,F,5,4,B+,2.1,Y,Yes
+68650,Psychology,3.6,870,,No,Yes,F,0,8,C,2.1,Y,Yes
+67626,Economics,3.6,810,No,No,Yes,F,10,8,C,2.1,Y,Yes
+69038,Biological Sciences,3.6,860,,Yes,Yes,M,0,8,C,2.1,Y,Yes
+71416,Sociology,3.6,860,Yes,Yes,No,F,12,8,C,2.1,Y,Yes
+84092,Biological Sciences,2.54,1120,Yes,Yes,No,M,0,3,C,2.1,Y,Yes
+70424,Sociology,3.6,950,Yes,Yes,Yes,F,0,3,C-,2.1,Y,Yes
+64650,Materials Sci & Engineering,3.59,640,,Yes,Yes,F,0,3,C-,2.1,Y,Yes
+73768,Mechanical Engineering,3.6,770,Yes,Yes,Yes,F,0,3,C-,2.1,Y,Yes
+74026,Undeclared,2.4,840,Yes,Yes,Yes,F,0,3,C-,2.1,Y,Yes
+72678,Sociology,3.6,950,Yes,Yes,Yes,F,0,3,C-,2.1,Y,Yes
+65170,Undeclared,3.59,990,Yes,Yes,Yes,F,0,3,C-,2.1,Y,Yes
+121538,Undeclared,3.65,710,Yes,Yes,Yes,M,10,8,C-,2.1,Y,Yes
+65406,Undeclared,3.59,910,Yes,Yes,Yes,F,12,8,C-,2.1,Y,Yes
+108960,Undeclared,3.63,1040,Yes,,Yes,F,0,7,C-,2.1,Y,Yes
+64320,Computer Science & Engineering,3.59,940,Yes,Yes,Yes,F,10,8,C+,2.1,Y,Yes
+74754,Biological Sciences,3.6,800,No,No,No,F,7,5,D,2.1,Y,Yes
+73494,Computer Science & Engineering,3.6,840,,No,No,F,2,5,D,2.1,Y,Yes
+242960,Undeclared,3.06,730,,No,No,M,6,3,D,2.1,Y,Yes
+243314,Computer Science & Engineering,3.07,930,,No,No,M,6,3,D,2.1,Y,Yes
+74416,Biological Sciences,3.6,1020,,Yes,No,M,6,3,D,2.1,Y,Yes
+75096,Undeclared Natural Sciences,3.6,1110,,Yes,No,M,6,3,D,2.1,Y,Yes
+74250,Sociology,3.6,750,No,No,No,M,10,8,D-,2.1,Y,Yes
+68888,Biological Sciences,3.6,880,Yes,Yes,No,F,0,3,D+,2.1,Y,Yes
+76022,Undeclared,3.6,920,,Yes,Yes,F,7,3,F,2.1,Y,Yes
+161544,History,3.69,980,,Yes,No,M,4,3,F,2.1,Y,Yes
+66402,Undeclared,2.36,570,Yes,Yes,No,F,0,3,F,2.1,Y,Yes
+115326,Undeclared,2.75,920,,Yes,No,F,0,3,F,2.1,Y,Yes
+66026,Computer Science & Engineering,2.35,940,Yes,No,No,F,0,3,F,2.1,Y,Yes
+238940,Economics,3.77,1050,,Yes,No,F,0,3,F,2.1,Y,Yes
+253892,Applied Mathematical Sciences,3.79,1090,,No,No,F,0,10,F,2.1,Y,Yes
+188954,Undeclared Engineering,3,990,,No,Yes,F,0,3,I,2.1,Y,Yes
+258696,Psychology,3.79,1230,Yes,Yes,Yes,F,0,3,I,2.1,Y,Yes
+220134,Undeclared,3.04,1240,Yes,Yes,Yes,F,0,3,I,2.1,Y,Yes
+109348,Undeclared,2.71,1120,Yes,No,No,M,8,4,A+,2.11,Y,No
+154804,Psychology,3.68,790,,Yes,No,F,0,8,C,2.11,Y,No
+150448,Computer Science & Engineering,3.68,920,,Yes,No,F,0,5,A,2.12,Y,No
+158086,Undeclared SSHA,3.68,610,Yes,Yes,Yes,F,0,8,A,2.12,Y,No
+59568,Undeclared SSHA,2.33,870,,No,No,F,0,5,A-,2.12,Y,No
+60956,Undeclared,4.14,1090,,No,Yes,M,10,5,A-,2.12,Y,No
+60528,Undeclared SSHA,4.14,1460,,Yes,Yes,M,7,5,A-,2.12,Y,No
+60676,Undeclared SSHA,4.14,1590,,Yes,Yes,M,7,5,A-,2.12,Y,No
+154022,Undeclared,3.68,920,No,No,Yes,F,2,8,A+,2.12,Y,No
+169160,Computer Science & Engineering,3.7,920,Yes,Yes,Yes,F,6,8,A+,2.12,Y,No
+164528,Biological Sciences,3.69,990,,Yes,Yes,M,12,8,A+,2.12,Y,No
+198216,Bioengineering,3.72,990,,Yes,Yes,F,1,8,A+,2.12,Y,No
+155034,Undeclared,3.68,1020,,Yes,No,M,6,8,A+,2.12,Y,No
+161350,Undeclared SSHA,3.69,1110,,Yes,No,F,14,8,A+,2.12,Y,No
+163440,Biological Sciences,3.69,1110,,No,No,F,6,8,A+,2.12,Y,No
+165644,Undeclared,3.7,1120,,No,Yes,F,4,8,A+,2.12,Y,No
+177512,Cognitive Science,3.7,1130,,Yes,Yes,F,5,8,A+,2.12,Y,No
+30470,Undeclared,3.08,870,,Yes,No,F,5,5,B,2.12,Y,No
+30742,Undeclared,3.08,580,,Yes,Yes,F,0,,B-,2.12,Y,No
+177096,Public Health,3.7,740,,No,No,F,2,3,B+,2.12,Y,No
+177840,Public Health,3.7,750,,No,Yes,F,2,3,B+,2.12,Y,No
+113394,Mechanical Engineering,3.64,820,,No,Yes,F,4,3,B+,2.12,Y,No
+132172,Undeclared,2.8,1050,Yes,No,Yes,M,8,4,B+,2.12,Y,No
+121228,Psychology,3.65,1000,,No,No,F,0,5,B+,2.12,Y,No
+55706,Undeclared SSHA,4.2,1170,,Yes,No,F,0,5,B+,2.12,Y,No
+154632,Undeclared,3.68,800,,No,Yes,F,2,8,C,2.12,Y,No
+163536,Physics,3.69,810,,Yes,No,M,5,,C,2.12,Y,No
+173688,Sociology,3.7,850,No,No,Yes,M,0,8,C,2.12,Y,No
+174540,Psychology,3.7,870,Yes,Yes,Yes,F,2,8,C,2.12,Y,No
+161466,Political Science,3.69,890,No,,No,M,2,8,C,2.12,Y,No
+182660,Undeclared,3.71,890,,Yes,Yes,F,0,8,C,2.12,Y,No
+99310,Applied Mathematical Sciences,3.62,950,No,No,Yes,F,0,4,C-,2.12,Y,No
+31140,Undeclared SSHA,3.02,790,,No,Yes,F,1,2,C-,2.12,Y,No
+176980,Management & Business Economics,3.05,990,Yes,No,Yes,F,0,5,C+,2.12,Y,No
+164502,Management & Business Economics,3.69,740,,No,No,F,0,8,D-,2.12,Y,No
+31900,Undeclared,3.04,540,,Yes,Yes,F,2,2,D-,2.12,Y,No
+183632,Chemical Sciences,3.71,720,No,No,Yes,F,4,8,D+,2.12,Y,No
+174290,Management & Business Economics,3.7,930,,No,Yes,F,0,,W,2.12,Y,No
+153744,Economics,3.68,930,,Yes,No,F,0,5,A,2.12,Y,Yes
+60804,Undeclared SSHA,4.14,1510,Yes,Yes,No,F,1,5,A-,2.12,Y,Yes
+60970,Bioengineering,2.34,1090,,Yes,No,F,0,5,A-,2.12,Y,Yes
+60508,Undeclared SSHA,4.14,1280,,Yes,Yes,F,0,5,A-,2.12,Y,Yes
+60282,Undeclared,4.14,1390,,Yes,Yes,M,9,5,A-,2.12,Y,Yes
+60950,Undeclared SSHA,4.14,1400,,Yes,No,F,7,5,A-,2.12,Y,Yes
+60778,Literatures and Cultures,4.14,1410,Yes,No,No,F,2,5,A-,2.12,Y,Yes
+60890,Undeclared SSHA,4.14,1420,,No,No,F,1,5,A-,2.12,Y,Yes
+203754,Computer Science & Engineering,3.73,910,,No,Yes,M,4,8,A+,2.12,Y,Yes
+147934,Psychology,3.68,940,,Yes,No,M,0,8,A+,2.12,Y,Yes
+148926,Psychology,3.68,940,Yes,Yes,No,F,0,8,A+,2.12,Y,Yes
+171780,Biological Sciences,3.7,940,Yes,No,Yes,F,4,8,A+,2.12,Y,Yes
+174352,English,3.7,940,Yes,No,Yes,F,0,8,A+,2.12,Y,Yes
+168990,Computer Science & Engineering,3.7,1020,Yes,Yes,No,M,8,8,A+,2.12,Y,Yes
+161738,Mechanical Engineering,3.69,1050,,Yes,No,F,3,8,A+,2.12,Y,Yes
+175130,Management & Business Economics,3.7,1060,Yes,Yes,No,F,2,8,A+,2.12,Y,Yes
+189160,Economics,3.72,1060,,No,No,M,0,8,A+,2.12,Y,Yes
+202244,Computer Science & Engineering,3.73,680,,No,Yes,F,0,8,B,2.12,Y,Yes
+108848,Undeclared,3.63,980,,,No,F,0,4,B-,2.12,Y,Yes
+170148,Political Science,3.7,810,,Yes,Yes,M,0,,C,2.12,Y,Yes
+177704,Undeclared,3.7,840,,Yes,Yes,F,2,8,C,2.12,Y,Yes
+165642,Psychology,2.91,780,Yes,Yes,No,M,7,4,C,2.12,Y,Yes
+164002,Economics,2.91,820,,Yes,Yes,M,13,4,C,2.12,Y,Yes
+167376,Mechanical Engineering,3.7,700,Yes,Yes,Yes,F,4,8,C,2.12,Y,Yes
+157630,Political Science,2.9,1050,Yes,Yes,Yes,F,0,4,I,2.12,Y,Yes
+211024,Management & Business Economics,3.75,940,,No,No,F,8,5,W,2.12,Y,Yes
+169224,Undeclared Engineering,3.7,910,,Yes,No,F,0,6,A,2.13,Y,No
+209146,Biological Sciences,3.74,1120,Yes,No,Yes,F,4,8,A+,2.13,Y,No
+264024,Economics,3.1,790,No,No,No,F,0,2,F,2.15,N,No
+126392,Undeclared,2.98,900,,No,Yes,F,0,1,A,2.15,Y,No
+173556,Management & Business Economics,3.7,930,,Yes,No,F,0,9,A,2.15,Y,No
+70776,Undeclared,3.6,960,Yes,Yes,No,F,0,9,A,2.15,Y,No
+148246,Political Science,3.68,930,,Yes,No,F,0,8,A,2.15,Y,No
+60992,Management & Business Economics,4.14,1380,,Yes,Yes,F,0,6,A,2.15,Y,No
+197976,Undeclared,3,950,,No,Yes,F,0,7,A-,2.15,Y,No
+220726,Mechanical Engineering,3.75,1010,,No,No,F,0,7,A-,2.15,Y,No
+238318,Computer Science & Engineering,3.77,920,,No,No,F,0,8,A+,2.15,Y,No
+211434,Psychology,3.75,930,Yes,No,Yes,F,0,8,A+,2.15,Y,No
+220010,Psychology,3.75,940,Yes,Yes,No,F,2,,A+,2.15,Y,No
+209154,Political Science,3.74,950,Yes,No,Yes,F,0,8,A+,2.15,Y,No
+245908,Management & Business Economics,3.77,960,,Yes,No,F,0,8,A+,2.15,Y,No
+219864,Computer Science & Engineering,3.75,1130,Yes,Yes,No,F,0,8,A+,2.15,Y,No
+229502,Psychology,3.76,1140,Yes,No,No,F,8,8,A+,2.15,Y,No
+231688,Undeclared SSHA,3.76,1230,,Yes,Yes,F,0,8,A+,2.15,Y,No
+243286,Materials Sci & Engineering,3.77,1280,Yes,Yes,No,F,0,8,A+,2.15,Y,No
+266046,Economics,3.8,920,,No,No,F,0,8,A+,2.15,Y,No
+271656,Biological Sciences,3.8,1140,,Yes,No,F,7,8,A+,2.15,Y,No
+30888,Sociology,3.59,1120,,No,No,M,10,,B,2.15,Y,No
+263410,Mechanical Engineering,3.1,1010,,No,Yes,F,0,7,B,2.15,Y,No
+108514,Spanish,3.63,1010,,No,No,F,0,7,B,2.15,Y,No
+258692,Mechanical Engineering,3.79,820,No,No,Yes,M,5,8,C,2.15,Y,No
+186376,Earth Systems Science,2.96,980,,No,Yes,M,7,4,D,2.15,Y,No
+180796,Management & Business Economics,2.95,1050,,Yes,No,M,6,4,D+,2.15,Y,No
+179156,Anthropology,3.7,1130,,Yes,No,F,0,6,F,2.15,Y,No
+254892,Biological Sciences,3.09,940,Yes,Yes,No,F,0,9,A,2.15,Y,Yes
+171898,Biological Sciences,3.7,990,Yes,,No,F,0,9,A,2.15,Y,Yes
+165806,Undeclared,3.7,1080,Yes,Yes,No,F,0,9,A,2.15,Y,Yes
+245222,Undeclared,3.77,1000,Yes,Yes,No,F,0,,A-,2.15,Y,Yes
+60716,Management & Business Economics,4.14,1230,Yes,Yes,No,M,12,6,A-,2.15,Y,Yes
+267300,Biological Sciences,3.8,940,,No,Yes,M,8,8,A+,2.15,Y,Yes
+244454,Anthropology,3.77,990,Yes,Yes,No,F,0,8,A+,2.15,Y,Yes
+262168,Biological Sciences,3.8,780,,Yes,No,M,8,8,C,2.15,Y,Yes
+248310,Computer Science & Engineering,3.78,800,,Yes,No,M,8,8,C,2.15,Y,Yes
+244922,Physics,3.77,890,,,Yes,F,0,8,C,2.15,Y,Yes
+203498,Undeclared,3,1110,,No,No,M,9,4,D,2.15,Y,Yes
+220084,Mechanical Engineering,3.75,740,,No,No,F,2,8,D-,2.15,Y,Yes
+96060,Undeclared SSHA,2.65,1060,,No,No,F,0,2,F,2.15,Y,Yes
+120862,Undeclared,2.76,1260,,Yes,No,F,0,2,F,2.15,Y,Yes
+75438,Sociology,3.6,910,,,No,F,0,6,F,2.15,Y,Yes
+65220,Computer Science & Engineering,3.59,1110,Yes,Yes,No,F,0,6,F,2.15,Y,Yes
+65400,Undeclared,3.59,1220,Yes,Yes,No,F,0,6,F,2.15,Y,Yes
+113982,Biological Sciences,3.64,860,No,No,No,F,0,4,A-,2.17,N,No
+265848,Mechanical Engineering,3.8,990,Yes,Yes,No,F,4,8,A+,2.17,N,No
+265432,History,3.8,1160,Yes,Yes,No,F,4,8,A+,2.17,N,No
+172788,Psychology,3.05,880,,No,Yes,F,0,7,B-,2.17,Y,No
+276188,Undeclared SSHA,3.11,1170,Yes,Yes,Yes,F,0,4,A+,2.18,N,No
+277362,Biological Sciences,3.81,1020,,No,No,F,0,8,A+,2.18,N,No
+271500,Undeclared SSHA,3.11,860,,Yes,No,M,7,4,D-,2.18,N,No
+273922,Undeclared,3.11,1130,,Yes,No,M,12,4,A+,2.18,Y,Yes
+271846,Mechanical Engineering,3.8,1080,,Yes,No,F,2,8,A+,2.18,Y,Yes
+263956,Undeclared,3.8,1120,,Yes,No,M,4,8,A+,2.18,Y,Yes
+264034,Undeclared SSHA,3.8,820,No,No,No,F,20,8,C,2.18,Y,Yes
+192620,Undeclared,3,1070,Yes,Yes,Yes,M,10,4,D,2.18,Y,Yes
+273892,Chemical Sciences,3.81,580,Yes,Yes,No,F,14,7,A,2.2,N,No
+75920,Undeclared,3.62,820,No,No,No,F,6,6,A+,2.2,N,No
+279714,Psychology,3.81,1020,,No,No,F,0,8,A+,2.2,N,No
+195094,Psychology,3.72,580,,No,Yes,F,3,7,B,2.2,N,No
+13598,Mechanical Engineering,3.59,950,Yes,Yes,No,M,2,7,D+,2.2,N,No
+114270,Undeclared,3.03,740,,No,Yes,M,0,7,C+,2.2,Y,No
+279428,Chemical Sciences,3.12,1080,Yes,No,No,F,0,4,A+,2.2,Y,Yes
+282692,Mechanical Engineering,3.81,940,Yes,Yes,No,M,0,8,A+,2.2,Y,Yes
+281786,Biological Sciences,3.81,1060,Yes,Yes,No,F,8,8,A+,2.2,Y,Yes
+282066,Sociology,3.81,1060,Yes,No,Yes,F,12,8,A+,2.2,Y,Yes
+282374,Management &Business Economics,3.81,1060,Yes,No,Yes,F,8,8,A+,2.2,Y,Yes
+276038,Undeclared Engineering,3.81,1260,,Yes,No,F,0,8,A+,2.2,Y,Yes
+282734,Undeclared Natural Sciences,3.81,950,,Yes,Yes,F,4,8,A+,2.21,N,No
+276734,Physics,3.12,1030,,Yes,Yes,F,0,4,A+,2.21,Y,Yes
+284788,Management &Business Economics,3.82,940,,No,No,M,1,8,A+,2.22,N,No
+62088,Management & Business Economics,3.59,990,,Yes,No,M,6,4,B,2.22,N,No
+65578,Biological Sciences,3.59,1080,,Yes,Yes,M,7,4,D,2.22,N,No
+264534,Management & Business Economics,3.1,870,No,No,Yes,F,8,5,W,2.22,N,No
+271392,Environmental Engineering,3.8,910,,Yes,Yes,M,6,8,W,2.22,N,No
+29652,Biological Sciences,3.08,530,,No,No,M,10,1,W,2.22,Y,No
+118808,Undeclared,2.76,1090,Yes,No,No,F,12,9,A,2.22,Y,Yes
+120458,Undeclared,2.76,1100,Yes,Yes,No,F,8,9,A-,2.22,Y,Yes
+284078,Biological Sciences,3.82,1160,Yes,Yes,No,F,11,8,A+,2.22,Y,Yes
+64740,Economics,3.59,920,Yes,Yes,Yes,F,0,4,C,2.22,Y,Yes
+62022,Mechanical Engineering,3.59,970,Yes,Yes,No,M,9,4,B,2.23,N,No
+129662,Undeclared,2.8,1070,,No,No,M,14,9,B+,2.23,N,No
+132118,Undeclared,2.8,1090,Yes,No,Yes,F,16,9,B+,2.23,N,No
+134946,Undeclared,2.81,1130,,No,Yes,M,6,9,B+,2.23,N,No
+131344,Undeclared,2.8,1140,,Yes,No,F,12,9,B+,2.23,N,No
+257288,Management & Business Economics,3.79,780,,No,Yes,F,13,5,W,2.23,N,No
+79692,Anthropology,3.6,820,No,No,Yes,M,6,7,B-,2.23,Y,No
+134266,Undeclared,3.01,590,Yes,No,Yes,F,4,5,C+,2.23,Y,Yes
+277546,Biological Sciences,3.12,1160,,Yes,No,M,2,8,A+,2.25,N,No
+275282,Sociology,3.81,940,,No,No,F,2,5,A,2.25,N,No
+152444,Management & Business Economics,3.68,610,No,No,No,F,0,8,A,2.25,Y,Yes
+159720,Undeclared SSHA,3.68,870,,No,No,F,10,5,B+,2.25,Y,Yes
+125126,Computer Science & Engineering,3.65,800,Yes,Yes,No,F,12,8,C,2.25,Y,Yes
+71770,Chemical Sciences,3.6,820,,Yes,No,M,6,8,C,2.25,Y,Yes
+146068,Biological Sciences,3.68,820,No,No,Yes,M,2,8,C,2.25,Y,Yes
+114672,Economics,3.65,830,,No,Yes,F,7,8,C,2.25,Y,Yes
+68812,Undeclared,3.6,840,Yes,,Yes,M,12,8,C,2.25,Y,Yes
+128392,Biological Sciences,3.66,700,,No,Yes,F,0,8,C,2.25,Y,Yes
+64782,Undeclared,3.59,790,,No,Yes,F,0,8,C,2.25,Y,Yes
+65008,Biological Sciences,3.59,920,Yes,No,Yes,F,0,8,C,2.25,Y,Yes
+67618,Chemical Sciences,3.6,680,No,No,Yes,F,0,3,C-,2.25,Y,Yes
+74558,Physics,3.6,830,,Yes,Yes,F,0,3,C-,2.25,Y,Yes
+78168,Biological Sciences,3.6,840,,Yes,Yes,F,0,3,C-,2.25,Y,Yes
+64556,Psychology,3.59,850,No,No,Yes,F,0,3,C-,2.25,Y,Yes
+63374,Management & Business Economics,3.59,880,,Yes,Yes,F,0,3,C-,2.25,Y,Yes
+67636,Materials Sci & Engineering,3.6,880,,Yes,Yes,F,0,3,C-,2.25,Y,Yes
+67610,Psychology,3.6,920,,No,Yes,F,0,3,C-,2.25,Y,Yes
+69952,Management & Business Economics,3.6,930,Yes,Yes,Yes,F,0,3,C-,2.25,Y,Yes
+74902,Management & Business Economics,3.6,830,,No,Yes,F,0,5,D,2.25,Y,Yes
+78482,Mechanical Engineering,3.6,850,,No,Yes,F,0,5,D,2.25,Y,Yes
+74522,Psychology,3.6,870,Yes,Yes,No,M,4,5,D,2.25,Y,Yes
+74964,Biological Sciences,3.6,880,,No,No,M,0,5,D,2.25,Y,Yes
+29750,Biological Sciences,3.59,950,,No,No,F,8,4,D,2.25,Y,Yes
+67090,Psychology,3.6,740,,Yes,Yes,M,6,5,D,2.25,Y,Yes
+242852,Anthropology,3.77,680,,No,No,F,0,2,D-,2.25,Y,Yes
+34370,Psychology,3.59,960,,No,No,M,0,4,D+,2.25,Y,Yes
+231016,Mechanical Engineering,3.76,880,No,No,Yes,F,14,3,F,2.25,Y,Yes
+118222,History,3.65,1040,Yes,Yes,No,F,0,3,F,2.25,Y,Yes
+77474,Chemical Sciences,3.6,1090,,Yes,No,F,0,3,F,2.25,Y,Yes
+79694,Anthropology,3.6,550,,Yes,No,M,1,7,F,2.25,Y,Yes
+96648,Undeclared,3.62,830,,No,No,F,0,4,F,2.25,Y,Yes
+22980,Management & Business Economics,3.02,530,,Yes,Yes,F,9,1,I,2.25,Y,Yes
+142054,Biological Sciences,2.85,860,,No,Yes,F,0,3,I,2.25,Y,Yes
+208580,Economics,3.73,910,,No,Yes,F,0,3,I,2.25,Y,Yes
+216954,Mechanical Engineering,3.75,940,Yes,No,Yes,F,0,3,I,2.25,Y,Yes
+264698,Mechanical Engineering,3.8,1060,,Yes,Yes,F,0,3,I,2.25,Y,Yes
+76154,Undeclared,2.45,1070,Yes,No,Yes,F,0,3,I,2.25,Y,Yes
+148078,Undeclared,2.86,1100,Yes,No,Yes,F,0,3,I,2.25,Y,Yes
+155698,Earth Systems Science,2.9,1180,Yes,Yes,Yes,F,0,3,I,2.25,Y,Yes
+81962,Undeclared,2.7,780,No,No,Yes,F,0,2,A,2.25,Y,Yes
+79590,Biological Sciences,3.6,920,Yes,Yes,Yes,M,4,5,A,2.25,Y,Yes
+129666,Undeclared,2.9,1120,Yes,Yes,Yes,F,0,5,A,2.25,Y,Yes
+285116,Biological Sciences,3.13,860,,No,Yes,F,0,5,C,2.25,Y,Yes
+63396,Undeclared,3.59,980,,No,Yes,F,0,6,C,2.25,Y,Yes
+133960,Psychology,3.66,910,,No,Yes,F,0,,C-,2.25,Y,Yes
+65430,Undeclared SSHA,3.59,1210,,Yes,No,F,4,6,C-,2.25,Y,Yes
+147548,Undeclared Engineering,3.68,880,No,No,Yes,F,0,6,C-,2.25,Y,Yes
+67406,Mechanical Engineering,3.6,820,Yes,Yes,Yes,M,6,7,C-,2.25,Y,Yes
+108916,Psychology,3.63,850,,No,No,F,0,7,C-,2.25,N,No
+105256,Psychology,3.63,1160,,Yes,Yes,F,10,7,C-,2.25,N,No
+155358,Mechanical Engineering,3.68,810,Yes,Yes,No,F,7,7,C-,2.25,N,No
+153380,Sociology,3.68,840,,No,Yes,F,0,7,C-,2.25,Y,Yes
+144554,Undeclared SSHA,3.67,920,,No,Yes,M,6,7,C-,2.25,Y,Yes
+152800,Chemical Sciences,3.68,1020,Yes,Yes,No,F,7,7,C-,2.25,Y,Yes
+189942,Undeclared,3,930,,No,No,M,0,5,C+,2.25,Y,Yes
+198144,Undeclared,3,930,,No,No,M,0,5,C+,2.25,Y,Yes
+203786,Undeclared,3,930,Yes,No,No,M,0,5,C+,2.25,Y,Yes
+194510,Undeclared,3,940,,No,No,M,0,5,C+,2.25,Y,Yes
+200312,Biological Sciences,3,940,,No,No,M,0,5,C+,2.25,Y,Yes
+208434,Undeclared,3,950,,No,No,M,0,5,C+,2.25,Y,Yes
+190112,Undeclared,3,960,Yes,No,No,M,0,5,C+,2.25,Y,Yes
+199954,Undeclared,3,1010,Yes,No,No,M,0,5,C+,2.25,Y,Yes
+194562,Undeclared,3,1050,,No,No,M,0,5,C+,2.25,Y,Yes
+63630,Sociology,3.59,880,,Yes,Yes,M,10,6,C+,2.25,Y,Yes
+261102,Mechanical Engineering,3.8,800,,Yes,Yes,F,14,5,D,2.25,Y,Yes
+29658,Biological Sciences,3.08,600,Yes,Yes,Yes,F,0,1,D,2.25,Y,Yes
+66260,Biological Sciences,2.35,840,No,No,Yes,F,0,1,D,2.25,Y,Yes
+67398,Mechanical Engineering,2.38,960,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+66398,Computer Science & Engineering,2.36,1030,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+78104,Psychology,2.46,1110,,No,Yes,F,0,1,D,2.25,Y,Yes
+95600,Management & Business Economics,2.64,1110,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+66490,Management & Business Economics,2.36,1120,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+97454,Social and Cognitive Science,2.65,1150,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+95804,Psychology,2.64,1200,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+192384,Undeclared,3,1120,Yes,,Yes,M,6,2,D,2.25,Y,Yes
+176390,Computer Science & Engineering,3.7,820,Yes,Yes,No,F,3,5,D,2.25,Y,Yes
+166704,English,3.7,860,Yes,Yes,No,F,8,5,D,2.25,Y,Yes
+72754,Undeclared,2.39,890,No,No,Yes,F,0,5,D+,2.25,Y,Yes
+124392,Undeclared,3.65,910,Yes,No,Yes,F,0,5,D+,2.25,Y,Yes
+107852,Biological Sciences,3.63,930,,No,Yes,F,0,5,D+,2.25,Y,Yes
+75616,Psychology,3.6,950,,No,Yes,F,0,5,D+,2.25,Y,Yes
+124080,Undeclared,2.77,1050,Yes,Yes,Yes,F,0,5,D+,2.25,Y,Yes
+102688,Chemical Sciences,3.63,1050,,No,No,F,0,5,D+,2.25,Y,Yes
+66048,Undeclared,3.6,1060,,No,Yes,F,0,5,D+,2.25,N,No
+80302,Biological Sciences,2.5,1070,,No,Yes,F,0,,D+,2.25,N,No
+119110,Bioengineering,3.65,910,Yes,No,No,F,0,9,D+,2.25,N,No
+100664,Undeclared,3.63,860,,Yes,Yes,F,0,2,D+,2.25,N,No
+285206,Biological Sciences,3.82,1160,,Yes,No,F,0,,D+,2.25,N,No
+85826,Biological Sciences,3.05,550,,No,No,M,2,8,D+,2.25,N,No
+278160,Biological Sciences,3.81,950,,No,Yes,F,0,1,D+,2.25,N,No
+124738,Environmental Engineering,3.65,1100,,Yes,Yes,F,10,6,D+,2.25,N,No
+180864,Undeclared,2.95,950,,No,No,F,15,7,D+,2.25,N,No
+96320,Applied Mathematical Sciences,3.62,830,Yes,Yes,No,F,0,7,F,2.25,N,No
+100590,Mechanical Engineering,3.63,930,,Yes,Yes,M,8,6,A,2.25,Y,Yes
+258006,Management & Business Economics,3.09,760,,No,No,M,0,8,W,2.25,Y,Yes
+266006,Political Science,3.8,960,,No,No,F,2,6,A,2.25,Y,Yes
+198728,Biological Sciences,3.72,1280,,Yes,Yes,M,7,6,A,2.25,Y,No
+174906,Undeclared,3.7,580,,Yes,No,F,7,7,A,2.25,Y,No
+188576,Sociology,3.72,850,,Yes,Yes,F,6,4,A-,2.25,Y,No
+60978,Psychology,3.59,1020,Yes,Yes,Yes,M,6,4,A-,2.25,Y,No
+166294,Undeclared,3.7,1030,Yes,No,No,M,6,3,A+,2.25,Y,No
+118590,Management & Business Economics,3.65,1040,,Yes,No,F,14,8,A+,2.25,Y,No
+41222,Undeclared,3.59,1050,Yes,Yes,No,M,6,8,A+,2.25,Y,No
+56784,Biological Sciences,3.59,1050,Yes,No,No,M,4,8,A+,2.25,Y,No
+154144,Management & Business Economics,3.68,1060,Yes,Yes,Yes,F,4,8,A+,2.25,Y,No
+72738,Biological Sciences,3.6,1080,Yes,Yes,Yes,M,0,8,A+,2.25,Y,No
+103268,Undeclared,3.63,1080,Yes,Yes,Yes,F,2,8,A+,2.25,Y,No
+155890,Biological Sciences,3.68,1080,,Yes,Yes,F,9,8,A+,2.25,Y,No
+84802,Chemical Sciences,3.61,1140,,No,Yes,M,0,8,A+,2.25,Y,No
+75098,Computer Science & Engineering,3.6,1210,Yes,Yes,No,F,7,8,A+,2.25,Y,No
+123838,History,3.65,1260,,Yes,No,M,16,8,A+,2.25,Y,No
+71570,Political Science,3.6,1280,,Yes,Yes,F,10,8,A+,2.25,Y,No
+71902,History,3.6,1280,Yes,Yes,Yes,M,10,8,A+,2.25,Y,No
+70560,Undeclared,3.6,910,,Yes,Yes,F,4,8,A+,2.25,Y,No
+114014,Undeclared,3.64,910,,No,Yes,M,0,8,A+,2.25,Y,No
+122538,Biological Sciences,3.65,910,No,No,No,F,3,8,A+,2.25,Y,No
+71714,Undeclared,3.6,920,,Yes,Yes,F,5,8,A+,2.25,Y,No
+87072,Computer Science & Engineering,3.61,920,,No,Yes,M,0,8,A+,2.25,Y,No
+95392,Psychology,3.62,970,,Yes,Yes,F,8,8,A+,2.25,Y,No
+68316,Biological Sciences,3.6,990,,Yes,Yes,M,6,8,A+,2.25,Y,No
+120922,Mechanical Engineering,3.65,1000,,Yes,No,F,0,8,A+,2.25,Y,No
+105726,Undeclared,3.63,930,,No,No,F,6,8,A+,2.25,Y,No
+274640,Mechanical Engineering,3.11,1000,Yes,No,Yes,F,0,5,B-,2.25,Y,No
+67414,Political Science,3.6,850,,Yes,No,M,4,8,C,2.25,Y,No
+154664,History,3.68,860,,No,No,F,7,8,C,2.25,Y,No
+60722,Undeclared SSHA,3.59,850,,No,No,F,4,8,C,2.25,Y,No
+78224,Undeclared,3.6,930,Yes,,Yes,F,0,3,C-,2.25,Y,No
+68916,Undeclared SSHA,3.6,890,No,No,Yes,F,19,,A+,2.25,Y,No
+120186,Undeclared,3.65,950,No,No,No,F,0,4,A+,2.25,Y,No
+147508,Bioengineering,3.68,960,Yes,No,No,F,22,4,A+,2.25,Y,No
+80306,Sociology,3.61,990,,Yes,Yes,F,0,4,A+,2.25,Y,No
+67478,Undeclared Engineering,3.6,1040,Yes,Yes,No,F,8,4,A+,2.25,Y,No
+75088,Undeclared,3.6,1040,Yes,Yes,No,F,0,,A+,2.25,Y,No
+85010,Physics,3.61,1050,Yes,No,Yes,F,0,4,A+,2.25,Y,No
+159326,English,3.68,1050,,No,No,F,13,4,A+,2.25,Y,No
+121144,Psychology,3.65,1060,Yes,Yes,Yes,M,7,4,A+,2.25,Y,No
+96054,Biological Sciences,3.62,1110,,Yes,Yes,M,9,4,A+,2.25,Y,No
+116244,Psychology,3.65,1120,,Yes,No,F,0,4,A+,2.25,Y,No
+146060,Biological Sciences,3.68,1120,Yes,Yes,Yes,F,0,4,A+,2.25,Y,No
+96218,Psychology,3.62,1140,,Yes,No,F,7,4,A+,2.25,Y,No
+119386,Undeclared,3.65,1140,,No,Yes,F,0,4,A+,2.25,Y,No
+78212,Undeclared Engineering,3.6,1160,,Yes,No,F,10,4,A+,2.25,Y,No
+60836,Undeclared,3.59,1260,,,No,M,12,4,A+,2.25,Y,No
+60920,Psychology,3.59,1280,Yes,Yes,No,M,8,4,A+,2.25,Y,No
+71802,Biological Sciences,3.6,940,,Yes,Yes,F,0,9,A+,2.25,Y,No
+281928,Undeclared Engineering,3.12,950,,No,No,F,0,9,A+,2.25,Y,No
+77488,Chemical Sciences,3.6,950,Yes,Yes,Yes,F,0,9,A+,2.25,Y,No
+275590,Undeclared,3.11,960,,No,No,F,0,9,A+,2.25,Y,No
+279618,Bioengineering,3.12,1010,Yes,No,No,F,0,9,A+,2.25,Y,No
+77556,Earth Systems Science,3.6,1010,,Yes,Yes,F,0,,A+,2.25,Y,No
+279226,Political Science,3.12,1120,,Yes,Yes,M,6,9,A+,2.25,Y,No
+75120,Psychology,3.6,1180,Yes,Yes,No,M,9,9,A+,2.25,Y,No
+43734,Undeclared,3.59,1270,,Yes,No,M,12,4,A+,2.25,Y,No
+62380,Political Science,3.59,900,,No,Yes,M,15,9,B,2.25,Y,No
+63234,Undeclared Engineering,3.59,1080,Yes,No,No,M,12,4,B-,2.25,Y,No
+113952,Undeclared,2.83,1000,Yes,Yes,No,F,0,1,B+,2.25,Y,No
+67664,Literatures and Cultures,3.6,660,,Yes,Yes,F,9,4,B+,2.25,Y,No
+61610,Undeclared SSHA,3.59,1110,Yes,No,No,F,0,4,B+,2.25,Y,No
+136164,Undeclared SSHA,2.82,730,,No,No,M,11,9,B+,2.25,Y,No
+61794,Undeclared,3.59,950,,No,No,F,0,9,B+,2.25,Y,No
+159296,Undeclared,2.9,860,,Yes,No,M,8,9,C,2.25,Y,No
+164092,Biological Sciences,2.91,980,Yes,Yes,No,M,6,9,C,2.25,Y,No
+69180,Political Science,3.6,850,,Yes,Yes,F,8,9,C+,2.25,Y,No
+267548,Psychology,3.1,860,No,No,Yes,M,12,,C+,2.25,Y,No
+142072,Chemical Sciences,2.85,920,,Yes,No,F,0,9,C+,2.25,Y,No
+90830,Undeclared,3.01,530,,Yes,Yes,M,0,2,C+,2.25,Y,No
+67822,Applied Mathematical Sciences,3.6,870,,No,Yes,M,12,9,C+,2.25,Y,No
+156956,Undeclared,3.68,920,,No,Yes,M,8,2,D,2.25,Y,No
+169506,Undeclared,2.93,950,,No,Yes,M,9,1,D+,2.25,Y,No
+109318,Undeclared SSHA,3.63,920,,Yes,No,F,0,2,F,2.25,Y,No
+66502,Undeclared,3.6,1050,Yes,No,No,M,12,4,W,2.25,Y,No
+66496,Computer Science & Engineering,3.6,1190,,Yes,No,F,10,9,W,2.25,Y,No
+74844,Computer Science & Engineering,3.6,600,Yes,Yes,Yes,F,6,9,A,2.25,Y,Yes
+78534,Biological Sciences,3.6,990,,No,Yes,F,8,4,A+,2.25,Y,Yes
+67672,Undeclared,3.6,1010,,Yes,Yes,F,8,4,A+,2.25,Y,Yes
+93122,English,3.62,1010,,Yes,No,F,8,4,A+,2.25,Y,Yes
+67530,Psychology,3.6,1120,,No,No,M,8,4,A+,2.25,Y,Yes
+153808,Computer Science & Engineering,3.68,1270,,Yes,No,F,7,4,A+,2.25,Y,Yes
+78244,Chemical Sciences,3.6,960,Yes,Yes,No,F,8,9,A+,2.25,Y,Yes
+273146,Psychology,3.11,1270,Yes,Yes,No,F,14,9,A+,2.25,Y,Yes
+62058,Undeclared,3.59,1000,,Yes,Yes,F,8,9,B,2.25,Y,Yes
+62166,Undeclared,3.59,1110,,Yes,Yes,M,6,9,B,2.25,Y,Yes
+64898,Bioengineering,3.59,930,,Yes,Yes,F,10,9,C,2.25,Y,Yes
+156530,Management & Business Economics,2.9,940,Yes,Yes,No,M,7,9,C,2.25,Y,Yes
+89106,Undeclared,2.59,800,,Yes,No,M,0,2,C,2.25,Y,Yes
+77150,Undeclared SSHA,2.45,960,,Yes,No,M,0,5,C,2.25,Y,Yes
+284606,Undeclared,3.13,1090,,Yes,Yes,F,0,5,C,2.25,Y,Yes
+285282,Psychology,3.13,1110,,Yes,Yes,F,0,5,C,2.25,Y,Yes
+279848,Undeclared,3.12,1120,,Yes,Yes,F,0,5,C,2.25,Y,Yes
+284316,Political Science,3.13,1120,,Yes,Yes,F,0,5,C,2.25,Y,Yes
+278132,Undeclared,3.12,1170,,Yes,Yes,F,0,5,C,2.25,Y,Yes
+64390,Undeclared,3.59,980,,No,No,F,0,6,C,2.25,Y,Yes
+65146,Psychology,3.59,1110,,No,No,F,12,9,C-,2.25,Y,Yes
+121562,Undeclared,2.77,1090,,Yes,Yes,F,0,2,C-,2.25,Y,Yes
+63840,Environmental Engineering,3.59,830,,Yes,No,M,8,5,C-,2.25,Y,Yes
+65458,History,3.59,1190,,Yes,No,F,6,6,C-,2.25,Y,Yes
+109120,Undeclared,2.71,1000,Yes,No,No,F,10,7,C-,2.25,Y,Yes
+102712,Biological Sciences,3.63,910,Yes,Yes,No,F,13,7,C-,2.25,Y,Yes
+124842,Anthropology,3.65,1010,,Yes,Yes,F,16,7,C-,2.25,Y,Yes
+148796,Biological Sciences,3.68,910,,Yes,Yes,F,6,7,C-,2.25,Y,Yes
+149848,Bioengineering,3.68,1090,Yes,Yes,Yes,F,0,7,C-,2.25,Y,Yes
+69546,Political Science,3.6,890,Yes,Yes,No,M,6,9,C+,2.25,Y,Yes
+178832,Undeclared,2.95,930,Yes,Yes,No,M,0,4,C+,2.25,Y,Yes
+143604,Undeclared SSHA,2.85,990,Yes,No,Yes,M,13,9,C+,2.25,Y,Yes
+148328,Mechanical Engineering,2.86,1060,,No,Yes,M,7,9,C+,2.25,Y,Yes
+197888,Undeclared,3,890,Yes,,No,M,0,5,C+,2.25,Y,Yes
+194430,Undeclared,3,980,Yes,Yes,No,M,0,5,C+,2.25,Y,Yes
+281816,Political Science,3.81,800,Yes,Yes,Yes,M,8,5,D,2.25,Y,Yes
+72638,Biological Sciences,2.38,920,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+66620,Undeclared,2.36,940,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+73402,Psychology,2.4,1140,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+78000,Undeclared,2.46,1140,,Yes,Yes,F,0,1,D,2.25,Y,Yes
+208768,Undeclared,3,760,Yes,Yes,No,M,6,3,D,2.25,Y,Yes
+107916,Undeclared,2.7,830,,No,No,M,6,3,D,2.25,Y,Yes
+181944,Biological Sciences,2.95,850,No,No,No,M,6,3,D,2.25,Y,Yes
+173894,Biological Sciences,2.95,900,,No,Yes,M,6,,D,2.25,Y,Yes
+200434,Undeclared,3,930,,No,Yes,M,6,3,D,2.25,Y,Yes
+143616,Mechanical Engineering,2.85,1070,Yes,Yes,Yes,M,6,,D,2.25,Y,Yes
+109486,Undeclared SSHA,2.71,1080,,Yes,No,M,6,3,D,2.25,Y,Yes
+208328,Undeclared,3,1100,,No,No,M,6,3,D,2.25,Y,Yes
+158870,Political Science,2.9,1110,,Yes,Yes,M,6,3,D,2.25,Y,Yes
+210644,Undeclared,3,1110,,No,No,M,6,3,D,2.25,Y,Yes
+170814,Psychology,2.94,1150,Yes,Yes,No,M,6,3,D,2.25,Y,Yes
+123472,Undeclared,2.77,1280,,Yes,No,M,6,3,D,2.25,Y,Yes
+148068,Undeclared,3.68,840,Yes,Yes,No,M,0,5,D,2.25,Y,Yes
+65188,Mechanical Engineering,3.22,1240,Yes,Yes,Yes,F,6,3,D,2.25,Y,Yes
+285164,Political Science,3.13,1260,,Yes,Yes,F,0,3,D,2.25,Y,Yes
+62990,Sociology,3.59,1050,Yes,No,No,F,0,3,D,2.25,Y,Yes
+70838,Biological Sciences,3.6,720,,Yes,Yes,F,0,3,D,2.25,Y,Yes
+65352,Undeclared,3.59,1090,,Yes,Yes,F,6,3,D,2.25,Y,Yes
+183496,Biological Sciences,2.95,800,Yes,Yes,No,M,8,3,D,2.25,Y,Yes
+120666,Psychology,3.65,820,,Yes,No,F,0,4,D-,2.25,Y,Yes
+208748,Management & Business Economics,3,1090,,No,No,M,10,9,D-,2.25,Y,Yes
+208712,Undeclared,3,1070,Yes,No,Yes,M,8,2,D-,2.25,Y,Yes
+178166,Psychology,2.95,950,Yes,Yes,Yes,M,6,2,D+,2.25,Y,Yes
+283658,Biological Sciences,3.81,920,,No,No,F,0,5,D+,2.25,Y,Yes
+190162,Undeclared,3,1020,,Yes,Yes,F,0,5,D+,2.25,Y,Yes
+66954,Earth Systems Science,3.6,1130,,Yes,Yes,F,0,5,D+,2.25,Y,Yes
+71442,Undeclared,2.36,980,Yes,No,Yes,F,0,7,D+,2.25,Y,Yes
+96746,Management & Business Economics,3.62,990,,Yes,Yes,F,0,7,D+,2.25,Y,Yes
+231882,History,3.04,950,Yes,Yes,Yes,M,9,9,F,2.25,Y,Yes
+66572,Biological Sciences,3.6,680,Yes,,Yes,F,14,9,W,2.25,Y,Yes
+259392,Undeclared,3.09,880,,Yes,Yes,M,10,9,W,2.25,Y,Yes
+256916,Computer Science & Engineering,3.09,1100,Yes,No,,M,12,9,W,2.25,Y,Yes
+149168,Mechanical Engineering,3.68,930,,Yes,Yes,F,10,4,A+,2.28,Y,No
+67790,Undeclared,3.6,910,No,No,Yes,M,6,9,A+,2.28,Y,No
+72412,Undeclared,3.6,1230,,Yes,Yes,F,0,9,A+,2.28,Y,No
+154776,Management & Business Economics,3.68,840,,Yes,No,F,9,4,D-,2.28,Y,Yes
+153806,Psychology,3.68,920,No,No,Yes,F,0,4,A+,2.29,Y,No
+73712,Undeclared,3.6,930,,Yes,No,M,9,9,A+,2.29,Y,No
+113356,Mechanical Engineering,3.64,710,Yes,Yes,No,M,0,6,C-,2.3,N,No
+224814,Computer Science & Engineering,3.75,560,,No,No,F,2,8,C-,2.3,N,No
+135482,Anthropology,3.66,790,Yes,Yes,Yes,F,0,9,C+,2.3,N,No
+141222,Mechanical Engineering,3.66,800,,No,Yes,F,0,9,C+,2.3,N,No
+157546,Computer Science & Engineering,3.68,870,,Yes,Yes,F,14,9,C+,2.3,N,No
+279302,Computer Science & Engineering,3.81,900,,Yes,Yes,F,0,2,D,2.3,N,No
+280264,Chemical Sciences,3.81,1110,Yes,Yes,Yes,F,0,2,D,2.3,N,No
+260842,English,3.8,1130,,No,Yes,F,0,2,D,2.3,N,No
+173956,Undeclared,3.7,810,,No,No,F,0,4,D-,2.3,N,No
+176212,Undeclared Engineering,3.7,810,,No,Yes,F,10,4,D-,2.3,N,No
+174980,Mechanical Engineering,3.7,840,,Yes,No,F,14,4,D-,2.3,N,No
+160316,Political Science,3.69,860,,Yes,No,F,11,4,D-,2.3,N,No
+234620,Undeclared,3.77,860,,No,No,F,7,4,D-,2.3,N,No
+222398,Mechanical Engineering,3.75,880,,Yes,No,F,8,4,D-,2.3,N,No
+174324,Biological Sciences,3.7,1000,,No,No,F,0,4,D-,2.3,N,No
+161672,Political Science,3.69,740,,No,Yes,F,16,9,D-,2.3,N,No
+219166,Environmental Engineering,3.75,1150,,Yes,No,F,0,2,D-,2.3,N,No
+150688,Undeclared SSHA,3.68,990,,Yes,No,F,11,4,A+,2.3,Y,No
+251006,Undeclared Engineering,3.78,1000,,Yes,No,F,8,4,A+,2.3,Y,No
+168926,Biological Sciences,3.7,1020,,Yes,Yes,M,10,4,A+,2.3,Y,No
+242548,Computer Science & Engineering,3.77,1020,,Yes,No,F,0,4,A+,2.3,Y,No
+173824,Undeclared,3.7,1060,Yes,Yes,Yes,F,0,4,A+,2.3,Y,No
+233392,Anthropology,3.76,1060,,No,No,F,10,4,A+,2.3,Y,No
+251766,Undeclared,3.78,1090,,No,Yes,F,0,4,A+,2.3,Y,No
+232410,English,3.76,1100,Yes,Yes,Yes,M,6,4,A+,2.3,Y,No
+153558,Economics,3.68,930,,No,Yes,F,0,9,A+,2.3,Y,No
+114376,Computer Science & Engineering,3.65,940,,No,Yes,F,0,,A+,2.3,Y,No
+153620,Sociology,3.68,940,Yes,No,Yes,F,0,9,A+,2.3,Y,No
+123188,Physics,3.65,950,,No,Yes,F,8,9,A+,2.3,Y,No
+150138,History,3.68,1030,,Yes,Yes,M,15,9,A+,2.3,Y,No
+85952,Chemical Sciences,3.61,1060,,No,Yes,F,8,9,A+,2.3,Y,No
+121190,Management & Business Economics,3.65,1060,Yes,Yes,Yes,M,9,9,A+,2.3,Y,No
+174552,Applied Mathematical Sciences,3.7,1070,,Yes,No,F,9,9,A+,2.3,Y,No
+81934,Biological Sciences,3.61,1090,,Yes,Yes,F,0,,A+,2.3,Y,No
+239348,Biological Sciences,3.77,1100,,Yes,No,F,9,9,A+,2.3,Y,No
+189348,Undeclared,3.72,1110,Yes,No,No,M,6,9,A+,2.3,Y,No
+67708,Undeclared,3.6,1140,,Yes,No,F,12,9,A+,2.3,Y,No
+251852,Mechanical Engineering,3.78,1180,Yes,Yes,No,F,8,9,A+,2.3,Y,No
+273164,Chemical Sciences,3.8,1280,Yes,Yes,No,F,0,9,A+,2.3,Y,No
+140440,Environmental Engineering,2.85,990,,,No,M,9,2,C+,2.3,Y,No
+271098,Biological Sciences,3.8,930,No,No,Yes,F,0,,D,2.3,Y,No
+272840,Biological Sciences,3.8,890,Yes,Yes,Yes,M,10,4,A+,2.3,Y,Yes
+153468,Undeclared,3.68,920,Yes,No,Yes,F,10,4,A+,2.3,Y,Yes
+219214,Biological Sciences,3.75,920,Yes,No,Yes,F,10,4,A+,2.3,Y,Yes
+233386,Undeclared SSHA,3.76,1040,,No,No,F,0,4,A+,2.3,Y,Yes
+176366,Biological Sciences,3.7,1100,Yes,Yes,Yes,M,7,,A+,2.3,Y,Yes
+190526,Management & Business Economics,3.72,1120,,Yes,Yes,F,7,4,A+,2.3,Y,Yes
+174554,Anthropology,3.7,1130,,Yes,Yes,M,8,4,A+,2.3,Y,Yes
+165254,Psychology,3.69,1200,Yes,Yes,No,F,8,4,A+,2.3,Y,Yes
+123562,Undeclared SSHA,3.65,950,,Yes,Yes,M,6,9,A+,2.3,Y,Yes
+74622,Undeclared SSHA,3.6,1080,Yes,Yes,Yes,M,17,9,A+,2.3,Y,Yes
+195682,Anthropology,3.72,1080,,No,No,F,13,9,A+,2.3,Y,Yes
+123724,Management & Business Economics,3.65,1090,,No,No,F,0,9,A+,2.3,Y,Yes
+84210,Mechanical Engineering,3.61,1140,Yes,No,Yes,F,12,9,A+,2.3,Y,Yes
+176304,Biological Sciences,3.7,1150,,Yes,No,F,8,9,A+,2.3,Y,Yes
+65452,Undeclared,3.59,880,,Yes,Yes,M,6,7,C-,2.3,Y,Yes
+159656,Undeclared SSHA,3.68,840,Yes,Yes,No,F,8,9,C+,2.3,Y,Yes
+202194,English,3.73,860,,Yes,Yes,F,14,9,C+,2.3,Y,Yes
+153826,Undeclared,3.68,870,Yes,Yes,Yes,F,0,9,C+,2.3,Y,Yes
+279108,Psychology,3.81,850,,Yes,Yes,F,0,2,D,2.3,Y,Yes
+78674,Sociology,3.6,750,Yes,Yes,No,F,0,3,D,2.3,Y,Yes
+77938,Undeclared Natural Sciences,3.6,760,No,No,Yes,F,0,3,D,2.3,Y,Yes
+161422,English,3.69,860,Yes,Yes,Yes,F,0,,D,2.3,Y,Yes
+72222,Undeclared,3.6,870,,No,Yes,F,0,3,D,2.3,Y,Yes
+149952,Sociology,3.68,870,,No,Yes,F,0,3,D,2.3,Y,Yes
+77964,Undeclared,3.6,900,,No,Yes,F,0,3,D,2.3,Y,Yes
+249750,Anthropology,3.78,940,,No,No,M,6,3,D,2.3,Y,Yes
+72626,Management & Business Economics,3.6,950,,No,Yes,F,0,3,D,2.3,Y,Yes
+270292,Chemical Sciences,3.8,950,Yes,,Yes,F,0,3,D,2.3,Y,Yes
+175760,Public Health,3.7,1000,,Yes,Yes,F,6,3,D,2.3,Y,Yes
+259194,Management &Business Economics,3.79,1000,Yes,Yes,Yes,F,0,3,D,2.3,Y,Yes
+199938,Undeclared Natural Sciences,3.72,1030,,Yes,Yes,F,0,3,D,2.3,Y,Yes
+106022,Mechanical Engineering,3.63,1070,,Yes,No,F,0,3,D,2.3,Y,Yes
+84722,History,3.61,1120,Yes,Yes,Yes,F,0,3,D,2.3,Y,Yes
+161470,Undeclared,3.69,1120,Yes,Yes,Yes,F,0,3,D,2.3,Y,Yes
+74582,Computer Science & Engineering,3.6,1180,,Yes,Yes,F,6,3,D,2.3,Y,Yes
+282044,Applied Mathematical Sciences,3.81,1210,Yes,Yes,Yes,F,6,3,D,2.3,Y,Yes
+157674,Political Science,3.68,1240,Yes,Yes,Yes,F,0,3,D,2.3,Y,Yes
+244592,Anthropology,3.77,820,,Yes,No,F,0,4,D-,2.3,Y,Yes
+183592,Undeclared SSHA,3.71,750,,No,Yes,M,8,,D-,2.3,Y,Yes
+180134,Sociology,2.95,860,Yes,Yes,No,F,0,4,D-,2.3,Y,Yes
+259118,Management & Business Economics,3.09,1110,Yes,No,No,F,0,4,D-,2.3,Y,Yes
+171300,Environmental Engineering,2.94,1140,Yes,No,No,F,0,2,D-,2.3,Y,Yes
+73640,Undeclared Natural Sciences,3.6,750,,Yes,Yes,M,8,6,D-,2.3,Y,Yes
+183890,Management & Business Economics,3.71,730,Yes,Yes,Yes,F,8,4,D+,2.3,Y,Yes
+67278,Psychology,3.6,790,Yes,Yes,Yes,F,0,6,D+,2.3,Y,Yes
+67814,Undeclared,3.6,790,,Yes,No,F,6,6,D+,2.3,Y,Yes
+77752,Political Science,3.6,730,,Yes,Yes,F,0,6,D+,2.3,Y,Yes
+180216,Biological Sciences,2.95,1020,,Yes,No,F,0,9,D+,2.3,Y,Yes
+70408,Chemical Sciences,2.35,1000,,Yes,No,F,0,2,F,2.3,Y,Yes
+96550,Economics,3.62,760,,Yes,No,F,0,9,I,2.3,Y,Yes
+272056,Economics,3.8,1020,,Yes,Yes,F,9,9,A+,2.31,Y,Yes
+242052,Economics,3.77,790,,Yes,No,F,0,4,D-,2.31,Y,Yes
+265048,Undeclared,3.8,940,,No,Yes,F,12,9,A+,2.33,N,No
+267314,Undeclared,3.1,1040,,No,Yes,F,0,4,D+,2.33,N,No
+203478,Undeclared,3,1130,Yes,No,Yes,F,0,4,D+,2.33,N,No
+75392,Management & Business Economics,2.43,1160,,Yes,Yes,F,0,4,D+,2.33,N,No
+273300,Psychology,3.8,760,,Yes,No,M,12,9,I,2.33,N,No
+267308,Political Science,3.8,1120,,Yes,Yes,F,8,9,A+,2.33,Y,Yes
+265100,Undeclared,3.8,840,Yes,Yes,Yes,M,9,9,C+,2.34,N,No
+97452,Mechanical Engineering,3.62,930,Yes,Yes,Yes,F,0,4,D+,2.34,N,No
+280924,Biological Sciences,3.81,930,Yes,Yes,Yes,M,6,9,A+,2.35,N,No
+67358,Undeclared SSHA,3.6,820,,Yes,No,M,0,5,D,2.35,N,No
+165692,Psychology,3.7,870,,No,Yes,F,0,4,D+,2.35,N,No
+97332,Undeclared,2.65,950,,No,No,M,0,2,F,2.35,N,No
+66850,Biological Sciences,2.37,1180,,Yes,No,F,0,2,F,2.35,N,No
+105634,Undeclared,2.69,950,No,No,No,M,0,2,F,2.35,N,No
+114750,Undeclared,2.73,820,No,No,No,M,0,2,F,2.35,N,No
+123284,Biological Sciences,2.77,1060,,Yes,No,F,0,2,F,2.35,N,No
+137454,Undeclared SSHA,2.83,930,No,No,No,M,0,2,F,2.35,N,No
+136560,Undeclared SSHA,2.83,1090,Yes,No,No,M,0,2,F,2.35,N,No
+225610,Biological Sciences,3.04,980,Yes,Yes,No,F,0,9,D-,2.35,Y,Yes
+198542,Earth Systems Science,3,990,,No,No,F,0,9,D-,2.35,Y,Yes
+226706,Management & Business Economics,3.75,930,,No,Yes,F,0,4,D+,2.35,Y,Yes
+196638,Bioengineering,3.72,1100,Yes,Yes,No,F,0,4,D+,2.35,Y,Yes
+75812,Undeclared,2.44,1190,,Yes,No,F,0,2,F,2.35,Y,Yes
+122222,Undeclared,2.77,1230,,Yes,No,F,0,2,F,2.35,Y,Yes
+125490,Undeclared,2.78,840,Yes,Yes,No,F,0,2,F,2.35,Y,Yes
+177076,Mechanical Engineering,3.7,690,Yes,Yes,No,F,0,9,D-,2.37,N,No
+278726,Biological Sciences,3.81,1120,,Yes,No,F,0,4,D+,2.37,Y,Yes
+124118,Undeclared,2.77,1050,,Yes,Yes,F,0,9,D+,2.39,N,No
+68828,Biological Sciences,2.31,1140,Yes,Yes,No,F,0,4,F,2.39,N,No
+147024,Biological Sciences,3.68,1110,,Yes,No,F,2,3,A-,2.4,N,No
+68560,Biological Sciences,2.41,1200,,Yes,No,F,0,1,D,2.4,N,No
+69078,Biological Sciences,2.51,1230,,Yes,No,M,6,2,D,2.4,N,No
+123382,Computer Science & Engineering,3.65,750,,No,Yes,F,0,9,D+,2.4,N,No
+64126,Psychology,3.59,1030,Yes,Yes,No,F,0,9,D+,2.4,N,No
+186110,Psychology,3.72,1060,Yes,Yes,No,F,0,9,D+,2.4,N,No
+279938,Computer Science & Engineering,3.12,1070,,Yes,Yes,F,0,9,D+,2.4,N,No
+67008,Undeclared,2.37,980,Yes,No,No,F,0,4,F,2.4,N,No
+163022,Biological Sciences,2.9,670,,No,No,M,0,2,F,2.4,N,No
+260408,Biological Sciences,3.09,700,No,No,No,M,0,2,F,2.4,N,No
+163582,Undeclared Engineering,2.91,840,Yes,Yes,No,F,0,2,F,2.4,N,No
+149336,Economics,2.87,920,,Yes,No,F,0,2,F,2.4,N,No
+269802,Chemical Sciences,3.1,930,,No,No,M,0,2,F,2.4,N,No
+267450,Computer Science & Engineering,3.1,1070,,Yes,No,M,0,2,F,2.4,N,No
+262570,Undeclared,3.1,1210,,Yes,No,M,0,2,F,2.4,N,No
+159346,Undeclared,2.9,1220,Yes,Yes,No,F,0,2,F,2.4,N,No
+203894,Undeclared,3,960,Yes,No,Yes,M,0,3,A-,2.4,Y,No
+69736,Management & Business Economics,2.81,1110,Yes,Yes,No,M,11,1,D,2.4,Y,Yes
+68834,Undeclared,2.71,1010,,Yes,No,M,10,2,D,2.4,Y,Yes
+68716,Biological Sciences,2.61,970,,Yes,Yes,M,12,3,D,2.4,Y,Yes
+282720,Undeclared Natural Sciences,3.81,740,,Yes,No,F,0,9,D+,2.4,Y,Yes
+109010,Undeclared Engineering,3.63,900,,Yes,Yes,F,0,9,D+,2.4,Y,Yes
+196076,Management & Business Economics,3.72,970,Yes,No,Yes,F,0,9,D+,2.4,Y,Yes
+199666,Undeclared,3,1090,Yes,Yes,Yes,F,0,9,D+,2.4,Y,Yes
+264732,Biological Sciences,3.1,860,Yes,Yes,No,M,0,2,F,2.4,Y,Yes
+190552,Undeclared,3,980,,Yes,No,F,0,2,F,2.4,Y,Yes
+192076,Undeclared,3,1010,,,No,F,0,2,F,2.4,Y,Yes
+269020,Biological Sciences,3.1,1040,,No,No,M,0,2,F,2.4,Y,Yes
+70896,Computer Science & Engineering,3.06,1160,Yes,Yes,Yes,M,6,3,D,2.41,N,No
+80284,Biological Sciences,2.5,1000,,Yes,No,F,0,9,F,2.41,N,No
+78444,Undeclared,2.47,1060,,No,No,F,0,9,F,2.41,N,No
+69836,Undeclared SSHA,2.93,1090,,Yes,Yes,F,0,3,D,2.41,Y,Yes
+135188,Undeclared SSHA,3.66,1090,Yes,Yes,No,F,0,3,B+,2.42,N,No
+83002,Undeclared,2.52,1180,,Yes,No,F,0,9,F,2.42,Y,Yes
+32452,Computer Science & Engineering,3.06,550,Yes,Yes,,F,0,3,C,2.43,N,No
+71254,Undeclared SSHA,2.36,930,,Yes,Yes,F,0,4,D,2.43,N,No
+88322,Biological Sciences,2.58,1090,Yes,Yes,Yes,F,0,9,I,2.43,N,No
+152626,Biological Sciences,2.88,1110,,Yes,Yes,F,0,9,I,2.43,N,No
+260488,Biological Sciences,3.09,1260,Yes,Yes,Yes,F,0,9,I,2.43,N,No
+60316,Undeclared Engineering,2.74,660,Yes,No,Yes,F,15,4,B,2.43,Y,No
+71016,Management & Business Economics,2.36,1110,,Yes,No,F,9,4,D,2.43,Y,Yes
+115990,Undeclared,2.75,1090,,Yes,No,F,0,9,F,2.43,Y,Yes
+118124,Undeclared,2.85,970,Yes,No,No,M,12,5,A,2.45,N,No
+60786,Biological Sciences,4.15,1510,,Yes,No,M,0,,A-,2.45,N,No
+180184,Undeclared,3.7,820,,No,Yes,F,0,9,I,2.45,N,No
+182924,Public Health,3.71,870,,Yes,Yes,F,0,,I,2.45,N,No
+264100,Biological Sciences,3.1,960,,No,Yes,M,5,4,B+,2.45,Y,Yes
+264978,Sociology,3.8,940,Yes,Yes,Yes,F,0,9,I,2.45,Y,Yes
+65288,Environmental Engineering,3.59,910,,Yes,No,F,7,9,A,2.46,N,No
+66876,Biological Sciences,2.37,1070,,Yes,No,F,0,5,D,2.46,N,No
+70604,Environmental Engineering,3.6,950,,Yes,Yes,M,6,9,A,2.47,N,No
+142002,Undeclared,3.05,680,,No,Yes,M,13,5,D,2.47,N,No
+61254,Biological Sciences,3.59,1140,Yes,No,Yes,F,4,9,A,2.49,N,No
+44476,Biological Sciences,3.59,1100,,Yes,No,M,2,9,A+,2.49,N,No
+62726,Undeclared,4.14,1420,,Yes,Yes,F,0,6,A,2.49,Y,No
+64186,Literatures and Cultures,4.2,1260,,Yes,Yes,F,3,6,A,2.49,Y,Yes
+64620,Undeclared,4.21,980,,No,Yes,M,12,6,A,2.5,N,No
+64486,Applied Mathematical Sciences,4.21,1500,,Yes,Yes,F,3,6,A,2.5,N,No
+196626,Undeclared,3.72,940,,No,No,M,0,7,A,2.5,N,No
+205730,Undeclared,3.73,940,Yes,No,No,M,0,7,A,2.5,N,No
+238248,Management & Business Economics,3.77,940,,Yes,No,F,1,7,A,2.5,N,No
+242330,Applied Mathematical Sciences,3.77,940,,Yes,No,M,11,7,A,2.5,N,No
+281084,Political Science,3.81,950,,No,No,M,10,7,A,2.5,N,No
+174430,Biological Sciences,3.7,810,,Yes,Yes,F,0,8,C,2.5,N,No
+70934,Undeclared Natural Sciences,2.36,1090,,Yes,No,M,0,6,C,2.5,N,No
+80386,Undeclared,3.61,840,,Yes,Yes,F,14,7,C-,2.5,N,No
+101848,Biological Sciences,3.63,850,,Yes,No,F,8,7,C-,2.5,N,No
+80804,Chemical Sciences,3.61,970,Yes,No,Yes,F,0,7,C-,2.5,N,No
+67410,Undeclared SSHA,3.6,1140,Yes,Yes,No,F,8,7,C-,2.5,N,No
+131148,Undeclared,2.8,940,,,No,M,0,4,C+,2.5,N,No
+194074,Undeclared,3,800,,No,Yes,M,23,6,D,2.5,N,No
+195856,Undeclared,3,890,No,No,Yes,F,0,6,D,2.5,N,No
+89682,Management & Business Economics,2.59,1070,,No,No,M,7,1,D,2.5,N,No
+98774,Computer Science & Engineering,2.66,1110,,No,No,M,6,1,D,2.5,N,No
+107262,Undeclared,2.7,960,,No,No,M,6,2,D,2.5,N,No
+88152,Undeclared,2.58,1040,,No,No,F,0,3,D,2.5,N,No
+105236,Undeclared,2.69,1100,,No,No,M,6,3,D,2.5,N,No
+89462,Psychology,2.59,1250,,Yes,No,M,7,3,D,2.5,N,No
+101878,Psychology,2.67,1080,,No,No,M,8,4,D,2.5,N,No
+97074,Undeclared Engineering,2.65,840,,No,Yes,M,7,5,D,2.5,N,No
+176998,Bioengineering,3.7,750,Yes,Yes,Yes,F,0,5,D-,2.5,N,No
+275734,Management &Business Economics,3.81,1080,Yes,Yes,No,F,0,2,D+,2.5,N,No
+61010,Psychology,3.59,1260,Yes,Yes,No,F,0,2,F,2.5,N,No
+65204,Computer Science & Engineering,4.22,1290,Yes,Yes,Yes,M,7,6,A,2.5,Y,No
+65206,Biological Sciences,4.22,1390,,Yes,No,F,0,6,A,2.5,Y,No
+200764,Undeclared Engineering,3,950,,No,Yes,M,2,7,A,2.5,Y,No
+54840,Computer Science & Engineering,4.1,1560,Yes,Yes,Yes,F,6,6,A-,2.5,Y,No
+237220,Psychology,3.77,940,,Yes,No,F,2,7,A-,2.5,Y,No
+240674,Physics,3.77,940,Yes,Yes,No,F,12,7,A-,2.5,Y,No
+242606,Cognitive Science,3.77,950,Yes,Yes,No,F,3,7,A-,2.5,Y,No
+279218,Psychology,3.81,950,,No,No,F,4,7,A-,2.5,Y,No
+279572,Undeclared,3.81,950,Yes,No,No,F,4,7,A-,2.5,Y,No
+281082,Biological Sciences,3.81,950,Yes,No,No,F,16,7,A-,2.5,Y,No
+34162,Undeclared,2.9,910,,No,Yes,M,6,6,A-,2.5,Y,No
+57936,Computer Science & Engineering,4.1,1290,Yes,Yes,Yes,M,6,6,A-,2.5,Y,No
+77148,Psychology,3.6,910,Yes,No,Yes,F,10,9,A+,2.5,Y,No
+77688,Management & Business Economics,3.6,910,Yes,No,Yes,F,2,9,A+,2.5,Y,No
+67360,Mechanical Engineering,3.6,920,,Yes,Yes,F,0,9,A+,2.5,Y,No
+150974,Mechanical Engineering,3.68,920,No,No,Yes,F,4,9,A+,2.5,Y,No
+266234,English,3.8,930,Yes,Yes,No,F,0,9,A+,2.5,Y,No
+166106,Undeclared,3.7,970,Yes,No,Yes,F,12,9,A+,2.5,Y,No
+222338,Undeclared,3.75,1060,,Yes,Yes,F,0,9,A+,2.5,Y,No
+72130,Management & Business Economics,3.6,1070,Yes,Yes,Yes,F,0,9,A+,2.5,Y,No
+202538,Bioengineering,3.73,1080,,Yes,No,M,0,,A+,2.5,Y,No
+67514,Biological Sciences,3.6,1110,,Yes,Yes,F,6,9,A+,2.5,Y,No
+209222,Undeclared,3.74,1110,,No,Yes,F,4,9,A+,2.5,Y,No
+170902,Bioengineering,3.7,1130,,Yes,No,M,12,9,A+,2.5,Y,No
+75076,Political Science,3.6,1190,,Yes,No,F,10,9,A+,2.5,Y,No
+69718,Undeclared,3.6,1230,,Yes,Yes,M,5,9,A+,2.5,Y,No
+57040,Management & Business Economics,4.2,1050,Yes,Yes,No,M,2,7,B,2.5,Y,No
+38384,Management & Business Economics,2.53,750,,No,No,F,0,7,B,2.5,Y,No
+33292,Undeclared,3.08,610,,Yes,Yes,M,10,6,B-,2.5,Y,No
+33676,Undeclared,3.09,660,,Yes,Yes,F,0,6,B-,2.5,Y,No
+132526,Undeclared,3.01,920,,No,Yes,F,0,6,B-,2.5,Y,No
+46426,Biological Sciences,4.12,1010,,Yes,No,M,2,6,B+,2.5,Y,No
+45464,Undeclared,4.1,1250,,No,Yes,F,1,6,B+,2.5,Y,No
+129870,Undeclared,3,840,Yes,No,Yes,M,0,7,B+,2.5,Y,No
+132206,Undeclared,3.66,950,,No,No,F,3,7,B+,2.5,Y,No
+264180,Political Science,3.1,920,Yes,No,Yes,M,0,9,B+,2.5,Y,No
+105358,Undeclared,2.79,840,Yes,No,Yes,F,8,6,B+,2.5,Y,No
+47064,Undeclared SSHA,4.13,1400,,Yes,No,F,10,6,B+,2.5,Y,No
+66410,Mechanical Engineering,3.6,950,,Yes,No,M,10,7,B+,2.5,Y,No
+67650,Chemical Sciences,3.6,710,,Yes,Yes,F,18,3,C,2.5,Y,No
+33676,Earth Systems Science,3.09,720,,No,Yes,F,4,6,C-,2.5,Y,No
+109002,Undeclared,3.63,880,No,No,Yes,F,0,7,C-,2.5,Y,No
+281696,Computer Science & Engineering,3.81,830,,Yes,No,F,10,9,C+,2.5,Y,No
+113822,Undeclared,3.03,720,Yes,No,Yes,M,0,9,C+,2.5,Y,No
+199530,Undeclared Engineering,3.72,720,,Yes,Yes,F,0,9,D,2.5,Y,No
+183168,Chemical Sciences,3.71,810,Yes,Yes,Yes,F,0,9,D,2.5,Y,No
+184482,Management & Business Economics,3.71,810,,No,Yes,F,0,9,D,2.5,Y,No
+183500,History,3.71,830,No,No,Yes,F,0,9,D,2.5,Y,No
+191634,Computer Science & Engineering,3.72,840,No,No,Yes,F,0,9,D,2.5,Y,No
+191124,Mechanical Engineering,3.72,870,No,No,Yes,F,0,9,D,2.5,Y,No
+185718,Undeclared,3.72,890,,No,Yes,F,0,9,D,2.5,Y,No
+183004,Undeclared Engineering,3.71,920,No,No,Yes,F,0,9,D,2.5,Y,No
+183520,Sociology,3.71,940,,No,Yes,F,0,9,D,2.5,Y,No
+182680,Biological Sciences,3.71,1000,,Yes,Yes,F,0,,D,2.5,Y,No
+179064,Physics,3.7,1020,Yes,Yes,Yes,F,0,9,D,2.5,Y,No
+187474,Undeclared,3.72,1020,,Yes,Yes,F,0,9,D,2.5,Y,No
+193990,Psychology,3.72,1100,,Yes,Yes,F,0,9,D,2.5,Y,No
+203120,Chemical Sciences,3.73,1100,,Yes,Yes,F,0,9,D,2.5,Y,No
+191776,Management & Business Economics,3.72,1180,,Yes,Yes,F,0,9,D,2.5,Y,No
+66194,Undeclared Engineering,3.6,940,Yes,No,No,F,0,9,I,2.5,Y,No
+64558,Applied Mathematical Sciences,4.21,1390,Yes,No,No,F,3,6,A,2.5,Y,Yes
+75586,Undeclared Natural Sciences,3.6,610,Yes,Yes,No,F,2,,A,2.5,Y,Yes
+52802,Biological Sciences,4.1,1300,,No,Yes,F,5,6,A-,2.5,Y,Yes
+54626,Undeclared,4.1,1300,,Yes,Yes,F,0,6,A-,2.5,Y,Yes
+57822,Undeclared,4.1,1320,Yes,Yes,No,F,7,6,A-,2.5,Y,Yes
+53004,Bioengineering,4.1,1370,Yes,Yes,No,F,0,6,A-,2.5,Y,Yes
+58290,Biological Sciences,4.1,1420,,Yes,No,F,7,6,A-,2.5,Y,Yes
+52352,Computer Science & Engineering,4.1,1430,,No,Yes,F,6,6,A-,2.5,Y,Yes
+190222,Undeclared,3.72,930,,No,No,F,0,9,A+,2.5,Y,Yes
+165886,Biological Sciences,3.7,980,,Yes,Yes,F,0,9,A+,2.5,Y,Yes
+255048,Applied Mathematical Sciences,3.79,1080,,Yes,Yes,F,10,9,A+,2.5,Y,Yes
+47970,Undeclared,4.14,1220,,Yes,No,M,3,6,B+,2.5,Y,Yes
+45218,Undeclared Engineering,4.1,1360,,No,Yes,F,10,6,B+,2.5,Y,Yes
+65554,Biological Sciences,3.59,960,,Yes,Yes,F,0,6,C,2.5,Y,Yes
+64896,Sociology,3.59,850,,Yes,Yes,F,8,3,C,2.5,Y,Yes
+76598,Mechanical Engineering,3.6,1110,,Yes,No,F,8,7,C-,2.5,Y,Yes
+77372,Undeclared,3.6,840,,Yes,Yes,M,8,9,C+,2.5,Y,Yes
+160572,Undeclared Engineering,3.69,880,,No,No,M,4,9,C+,2.5,Y,Yes
+74434,Psychology,3.6,880,,No,Yes,M,14,9,C+,2.5,Y,Yes
+189648,Undeclared,3.72,740,,Yes,Yes,F,0,9,D,2.5,Y,Yes
+183700,English,3.71,760,Yes,Yes,Yes,F,0,9,D,2.5,Y,Yes
+184100,Economics,3.71,790,Yes,Yes,Yes,F,0,9,D,2.5,Y,Yes
+191566,Management & Business Economics,3.72,950,,No,Yes,F,0,9,D,2.5,Y,Yes
+189988,Mechanical Engineering,3.72,1040,Yes,Yes,Yes,F,0,9,D,2.5,Y,Yes
+263486,Management &Business Economics,3.8,840,Yes,Yes,Yes,F,0,2,D,2.5,Y,Yes
+88790,Cognitive Science,2.59,1050,Yes,Yes,No,M,14,1,D,2.5,Y,Yes
+185662,Biological Sciences,2.96,1140,Yes,No,No,M,8,1,D,2.5,Y,Yes
+88664,Undeclared,2.58,880,,Yes,Yes,M,11,2,D,2.5,Y,Yes
+89298,Management & Business Economics,2.59,960,,Yes,No,M,12,2,D,2.5,Y,Yes
+88236,Social and Cognitive Science,2.58,880,,Yes,No,M,14,4,D,2.5,Y,Yes
+91570,Management & Business Economics,2.6,1050,,No,Yes,M,12,4,D,2.5,Y,Yes
+93016,Undeclared,2.62,1130,,Yes,Yes,M,6,5,D,2.5,Y,Yes
+279798,Psychology,3.12,930,,Yes,No,M,0,2,F,2.5,Y,Yes
+277934,Undeclared,3.12,1000,,,No,M,0,2,F,2.5,Y,Yes
+161558,Political Science,3.69,780,Yes,Yes,No,F,8,9,W,2.5,Y,Yes
+33396,Biological Sciences,3.08,640,,No,Yes,F,0,,D,2.52,Y,No
+231288,Public Health,3.76,1200,,Yes,Yes,F,0,9,D,2.52,Y,No
+75854,Biological Sciences,2.44,1050,,No,No,F,0,4,F,2.52,Y,No
+29384,Biological Sciences,3.05,530,,Yes,No,M,0,2,I,2.52,Y,No
+203640,Undeclared,3.73,840,,Yes,Yes,F,0,,D,2.52,Y,Yes
+245574,Applied Mathematical Sciences,3.77,1040,,No,Yes,F,0,9,D,2.52,Y,Yes
+121444,Undeclared,2.77,1070,,Yes,No,M,14,10,A+,2.53,Y,No
+137414,Undeclared SSHA,2.83,760,,Yes,Yes,M,10,10,B-,2.53,Y,No
+107112,Undeclared,2.7,840,Yes,Yes,No,F,0,4,F,2.53,Y,No
+46406,Mechanical Engineering,3.59,1140,Yes,Yes,No,F,0,4,F,2.53,Y,No
+124646,Environmental Engineering,3.65,940,,No,Yes,F,8,5,A+,2.53,Y,Yes
+112560,Undeclared,2.72,1110,Yes,No,No,M,12,10,A+,2.53,Y,Yes
+120370,Undeclared,2.76,1170,Yes,Yes,No,M,6,10,A+,2.53,Y,Yes
+62708,Anthropology,3.69,770,Yes,Yes,Yes,F,5,5,C-,2.53,Y,Yes
+77732,Undeclared,2.45,1200,Yes,Yes,No,F,0,4,F,2.53,Y,Yes
+283214,Environmental Engineering,3.12,1060,Yes,Yes,Yes,M,6,9,I,2.53,Y,Yes
+141028,Management & Business Economics,2.85,1130,,Yes,No,M,6,10,A+,2.55,Y,No
+141036,Psychology,2.85,1220,,Yes,Yes,F,6,10,A+,2.55,Y,No
+116916,Psychology,3.65,650,,No,No,M,6,5,D,2.55,Y,No
+65502,Sociology,3.59,930,,No,No,F,0,4,F,2.55,Y,No
+76960,Biological Sciences,3.6,1130,,Yes,No,F,0,4,F,2.55,Y,No
+161634,Sociology,3.69,870,No,No,No,F,6,5,A,2.55,Y,Yes
+170656,Literatures and Cultures,2.94,1020,,Yes,No,F,0,10,A+,2.55,Y,Yes
+151378,Computer Science & Engineering,2.88,1050,,Yes,No,M,13,10,A+,2.55,Y,Yes
+68684,Mechanical Engineering,3.6,870,,Yes,No,F,0,4,F,2.56,N,No
+182666,Economics,2.95,1010,Yes,No,Yes,F,0,10,A+,2.56,Y,No
+65110,Sociology,3.59,780,No,No,No,F,8,5,A-,2.58,N,No
+205898,Undeclared,3,910,,No,Yes,F,0,10,A+,2.58,N,No
+116398,Biological Sciences,3.65,940,Yes,Yes,No,F,0,7,B-,2.58,N,No
+75396,Political Science,3.6,870,,No,No,F,0,4,F,2.58,N,No
+176586,Undeclared,2.95,1110,Yes,Yes,No,M,8,10,A+,2.58,Y,Yes
+181260,Mechanical Engineering,2.95,1120,,No,No,M,7,10,A+,2.58,Y,Yes
+77796,Anthropology,3.6,770,Yes,Yes,No,F,0,,B+,2.59,N,No
+207436,Undeclared,3,920,,No,Yes,M,7,,A+,2.59,Y,Yes
+207954,Undeclared,3,1080,Yes,Yes,Yes,M,6,10,A+,2.59,Y,Yes
+109066,Chemical Sciences,3.63,1030,Yes,Yes,No,F,0,4,F,2.59,Y,Yes
+179902,Environmental Engineering,3.7,870,,No,Yes,F,2,5,A,2.6,N,No
+190414,Undeclared Natural Sciences,3.72,700,Yes,Yes,Yes,F,1,6,A,2.6,N,No
+279170,Computer Science & Engineering,3.81,880,Yes,Yes,No,F,10,4,A+,2.6,N,No
+72544,Undeclared,3.6,1070,Yes,No,Yes,F,0,10,A+,2.6,N,No
+108578,Biological Sciences,3.63,1070,Yes,Yes,No,F,0,10,A+,2.6,N,No
+152934,Undeclared SSHA,3.68,1080,,Yes,No,M,7,10,A+,2.6,N,No
+93186,Undeclared,3.62,1100,Yes,Yes,Yes,F,0,10,A+,2.6,N,No
+61274,Psychology,3.59,1130,Yes,Yes,No,F,0,10,A+,2.6,N,No
+77990,Undeclared,3.6,1140,,No,No,F,0,10,A+,2.6,N,No
+177710,Undeclared,3.7,1140,Yes,Yes,Yes,F,14,10,A+,2.6,N,No
+192714,Sociology,3.72,1140,Yes,No,Yes,F,11,10,A+,2.6,N,No
+116716,Applied Mathematical Sciences,3.65,1170,,Yes,Yes,F,0,10,A+,2.6,N,No
+144412,Computer Science & Engineering,3.67,1230,,Yes,No,F,0,10,A+,2.6,N,No
+151018,Anthropology,3.68,1240,Yes,Yes,Yes,M,9,10,A+,2.6,N,No
+119066,Economics,3.65,620,,Yes,No,F,8,10,B-,2.6,N,No
+175594,Undeclared,3.7,670,,No,Yes,F,14,10,B-,2.6,N,No
+61844,Undeclared SSHA,3.59,690,No,No,Yes,M,12,10,B-,2.6,N,No
+174488,Psychology,3.7,690,,Yes,No,M,7,10,B-,2.6,N,No
+67714,Undeclared,3.6,710,,Yes,Yes,F,8,10,B-,2.6,N,No
+74312,Undeclared,3.6,740,No,No,Yes,M,16,10,B-,2.6,N,No
+78336,Mechanical Engineering,3.6,810,,Yes,Yes,M,12,10,B-,2.6,N,No
+73014,Physics,3.6,820,,Yes,No,F,8,10,B-,2.6,N,No
+125358,Undeclared,3.65,820,No,No,Yes,F,12,10,B-,2.6,N,No
+68528,Psychology,3.6,830,No,No,Yes,F,12,10,B-,2.6,N,No
+149936,Undeclared,3.68,860,,Yes,Yes,F,8,10,B-,2.6,N,No
+135192,Biological Sciences,3.66,880,,Yes,No,F,0,10,B-,2.6,N,No
+168984,Undeclared SSHA,3.7,880,,Yes,Yes,F,0,,B-,2.6,N,No
+63354,Economics,3.59,1140,,Yes,Yes,F,0,4,B-,2.6,N,No
+80550,Undeclared,3.61,540,,Yes,Yes,F,6,6,B-,2.6,N,No
+81990,Bioengineering,2.5,970,Yes,,No,M,0,4,C,2.6,N,No
+113440,Sociology,3.64,740,,No,Yes,F,0,4,C-,2.6,N,No
+100188,Sociology,3.63,810,Yes,Yes,Yes,F,0,4,C-,2.6,N,No
+109046,Chemical Sciences,3.63,830,,No,,F,0,4,C-,2.6,N,No
+95266,Undeclared SSHA,3.62,880,,No,Yes,F,0,4,C-,2.6,N,No
+106730,Undeclared Natural Sciences,3.63,940,,Yes,Yes,F,0,4,C-,2.6,N,No
+114208,Mechanical Engineering,3.64,940,,Yes,Yes,F,0,4,C-,2.6,N,No
+109124,Undeclared,3.63,950,,No,Yes,F,0,4,C-,2.6,N,No
+117794,Biological Sciences,3.65,970,Yes,Yes,Yes,F,0,4,C-,2.6,N,No
+67772,Biological Sciences,3.6,980,Yes,Yes,Yes,F,0,4,C-,2.6,N,No
+114740,Chemical Sciences,3.65,980,,Yes,Yes,F,0,4,C-,2.6,N,No
+67516,Undeclared,3.6,1020,,Yes,Yes,F,0,4,C-,2.6,N,No
+68336,Mechanical Engineering,3.6,1020,,Yes,Yes,F,0,4,C-,2.6,N,No
+113390,Mechanical Engineering,3.64,1020,Yes,No,Yes,F,0,4,C-,2.6,N,No
+95502,Chemical Sciences,3.62,1110,,No,Yes,F,0,4,C-,2.6,N,No
+106880,Undeclared,3.63,1110,,Yes,Yes,F,0,4,C-,2.6,N,No
+66680,Undeclared,3.6,1120,Yes,Yes,Yes,F,0,4,C-,2.6,N,No
+108016,Sociology,3.63,1130,Yes,Yes,Yes,F,0,4,C-,2.6,N,No
+70552,Political Science,3.6,1150,,Yes,Yes,F,0,4,C-,2.6,N,No
+67858,Biological Sciences,3.6,810,,Yes,Yes,F,6,4,D-,2.6,N,No
+74508,Political Science,3.6,830,,Yes,No,M,6,4,D-,2.6,N,No
+151680,Undeclared,3.68,840,,No,Yes,F,0,4,D-,2.6,N,No
+111484,Economics,3.64,870,Yes,Yes,Yes,M,1,,D-,2.6,N,No
+113156,Mechanical Engineering,3.64,760,,No,No,F,0,4,F,2.6,N,No
+123612,Applied Mathematical Sciences,3.65,950,,Yes,No,F,0,4,F,2.6,N,No
+124776,Management & Business Economics,3.65,1090,,Yes,No,F,0,4,F,2.6,N,No
+197848,Undeclared Engineering,3.72,750,,No,Yes,F,0,4,I,2.6,N,No
+188570,Biological Sciences,3.72,770,,,Yes,F,0,4,I,2.6,N,No
+144098,Biological Sciences,3.67,790,No,No,Yes,F,0,4,I,2.6,N,No
+180264,Management & Business Economics,3.7,920,,No,Yes,F,0,4,I,2.6,N,No
+140348,Undeclared,2.85,1010,Yes,Yes,Yes,F,0,4,I,2.6,N,No
+180368,Computer Science & Engineering,3.7,1040,,Yes,Yes,F,0,4,I,2.6,N,No
+187928,Management & Business Economics,3.72,1130,Yes,Yes,Yes,F,0,4,I,2.6,N,No
+29700,Undeclared,3.06,550,No,No,Yes,F,0,1,W,2.6,N,No
+225340,Undeclared,3.75,1040,Yes,No,No,F,0,7,A,2.6,Y,No
+148670,English,3.68,900,Yes,Yes,Yes,M,0,,A+,2.6,Y,No
+119368,Political Science,3.65,930,,No,Yes,F,0,4,A+,2.6,Y,No
+125138,Computer Science & Engineering,3.65,940,,No,No,F,14,4,A+,2.6,Y,No
+207618,Anthropology,3.73,940,,No,Yes,F,0,4,A+,2.6,Y,No
+68636,Undeclared Natural Sciences,3.6,950,No,No,Yes,F,20,,A+,2.6,Y,No
+82540,Economics,3.61,1010,Yes,Yes,No,F,8,4,A+,2.6,Y,No
+261884,Undeclared,3.8,1050,Yes,No,No,M,4,4,A+,2.6,Y,No
+126928,Undeclared SSHA,3.65,1070,,Yes,No,F,0,4,A+,2.6,Y,No
+229150,Management & Business Economics,3.76,1080,,Yes,No,F,10,4,A+,2.6,Y,No
+209166,Undeclared,3.74,1100,,Yes,No,F,0,4,A+,2.6,Y,No
+61086,Undeclared,3.59,1110,,Yes,Yes,M,2,4,A+,2.6,Y,No
+103406,Biological Sciences,3.63,890,,Yes,No,F,8,10,A+,2.6,Y,No
+63166,Applied Mathematical Sciences,3.59,900,,Yes,Yes,F,8,10,A+,2.6,Y,No
+74040,Political Science,3.6,900,Yes,Yes,Yes,M,6,10,A+,2.6,Y,No
+174444,Management & Business Economics,3.7,910,,,Yes,F,0,10,A+,2.6,Y,No
+173658,Undeclared,3.7,920,,No,Yes,M,8,10,A+,2.6,Y,No
+174460,Management & Business Economics,3.7,920,,Yes,No,M,8,10,A+,2.6,Y,No
+99246,Psychology,3.62,930,Yes,Yes,Yes,F,10,10,A+,2.6,Y,No
+67748,Biological Sciences,3.6,940,,Yes,No,F,11,10,A+,2.6,Y,No
+94888,Undeclared Natural Sciences,3.62,950,,,Yes,F,6,10,A+,2.6,Y,No
+73688,Undeclared SSHA,3.6,960,Yes,Yes,Yes,F,0,10,A+,2.6,Y,No
+149326,Chemical Sciences,3.68,980,Yes,Yes,Yes,F,0,10,A+,2.6,Y,No
+174078,Spanish,3.7,1000,,No,Yes,F,0,10,A+,2.6,Y,No
+65644,Biological Sciences,3.59,1010,Yes,Yes,Yes,M,7,10,A+,2.6,Y,No
+78330,Undeclared,3.6,1020,,Yes,Yes,F,12,10,A+,2.6,Y,No
+99910,Computer Science & Engineering,3.63,1040,Yes,Yes,Yes,F,18,10,A+,2.6,Y,No
+168932,Biological Sciences,3.7,1040,Yes,Yes,Yes,F,0,10,A+,2.6,Y,No
+61434,Undeclared,3.59,1060,Yes,Yes,No,F,10,10,A+,2.6,Y,No
+68952,Undeclared,3.6,1060,,Yes,Yes,M,10,10,A+,2.6,Y,No
+163684,Psychology,3.69,1060,Yes,Yes,No,F,11,10,A+,2.6,Y,No
+278950,Undeclared,3.81,910,,No,No,F,0,9,C,2.6,Y,No
+126190,Anthropology,3.65,1030,,No,Yes,F,0,4,C-,2.6,Y,No
+186238,Undeclared,3.72,1010,,Yes,Yes,F,0,4,I,2.6,Y,No
+61004,Undeclared,2.35,780,,Yes,Yes,F,0,1,A-,2.6,Y,Yes
+77568,Undeclared,3.6,1090,Yes,Yes,Yes,F,0,4,A+,2.6,Y,Yes
+66868,Chemical Sciences,3.6,940,,Yes,Yes,M,10,,A+,2.6,Y,Yes
+157376,Undeclared Engineering,3.68,940,Yes,Yes,No,F,11,10,A+,2.6,Y,Yes
+251712,Undeclared SSHA,3.08,950,,No,Yes,M,7,10,A+,2.6,Y,Yes
+65524,Earth Systems Science,3.59,950,Yes,Yes,Yes,F,8,10,A+,2.6,Y,Yes
+65780,Mechanical Engineering,3.59,970,,No,No,F,7,10,A+,2.6,Y,Yes
+277056,Psychology,3.12,990,Yes,No,Yes,F,9,10,A+,2.6,Y,Yes
+276730,Psychology,3.12,1030,,Yes,No,F,0,10,A+,2.6,Y,Yes
+280974,Psychology,3.12,1050,,Yes,Yes,F,0,10,A+,2.6,Y,Yes
+64344,Psychology,3.59,1060,Yes,Yes,No,F,9,10,A+,2.6,Y,Yes
+65088,Chemical Sciences,3.59,1070,,Yes,Yes,M,8,10,A+,2.6,Y,Yes
+72978,Political Science,3.6,1070,,Yes,Yes,M,11,10,A+,2.6,Y,Yes
+74616,Undeclared SSHA,3.6,1070,,Yes,No,M,6,10,A+,2.6,Y,Yes
+78358,Mechanical Engineering,3.6,1110,Yes,Yes,Yes,F,17,10,A+,2.6,Y,Yes
+210430,Undeclared,3,1130,,Yes,No,M,11,10,A+,2.6,Y,Yes
+154258,Mechanical Engineering,3.68,1130,Yes,Yes,No,F,8,10,A+,2.6,Y,Yes
+274982,Anthropology,3.11,1140,,Yes,No,M,7,10,A+,2.6,Y,Yes
+75276,Biological Sciences,3.6,1140,,No,Yes,M,10,10,A+,2.6,Y,Yes
+234328,Computer Science & Engineering,3.05,1150,Yes,Yes,Yes,M,7,10,A+,2.6,Y,Yes
+163650,Sociology,3.69,1230,,Yes,No,F,8,10,A+,2.6,Y,Yes
+67546,Computer Science & Engineering,3.6,790,Yes,Yes,Yes,F,0,10,B-,2.6,Y,Yes
+156118,Sociology,3.68,800,,No,Yes,F,8,10,B-,2.6,Y,Yes
+101628,Political Science,3.63,850,Yes,Yes,No,F,12,10,B-,2.6,Y,Yes
+242586,Environmental Engineering,3.06,1070,Yes,No,Yes,M,12,4,C,2.6,Y,Yes
+107846,Biological Sciences,3.63,880,,Yes,Yes,F,0,4,C-,2.6,Y,Yes
+73672,Biological Sciences,3.6,990,,Yes,Yes,F,0,4,C-,2.6,Y,Yes
+174360,Sociology,3.7,880,,Yes,Yes,M,0,4,D-,2.6,Y,Yes
+117464,History,3.65,1130,Yes,No,No,F,0,5,D+,2.6,Y,Yes
+66596,Undeclared,2.36,830,,Yes,Yes,F,0,4,I,2.6,Y,Yes
+185198,Management & Business Economics,2.95,1090,Yes,No,Yes,F,0,4,I,2.6,Y,Yes
+197322,Physics,3.72,1090,,Yes,Yes,F,0,4,I,2.6,Y,Yes
+75374,Management & Business Economics,2.43,1110,,Yes,Yes,F,0,4,I,2.6,Y,Yes
+174184,Undeclared,3.7,1270,Yes,Yes,Yes,F,0,4,I,2.6,Y,Yes
+209420,Undeclared,3.74,820,No,No,Yes,F,10,10,B-,2.61,N,No
+123758,Chemical Sciences,3.65,1010,,Yes,Yes,F,0,4,C-,2.61,N,No
+119116,Economics,3.65,1050,,,Yes,F,0,4,C-,2.62,N,No
+126216,Chemical Sciences,3.65,1100,Yes,No,Yes,F,0,4,C-,2.62,N,No
+208950,Undeclared Engineering,3.74,1130,Yes,No,Yes,M,11,10,A+,2.62,Y,Yes
+221396,Computer Science & Engineering,3.75,770,Yes,Yes,Yes,F,13,10,B-,2.62,Y,Yes
+221586,Undeclared,3.75,950,Yes,Yes,No,M,6,10,A+,2.64,N,No
+228872,Economics,3.76,960,,Yes,No,M,6,10,A+,2.64,N,No
+120002,Mechanical Engineering,3.65,870,,Yes,Yes,F,0,4,C-,2.64,N,No
+117944,History,3.65,960,Yes,No,Yes,F,0,4,C-,2.64,N,No
+232778,Undeclared SSHA,3.76,830,No,No,Yes,M,8,10,B-,2.65,N,No
+233014,Physics,3.76,860,No,No,Yes,M,9,10,B-,2.65,N,No
+122590,Sociology,3.65,970,Yes,Yes,Yes,F,0,4,C-,2.65,N,No
+114778,Physics,3.65,1060,,No,Yes,F,0,4,C-,2.65,N,No
+120786,Undeclared,3.65,1120,,Yes,Yes,F,0,4,C-,2.65,N,No
+235794,Undeclared,3.77,1030,,No,No,M,12,10,A+,2.65,Y,Yes
+116548,Undeclared Engineering,3.65,910,No,No,Yes,F,0,4,C-,2.67,N,No
+237436,Undeclared SSHA,3.77,780,,No,No,M,7,10,B-,2.67,Y,Yes
+250270,Undeclared Natural Sciences,3.78,910,No,No,Yes,M,6,10,A+,2.68,N,No
+273308,Chemical Sciences,3.8,1100,,Yes,No,F,14,10,A+,2.68,N,No
+141298,Anthropology,3.66,720,Yes,Yes,Yes,F,0,,C-,2.68,N,No
+99644,Bioengineering,2.66,1000,Yes,No,No,M,0,4,C+,2.68,N,No
+99650,Undeclared,2.66,1070,Yes,No,No,M,0,4,C+,2.68,N,No
+259910,Cognitive Science,3.8,930,Yes,No,Yes,F,10,10,A+,2.68,Y,Yes
+248288,Psychology,3.78,1140,Yes,No,Yes,F,9,10,A+,2.68,Y,Yes
+101516,Chemical Sciences,2.66,1070,Yes,Yes,No,M,0,4,C+,2.68,Y,Yes
+264590,Psychology,3.8,880,,Yes,Yes,F,8,10,B-,2.69,N,No
+103126,Biological Sciences,2.68,1270,Yes,Yes,No,M,0,4,C+,2.69,N,No
+102518,Undeclared SSHA,2.68,1130,Yes,Yes,No,M,0,4,C+,2.69,Y,No
+272472,Undeclared SSHA,3.8,1010,Yes,Yes,No,M,8,10,A+,2.69,Y,Yes
+199436,Biological Sciences,3.72,900,Yes,Yes,No,F,2,6,A,2.7,N,No
+221380,Economics,3.75,930,,Yes,No,F,10,6,A,2.7,N,No
+75582,Undeclared,3.6,680,,No,No,F,0,10,F,2.7,N,No
+69432,Psychology,2.33,1120,Yes,No,No,F,0,10,F,2.7,N,No
+283646,Bioengineering,3.12,780,No,No,Yes,F,0,10,I,2.7,N,No
+186254,Chemical Sciences,2.96,960,Yes,Yes,Yes,F,0,10,I,2.7,N,No
+166318,Undeclared,2.91,1110,,No,Yes,F,0,10,I,2.7,N,No
+190504,Computer Science & Engineering,3.72,1180,,Yes,Yes,F,0,10,I,2.7,N,No
+274388,Undeclared,3.11,940,Yes,Yes,Yes,F,0,1,W,2.7,N,No
+273494,Political Science,3.11,1070,,Yes,No,F,0,6,W,2.7,N,No
+275278,Undeclared SSHA,3.81,930,,No,No,F,2,6,A,2.7,Y,No
+284882,Bioengineering,3.82,930,,Yes,No,F,3,6,A,2.7,Y,No
+71692,Political Science,3.6,1030,,Yes,No,F,4,6,A,2.7,Y,No
+253766,Undeclared,3.09,760,No,No,No,F,4,7,A,2.7,Y,No
+272824,Biological Sciences,3.8,920,Yes,No,No,F,6,7,A,2.7,Y,No
+62408,Undeclared Engineering,4.13,1300,No,No,Yes,F,2,7,A,2.7,Y,No
+61840,Biological Sciences,4.1,1310,No,No,No,F,0,7,A,2.7,Y,No
+62198,Undeclared,4.12,1430,Yes,No,Yes,F,2,7,A,2.7,Y,No
+163508,Management & Business Economics,3.69,700,,No,No,F,2,8,A,2.7,Y,No
+64048,Undeclared Natural Sciences,4.2,1230,,No,No,F,2,8,A,2.7,Y,No
+64332,Psychology,4.2,1320,,No,Yes,F,2,8,A,2.7,Y,No
+61360,Biological Sciences,3.59,890,,Yes,Yes,M,8,1,A-,2.7,Y,No
+61368,Chemical Sciences,3.59,1040,Yes,Yes,Yes,F,8,1,A-,2.7,Y,No
+110752,Chemical Sciences,3.64,840,,Yes,No,F,4,3,A-,2.7,Y,No
+197520,Psychology,3.72,850,,Yes,Yes,F,3,3,A-,2.7,Y,No
+153666,Management & Business Economics,3.68,780,No,No,No,F,2,5,A-,2.7,Y,No
+172750,Undeclared,3.7,920,Yes,No,No,F,2,6,A-,2.7,Y,No
+281680,Computer Science & Engineering,3.81,920,Yes,Yes,Yes,M,8,10,A+,2.7,Y,No
+73880,Biological Sciences,3.6,940,,No,Yes,M,11,10,A+,2.7,Y,No
+124326,Sociology,3.65,940,,No,No,M,14,10,A+,2.7,Y,No
+264426,Mechanical Engineering,3.8,950,,Yes,Yes,F,8,10,A+,2.7,Y,No
+112454,Undeclared,3.64,990,,No,Yes,F,0,10,A+,2.7,Y,No
+209110,Psychology,3.74,1000,Yes,Yes,Yes,F,0,10,A+,2.7,Y,No
+63584,Environmental Engineering,3.59,1040,,Yes,Yes,M,15,10,A+,2.7,Y,No
+189226,Economics,3.72,1050,,No,Yes,F,0,10,A+,2.7,Y,No
+139512,Undeclared Natural Sciences,2.84,1100,,Yes,Yes,M,2,10,A+,2.7,Y,No
+229416,Undeclared SSHA,3.76,1240,,Yes,No,F,16,10,A+,2.7,Y,No
+78288,Biological Sciences,2.87,820,,Yes,No,M,3,2,B,2.7,Y,No
+32800,Management & Business Economics,3.59,890,,Yes,No,M,8,4,B,2.7,Y,No
+158454,Chemical Sciences,3.68,920,,No,No,F,0,5,B,2.7,Y,No
+201778,Undeclared,3.73,610,,Yes,No,F,0,10,B-,2.7,Y,No
+189372,Mechanical Engineering,3.72,840,,No,Yes,F,6,10,B-,2.7,Y,No
+231714,Undeclared,3.76,860,Yes,Yes,Yes,M,0,10,B-,2.7,Y,No
+67746,Literatures and Cultures,2.89,630,,No,Yes,F,6,7,B-,2.7,Y,No
+50218,Management & Business Economics,2.35,880,,Yes,Yes,M,36,2,B+,2.7,Y,No
+162886,Biological Sciences,3.69,870,,No,No,M,4,3,B+,2.7,Y,No
+42480,Undeclared SSHA,4.07,1370,Yes,Yes,No,F,5,7,B+,2.7,Y,No
+236608,Undeclared Engineering,3.77,690,Yes,Yes,No,F,15,8,B+,2.7,Y,No
+137900,Undeclared SSHA,3.03,830,Yes,No,Yes,F,1,7,C,2.7,Y,No
+65168,Chemical Sciences,3.59,1010,,Yes,Yes,M,8,1,C-,2.7,Y,No
+145414,Cognitive Science,3.67,540,,Yes,Yes,M,8,7,C+,2.7,Y,No
+244862,Computer Science & Engineering,3.77,770,No,No,No,F,0,10,D-,2.7,Y,No
+262672,Undeclared SSHA,3.1,800,No,No,No,F,0,10,D-,2.7,Y,No
+195268,Computer Science & Engineering,3.72,870,,No,No,F,0,10,D-,2.7,Y,No
+168636,Undeclared SSHA,2.92,1100,Yes,Yes,No,F,0,10,D-,2.7,Y,No
+116750,Undeclared,3.05,730,,No,Yes,F,0,6,D+,2.7,Y,No
+186224,Management & Business Economics,3.72,940,Yes,Yes,No,F,0,10,D+,2.7,Y,No
+99466,Undeclared,3.63,1000,,Yes,Yes,F,0,10,D+,2.7,Y,No
+190502,Management & Business Economics,3.72,1070,,Yes,No,F,0,10,D+,2.7,Y,No
+279884,English,3.81,1070,,Yes,No,F,0,10,D+,2.7,Y,No
+153410,Psychology,3.68,1110,Yes,No,Yes,F,0,,D+,2.7,Y,No
+95054,Environmental Engineering,2.73,950,Yes,No,No,F,0,7,A,2.7,Y,No
+180958,Biological Sciences,3.05,790,,No,No,F,7,5,A-,2.7,Y,No
+160070,Applied Mathematical Sciences,3.69,790,,No,No,F,6,5,A-,2.7,Y,No
+186644,Undeclared SSHA,3.72,930,,No,No,F,2,6,A-,2.7,Y,No
+188082,Undeclared,3.72,920,Yes,No,No,F,5,7,A-,2.7,Y,No
+73790,Psychology,3.6,1060,Yes,Yes,Yes,F,4,10,A+,2.7,Y,No
+32744,Biological Sciences,3.59,850,,Yes,Yes,M,12,5,B,2.7,Y,No
+39234,Computer Science & Engineering,4.14,1250,Yes,Yes,Yes,F,0,7,B,2.7,Y,No
+38288,Undeclared,4.1,1400,Yes,Yes,No,F,0,7,B,2.7,Y,No
+35684,Bioengineering,2.35,620,,No,Yes,F,6,1,B-,2.7,Y,No
+79342,Anthropology,3.6,950,Yes,Yes,Yes,M,10,7,B-,2.7,Y,No
+49040,Undeclared Natural Sciences,2.34,590,Yes,Yes,Yes,M,10,2,B+,2.7,Y,No
+48568,Undeclared Natural Sciences,2.35,600,No,No,Yes,F,0,2,B+,2.7,Y,No
+38104,Undeclared SSHA,4.1,1150,,No,Yes,F,4,5,B+,2.7,Y,No
+38202,Undeclared SSHA,4.1,1110,Yes,Yes,No,F,8,6,B+,2.7,Y,No
+38754,Undeclared,4.11,1200,,No,No,F,0,6,B+,2.7,Y,No
+29754,Undeclared,2.96,670,,Yes,No,M,6,1,D-,2.7,Y,No
+64274,Social and Cognitive Science,4.2,1400,Yes,No,No,F,2,8,A,2.7,Y,Yes
+219406,Undeclared,3.04,680,No,No,No,F,13,6,A,2.7,Y,Yes
+241766,Sociology,3.77,880,,Yes,No,F,7,6,A,2.7,Y,Yes
+129886,Biological Sciences,3.66,740,No,No,No,F,4,7,A,2.7,Y,Yes
+40330,Literatures and Cultures,2.85,970,Yes,Yes,No,F,4,7,A,2.7,Y,Yes
+61686,Undeclared,4.1,1400,,,No,F,0,7,A,2.7,Y,Yes
+61736,Undeclared,4.1,1500,,Yes,Yes,F,0,7,A,2.7,Y,Yes
+64124,Undeclared Engineering,4.2,1360,,Yes,No,F,2,8,A,2.7,Y,Yes
+50246,Undeclared,2.35,710,Yes,Yes,Yes,F,6,2,A-,2.7,Y,Yes
+232918,Undeclared SSHA,3.76,960,Yes,No,Yes,F,4,3,A-,2.7,Y,Yes
+172768,Undeclared,3.7,980,Yes,Yes,Yes,F,3,3,A-,2.7,Y,Yes
+130612,Economics,3.66,1070,Yes,Yes,Yes,M,3,3,A-,2.7,Y,Yes
+237800,Computer Science & Engineering,3.77,690,No,No,No,F,0,6,A-,2.7,Y,Yes
+263964,Biological Sciences,3.1,910,,No,No,F,0,6,A-,2.7,Y,Yes
+50892,Undeclared Engineering,4.06,1350,,Yes,Yes,F,4,6,A-,2.7,Y,Yes
+153612,Undeclared SSHA,3.68,730,,No,No,F,0,7,A-,2.7,Y,Yes
+263966,Chemical Sciences,3.1,740,,No,No,F,0,7,A-,2.7,Y,Yes
+84044,Biological Sciences,3.54,1290,,,Yes,M,8,1,A+,2.7,Y,Yes
+282576,Biological Sciences,3.81,920,Yes,,No,F,11,,A+,2.7,Y,Yes
+271556,Biological Sciences,3.11,980,Yes,Yes,No,F,0,10,A+,2.7,Y,Yes
+98368,Undeclared,3.62,1080,,Yes,No,M,0,10,A+,2.7,Y,Yes
+50352,Undeclared Natural Sciences,4.15,1110,,No,No,M,11,2,B,2.7,Y,Yes
+31462,Computer Science & Engineering,3.59,1140,,Yes,Yes,F,2,8,B,2.7,Y,Yes
+31770,Undeclared,3.59,1250,Yes,Yes,No,F,0,9,B,2.7,Y,Yes
+281688,Computer Science & Engineering,3.81,590,,Yes,No,F,9,,B-,2.7,Y,Yes
+228994,Undeclared,3.76,780,Yes,Yes,No,F,0,10,B-,2.7,Y,Yes
+272270,Biological Sciences,3.8,880,,Yes,No,F,0,10,B-,2.7,Y,Yes
+48890,Bioengineering,2.35,700,,Yes,,M,8,2,B+,2.7,Y,Yes
+50006,Undeclared,4.15,1190,Yes,Yes,Yes,M,0,3,B+,2.7,Y,Yes
+37964,Undeclared Natural Sciences,2.94,990,Yes,No,No,F,1,7,B+,2.7,Y,Yes
+168084,Undeclared,2.92,1020,Yes,No,Yes,M,12,1,C,2.7,Y,Yes
+104664,Undeclared,2.69,1150,Yes,Yes,No,M,0,4,C+,2.7,Y,Yes
+184838,Undeclared Natural Sciences,2.95,930,,Yes,Yes,M,6,1,D,2.7,Y,Yes
+189444,Undeclared Engineering,3,1010,,Yes,Yes,M,6,1,D,2.7,Y,Yes
+208880,Undeclared,3,990,,No,No,M,8,1,D-,2.7,Y,Yes
+181632,Undeclared,2.95,760,,Yes,No,F,0,10,D-,2.7,Y,Yes
+170412,Biological Sciences,2.94,950,,No,No,F,0,10,D-,2.7,Y,Yes
+190134,Public Health,3.72,1080,,No,No,F,0,10,D-,2.7,Y,Yes
+199258,Undeclared,3,1110,Yes,Yes,No,F,0,10,D-,2.7,Y,Yes
+76704,Undeclared,2.45,1150,,Yes,Yes,F,0,10,D+,2.7,Y,Yes
+233368,Biological Sciences,3.05,1060,Yes,Yes,Yes,M,13,1,F,2.7,Y,Yes
+65812,Undeclared Natural Sciences,3.59,960,,No,No,F,0,10,F,2.7,Y,Yes
+66246,Biological Sciences,2.35,990,,,No,F,0,10,F,2.7,Y,Yes
+93582,Computer Science & Engineering,2.62,1010,,No,No,F,0,10,F,2.7,Y,Yes
+183002,Undeclared,3.71,1040,Yes,Yes,No,F,0,10,F,2.7,Y,Yes
+79312,Computer Science & Engineering,2.48,1100,Yes,Yes,No,F,0,,F,2.7,Y,Yes
+186622,Psychology,3.72,1110,Yes,Yes,No,F,0,10,F,2.7,Y,Yes
+74004,Mechanical Engineering,2.4,1120,,No,No,F,0,10,F,2.7,Y,Yes
+77476,Undeclared,3.45,1290,,Yes,No,F,0,10,F,2.7,Y,Yes
+81238,Applied Mathematical Sciences,3,1070,Yes,Yes,Yes,F,0,4,I,2.7,Y,Yes
+91750,Environmental Engineering,2.61,750,Yes,Yes,Yes,F,0,10,I,2.7,Y,Yes
+205474,Public Health,3.73,920,,No,Yes,F,0,10,I,2.7,Y,Yes
+91044,Psychology,2.6,940,,Yes,Yes,F,0,10,I,2.7,Y,Yes
+205272,Undeclared,3,1020,,Yes,Yes,F,0,10,I,2.7,Y,Yes
+143194,Undeclared,2.85,1050,Yes,Yes,Yes,F,0,10,I,2.7,Y,Yes
+277188,Mechanical Engineering,3.12,1010,Yes,Yes,No,F,0,1,W,2.7,Y,Yes
+279146,Mechanical Engineering,3.12,990,,No,No,F,0,1,W,2.7,Y,Yes
+282310,Psychology,3.12,1060,,Yes,No,F,0,2,W,2.7,Y,Yes
+33480,Chemical Sciences,3.59,1150,Yes,Yes,Yes,F,2,10,B,2.71,N,No
+65062,Undeclared,3.59,730,,Yes,Yes,F,8,1,C,2.71,N,No
+106394,Undeclared,2.7,1080,Yes,Yes,No,M,0,4,C+,2.71,N,No
+65498,Materials Sci & Engineering,3.59,740,,Yes,No,M,8,1,D+,2.71,N,No
+51730,Undeclared,3.59,1140,Yes,No,Yes,F,8,1,W,2.71,N,No
+111966,Undeclared,2.72,890,Yes,Yes,No,M,0,4,C+,2.71,Y,Yes
+112016,Undeclared,2.72,1020,,Yes,No,M,0,4,C+,2.71,Y,Yes
+60672,Mechanical Engineering,3.59,1100,,No,Yes,F,12,1,W,2.71,Y,Yes
+61972,Undeclared SSHA,3.59,1140,,Yes,No,F,12,,B,2.72,N,No
+244054,Biological Sciences,3.77,780,No,No,No,F,0,6,B+,2.72,N,No
+65228,Undeclared Engineering,3.59,1090,Yes,Yes,No,F,8,1,C-,2.72,N,No
+120318,Bioengineering,2.76,850,Yes,Yes,No,M,0,4,C+,2.72,N,No
+126238,Undeclared,2.78,1100,,No,No,M,0,4,C+,2.72,N,No
+129572,Biological Sciences,2.8,1140,,Yes,No,M,0,4,C+,2.72,N,No
+67070,Mechanical Engineering,3.6,740,No,No,Yes,F,8,1,D,2.72,N,No
+66184,Sociology,3.6,850,,No,Yes,M,10,1,I,2.72,N,No
+75664,Sociology,3.6,810,,,No,M,10,1,W,2.72,N,No
+76888,Computer Science & Engineering,3.6,1110,Yes,Yes,No,M,6,1,W,2.72,N,No
+25948,Undeclared SSHA,3.02,560,,No,Yes,M,4,2,W,2.72,N,No
+35248,Undeclared SSHA,3.02,760,Yes,No,Yes,F,6,1,A-,2.72,Y,Yes
+264342,History,3.8,850,Yes,Yes,No,M,6,6,A+,2.72,Y,Yes
+64058,Undeclared SSHA,3.59,1050,,No,No,M,8,1,C+,2.72,Y,Yes
+119190,Undeclared,2.76,820,,Yes,No,M,0,4,C+,2.72,Y,Yes
+118360,Undeclared,2.75,1100,Yes,Yes,No,M,0,4,C+,2.72,Y,Yes
+119910,Undeclared,2.76,1100,,Yes,No,M,0,4,C+,2.72,Y,Yes
+119450,Undeclared,2.76,1140,,Yes,No,M,0,4,C+,2.72,Y,Yes
+115566,Undeclared,2.75,1200,Yes,Yes,No,M,0,4,C+,2.72,Y,Yes
+70702,Psychology,3.6,960,,Yes,No,F,12,1,W,2.72,Y,Yes
+74596,Psychology,3.6,980,,No,Yes,F,12,1,W,2.72,Y,Yes
+74606,Biological Sciences,3.6,980,Yes,No,No,M,10,1,W,2.72,Y,Yes
+76862,Computer Science & Engineering,3.6,1000,,Yes,Yes,F,7,1,W,2.72,Y,Yes
+77360,Applied Mathematical Sciences,3.6,1000,,Yes,Yes,M,8,1,W,2.72,Y,Yes
+75504,Undeclared SSHA,3.6,620,,Yes,No,F,10,1,A-,2.73,N,No
+74220,Undeclared SSHA,3.6,700,Yes,Yes,Yes,F,11,1,C,2.73,N,No
+133152,Undeclared,2.81,920,,Yes,No,M,0,4,C+,2.73,N,No
+133556,Undeclared,2.81,940,Yes,No,No,M,0,4,C+,2.73,N,No
+140768,Applied Mathematical Sciences,2.85,1010,,No,No,M,0,4,C+,2.73,N,No
+136024,Undeclared SSHA,2.82,1130,,No,No,M,0,4,C+,2.73,N,No
+67122,Undeclared SSHA,3.6,900,No,No,Yes,F,8,,W,2.73,N,No
+85548,Psychology,3.61,1090,,No,Yes,F,0,1,W,2.73,N,No
+140208,Political Science,2.85,930,,No,No,M,0,4,C+,2.74,N,No
+68860,Biological Sciences,2.41,1120,,Yes,No,F,0,2,F,2.74,Y,No
+78184,Undeclared,3.6,870,Yes,Yes,No,F,3,9,A,2.75,N,No
+185532,Applied Mathematical Sciences,3.72,1070,Yes,Yes,No,F,3,9,A,2.75,N,No
+163448,Undeclared,3.69,930,Yes,Yes,No,F,2,10,A,2.75,N,No
+34330,Biological Sciences,3.59,790,,No,No,F,1,5,A-,2.75,N,No
+77412,Undeclared,2.65,640,No,No,No,F,7,9,A-,2.75,N,No
+275936,Management &Business Economics,3.81,830,,No,No,F,0,5,D,2.75,N,No
+277952,Management &Business Economics,3.81,850,,No,Yes,M,10,5,D,2.75,N,No
+76902,Psychology,3.05,530,,No,Yes,F,0,6,D-,2.75,N,No
+269004,Environmental Engineering,3.8,920,,No,No,F,0,5,D+,2.75,N,No
+110220,Psychology,3.63,840,,No,No,F,7,1,W,2.75,N,No
+74942,Biological Sciences,2.62,650,,No,No,F,3,9,A-,2.75,Y,No
+78718,Anthropology,3.6,970,Yes,Yes,Yes,F,0,7,B-,2.75,Y,No
+133336,Undeclared,2.81,810,,,Yes,F,10,1,B+,2.75,Y,No
+245828,Management & Business Economics,3.77,800,,No,No,F,0,5,B+,2.75,Y,No
+125172,Undeclared,2.78,1010,Yes,No,No,M,9,5,B+,2.75,Y,No
+132468,Undeclared,2.81,1070,,Yes,No,F,0,5,B+,2.75,Y,No
+77116,Undeclared,3.69,820,No,No,No,F,0,6,B+,2.75,Y,No
+279266,Undeclared,3.81,1010,,No,Yes,F,0,7,C,2.75,Y,No
+77736,Mechanical Engineering,3.6,700,Yes,Yes,Yes,M,7,7,C,2.75,Y,No
+249658,History,3.78,1040,Yes,No,Yes,F,6,7,C-,2.75,Y,No
+155694,Undeclared,2.9,830,,Yes,No,M,0,4,C+,2.75,Y,No
+153010,Undeclared Engineering,2.88,950,Yes,Yes,No,M,0,4,C+,2.75,Y,No
+162964,Undeclared,2.9,1030,Yes,Yes,No,M,0,4,C+,2.75,Y,No
+158140,Undeclared SSHA,2.9,1150,,Yes,No,M,0,4,C+,2.75,Y,No
+181222,Literatures and Cultures,2.95,1240,,Yes,No,M,0,4,C+,2.75,Y,No
+153552,Applied Mathematical Sciences,3.68,850,,No,Yes,F,0,9,C+,2.75,Y,No
+63796,Biological Sciences,3.59,930,,Yes,No,M,6,6,C+,2.75,Y,No
+63618,Chemical Sciences,3.59,1070,,Yes,No,M,12,6,C+,2.75,Y,No
+114216,Undeclared,3.03,730,,No,Yes,M,0,7,C+,2.75,Y,No
+218226,Biological Sciences,3.75,560,,No,No,F,2,8,C+,2.75,Y,No
+281056,Psychology,3.81,560,,No,No,F,3,8,C+,2.75,Y,No
+276458,Management &Business Economics,3.81,820,No,,No,M,2,6,A,2.75,Y,No
+245512,Mechanical Engineering,3.81,880,,No,No,F,0,6,A-,2.75,Y,No
+249440,Undeclared,3.78,800,,No,No,F,2,8,A-,2.75,Y,No
+249380,Undeclared Natural Sciences,3.78,810,No,No,No,F,0,7,B+,2.75,Y,No
+219812,Management & Business Economics,3.75,830,,No,No,F,0,10,B+,2.75,Y,No
+100852,Spanish,3.63,570,No,No,Yes,F,6,8,C+,2.75,Y,No
+94660,Mechanical Engineering,2.73,800,,No,No,F,0,2,F,2.75,Y,No
+77828,Computer Science & Engineering,3.6,920,Yes,Yes,No,F,0,2,F,2.75,Y,No
+263428,Political Science,3.1,930,,Yes,No,F,0,2,F,2.75,Y,No
+69124,Psychology,2.41,1020,Yes,No,No,F,0,2,F,2.75,Y,No
+243614,Undeclared,3.07,1030,Yes,Yes,No,F,0,2,F,2.75,Y,No
+255366,Environmental Engineering,3.09,1100,,Yes,No,F,0,2,F,2.75,Y,No
+230298,Environmental Engineering,3.76,1100,,Yes,No,F,0,2,F,2.75,Y,No
+120188,Undeclared,2.76,1100,,Yes,No,F,8,,A,2.75,Y,Yes
+111364,Undeclared,2.72,1170,Yes,Yes,Yes,M,6,5,A+,2.75,Y,Yes
+194540,Undeclared,3.27,1060,,Yes,No,M,0,10,A+,2.75,Y,Yes
+282012,Anthropology,3.12,880,,No,Yes,M,6,,B-,2.75,Y,Yes
+167540,Management & Business Economics,2.92,1130,Yes,Yes,Yes,F,0,3,C,2.75,Y,Yes
+199924,Undeclared,3,850,Yes,Yes,No,M,0,4,C+,2.75,Y,Yes
+165384,Undeclared SSHA,2.91,940,,Yes,No,M,0,4,C+,2.75,Y,Yes
+187232,Computer Science & Engineering,2.96,1040,Yes,No,No,M,0,4,C+,2.75,Y,Yes
+149330,Computer Science & Engineering,2.87,1070,Yes,No,No,M,0,4,C+,2.75,Y,Yes
+148280,Undeclared SSHA,2.86,930,,No,Yes,M,9,5,C+,2.75,Y,Yes
+78266,Chemical Sciences,2.57,860,Yes,No,Yes,F,0,5,D,2.75,Y,Yes
+187952,Environmental Engineering,3.72,950,,No,Yes,F,0,5,D+,2.75,Y,Yes
+277506,Environmental Engineering,3.81,1140,Yes,No,No,F,0,5,D+,2.75,Y,Yes
+180444,Earth Systems Science,2.95,1130,Yes,Yes,Yes,F,9,6,D+,2.75,Y,Yes
+76498,Biological Sciences,3.6,800,,Yes,Yes,F,12,6,D+,2.75,Y,Yes
+120514,Undeclared,2.86,760,Yes,Yes,No,F,0,,F,2.75,Y,Yes
+65418,Chemical Sciences,2.43,790,,No,No,F,0,2,F,2.75,Y,Yes
+71030,Bioengineering,2.46,790,,Yes,No,F,0,2,F,2.75,Y,Yes
+77460,Biological Sciences,3.6,890,,Yes,No,F,0,2,F,2.75,Y,Yes
+278068,Psychology,3.12,910,,Yes,No,M,0,2,F,2.75,Y,Yes
+110122,Undeclared,2.82,970,,Yes,No,F,0,2,F,2.75,Y,Yes
+281048,Management & Business Economics,3.12,980,,Yes,No,M,0,2,F,2.75,Y,Yes
+186776,Biological Sciences,3.72,990,Yes,,No,M,0,2,F,2.75,Y,Yes
+78898,Mechanical Engineering,2.57,1010,,Yes,No,F,0,2,F,2.75,Y,Yes
+273634,Applied Mathematical Sciences,3.21,1010,Yes,Yes,No,M,0,2,F,2.75,Y,Yes
+180268,Undeclared,3.05,1020,Yes,Yes,No,F,0,2,F,2.75,Y,Yes
+282696,Chemical Sciences,3.12,1020,,No,No,M,0,2,F,2.75,Y,Yes
+69010,Biological Sciences,3.6,1060,Yes,Yes,No,F,0,2,F,2.75,Y,Yes
+68848,Psychology,2.41,1070,,Yes,No,F,0,2,F,2.75,Y,Yes
+70636,Chemical Sciences,3.6,1100,Yes,No,No,F,0,2,F,2.75,Y,Yes
+150530,Undeclared,3.68,1140,Yes,Yes,No,F,0,2,F,2.75,Y,Yes
+282492,Undeclared,3.12,1170,Yes,Yes,No,F,0,2,F,2.75,Y,Yes
+281664,Psychology,3.12,1180,Yes,Yes,No,M,0,2,F,2.75,Y,Yes
+283584,History,3.12,1190,Yes,Yes,No,M,0,2,F,2.75,Y,Yes
+168896,Undeclared,3.7,1190,Yes,Yes,No,F,0,2,F,2.75,Y,Yes
+111084,Undeclared,2.72,970,Yes,Yes,Yes,F,7,5,F,2.75,Y,Yes
+102408,Biological Sciences,3.63,900,,Yes,Yes,F,8,1,W,2.75,Y,Yes
+132236,Undeclared,2.8,910,,No,Yes,F,13,1,D-,2.76,Y,No
+165516,Physics,2.91,870,,,No,M,6,5,C,2.76,Y,Yes
+163142,Literatures and Cultures,2.9,1120,Yes,Yes,Yes,M,20,5,C,2.76,Y,Yes
+101830,Sociology,3.63,870,Yes,Yes,Yes,F,11,1,W,2.76,Y,Yes
+175746,Undeclared,2.95,1140,Yes,,Yes,F,0,5,C-,2.77,N,No
+113048,Mechanical Engineering,3.64,900,Yes,Yes,Yes,F,6,1,W,2.77,N,No
+155266,Undeclared,3.68,910,,No,No,F,4,6,B+,2.77,Y,No
+180858,Biological Sciences,2.95,1080,,Yes,Yes,F,7,5,D+,2.77,Y,Yes
+180448,Undeclared,2.95,1100,Yes,Yes,Yes,M,6,5,D+,2.77,Y,Yes
+75104,Undeclared,2.52,910,Yes,Yes,Yes,F,0,1,I,2.77,Y,Yes
+127020,Anthropology,3.65,910,,Yes,Yes,M,10,1,W,2.78,N,No
+75712,Biological Sciences,3.61,800,,Yes,Yes,M,10,6,A,2.78,Y,No
+203154,Undeclared,3,1040,,Yes,No,M,12,5,D,2.78,Y,Yes
+187138,Psychology,2.96,1090,,Yes,No,M,9,5,D,2.78,Y,Yes
+122988,Biological Sciences,3.65,930,Yes,Yes,Yes,F,0,1,W,2.79,N,No
+216704,Undeclared,3.03,1270,Yes,Yes,No,M,7,5,F,2.79,Y,Yes
+166330,Biological Sciences,3.7,720,,No,Yes,M,10,5,A,2.8,N,No
+158466,Biological Sciences,3.68,930,,No,No,F,0,5,A,2.8,N,No
+176544,Undeclared,3.7,1190,Yes,Yes,Yes,F,6,1,A+,2.8,N,No
+62594,Undeclared Natural Sciences,3.59,910,,Yes,No,F,7,5,B,2.8,N,No
+88020,Mechanical Engineering,3.61,930,No,No,No,M,8,8,B,2.8,N,No
+244556,Undeclared,3.77,910,,No,Yes,F,0,9,B,2.8,N,No
+97402,Psychology,3.62,970,Yes,Yes,Yes,F,0,,B-,2.8,N,No
+263716,Management &Business Economics,3.8,700,,No,Yes,F,4,6,B-,2.8,N,No
+141306,Anthropology,3.66,1240,Yes,Yes,No,F,0,7,B-,2.8,N,No
+240680,Biological Sciences,3.77,740,,Yes,No,F,10,8,B-,2.8,N,No
+155196,Chemical Sciences,3.68,810,No,No,No,F,12,6,C,2.8,N,No
+65364,Undeclared,3.59,810,,Yes,No,F,10,5,C-,2.8,N,No
+141784,Computer Science & Engineering,2.85,1250,,Yes,Yes,F,0,1,C+,2.8,N,No
+157436,Undeclared Natural Sciences,3.68,980,Yes,No,No,F,10,7,C+,2.8,N,No
+263706,English,3.8,1040,,No,Yes,F,14,9,C+,2.8,N,No
+149480,Undeclared,3.68,740,,Yes,Yes,F,10,1,D-,2.8,N,No
+126546,Undeclared,3.65,950,,No,Yes,F,0,5,D+,2.8,N,No
+123320,Applied Mathematical Sciences,3.65,760,,No,No,F,0,1,F,2.8,N,No
+234558,Anthropology,3.77,700,No,No,No,F,0,2,F,2.8,N,No
+228720,Undeclared SSHA,3.04,880,Yes,Yes,No,M,22,5,F,2.8,N,No
+65896,Mechanical Engineering,3.59,1050,,Yes,Yes,F,8,5,F,2.8,N,No
+66584,Political Science,2.46,930,Yes,Yes,No,F,0,1,I,2.8,N,No
+153600,Mechanical Engineering,3.68,820,Yes,Yes,Yes,F,0,1,W,2.8,N,No
+176200,Public Health,3.7,840,Yes,Yes,Yes,M,9,1,W,2.8,N,No
+151190,Biological Sciences,3.68,860,,Yes,Yes,F,0,1,W,2.8,N,No
+188140,Management & Business Economics,3.72,900,,Yes,Yes,M,8,1,W,2.8,N,No
+120058,History,3.65,930,,No,Yes,F,0,1,W,2.8,N,No
+132286,Sociology,3.66,940,No,No,Yes,F,10,1,W,2.8,N,No
+175650,Anthropology,3.7,970,Yes,Yes,Yes,F,12,1,W,2.8,N,No
+171610,Undeclared,3.7,1130,Yes,No,Yes,M,14,1,W,2.8,N,No
+134910,Mechanical Engineering,3.66,780,,No,No,F,7,1,W,2.8,N,No
+15936,Biological Sciences,3.03,530,,,Yes,F,0,1,W,2.8,N,No
+170130,Mechanical Engineering,3.71,640,,No,No,F,0,7,W,2.8,N,No
+262654,Biological Sciences,3.1,920,,No,No,F,0,3,A,2.8,Y,No
+170618,Biological Sciences,3.7,870,No,,Yes,M,11,5,A,2.8,Y,No
+163014,Environmental Engineering,3,870,No,No,Yes,F,0,,A-,2.8,Y,No
+223124,Anthropology,3.75,1210,Yes,Yes,Yes,F,0,1,A+,2.8,Y,No
+49284,Economics,3.59,950,Yes,No,Yes,M,11,5,A+,2.8,Y,No
+67532,Biological Sciences,3.6,950,,Yes,No,M,9,5,A+,2.8,Y,No
+74770,Biological Sciences,3.6,1020,,Yes,Yes,M,10,5,A+,2.8,Y,No
+283624,Management & Business Economics,3.12,1050,,Yes,Yes,M,9,5,A+,2.8,Y,No
+51062,Undeclared SSHA,3.59,1050,,No,Yes,M,6,5,A+,2.8,Y,No
+266542,Mechanical Engineering,3.1,1130,,No,No,F,8,5,A+,2.8,Y,No
+281186,Management & Business Economics,3.12,1130,,Yes,No,M,6,5,A+,2.8,Y,No
+52472,Psychology,3.59,1230,,Yes,No,M,8,5,A+,2.8,Y,No
+34948,Undeclared SSHA,3.02,530,,No,Yes,F,0,2,B,2.8,Y,No
+210586,Undeclared,3,790,No,No,No,M,12,3,B-,2.8,Y,No
+99418,Computer Science & Engineering,3.63,890,Yes,Yes,Yes,F,1,8,B+,2.8,Y,No
+205838,Undeclared,3,940,,No,Yes,M,6,2,C+,2.8,Y,No
+108958,Undeclared,2.71,940,,No,No,M,12,1,I,2.8,Y,No
+108386,Undeclared,2.7,880,No,No,Yes,M,10,1,W,2.8,Y,No
+164682,Undeclared Engineering,3.01,1120,,No,No,M,0,1,A,2.8,Y,Yes
+233380,Biological Sciences,3.05,910,,No,No,M,9,,A,2.8,Y,Yes
+246444,Biological Sciences,3.08,760,,No,No,F,0,4,A,2.8,Y,Yes
+68616,Undeclared,2.51,1230,,Yes,No,M,11,6,A,2.8,Y,Yes
+259140,Undeclared,3.09,860,,No,Yes,F,12,7,A,2.8,Y,Yes
+68554,Undeclared,2.41,1170,,Yes,Yes,F,0,7,A,2.8,Y,Yes
+240740,Biological Sciences,3.77,820,No,No,No,F,0,8,A,2.8,Y,Yes
+62028,Undeclared,3.59,980,,Yes,Yes,M,6,8,A,2.8,Y,Yes
+257346,Undeclared,3.09,950,,No,No,M,10,6,A-,2.8,Y,Yes
+153388,Computer Science & Engineering,3.68,1240,Yes,Yes,No,F,10,1,A+,2.8,Y,Yes
+282404,Management & Business Economics,3.12,1060,,No,No,M,8,5,A+,2.8,Y,Yes
+216642,Undeclared,3.03,920,,No,Yes,M,6,4,B,2.8,Y,Yes
+77878,Undeclared,3.6,1110,Yes,Yes,No,F,0,4,B,2.8,Y,Yes
+71870,Undeclared,3.6,850,Yes,Yes,No,M,11,5,B,2.8,Y,Yes
+217004,Undeclared,3.03,940,No,No,Yes,M,6,5,B+,2.8,Y,Yes
+78362,Undeclared,2.47,790,,,Yes,M,9,2,C,2.8,Y,Yes
+78360,Undeclared,2.47,1250,Yes,Yes,Yes,F,8,3,C,2.8,Y,Yes
+276386,Psychology,3.12,810,,Yes,Yes,M,18,5,D,2.8,Y,Yes
+66854,Undeclared,2.37,1130,Yes,Yes,Yes,F,0,8,D,2.8,Y,Yes
+66636,Literatures and Cultures,3,870,,Yes,No,F,0,4,F,2.8,Y,Yes
+131972,Biological Sciences,3.66,830,,Yes,Yes,F,8,1,W,2.8,Y,Yes
+125344,Biological Sciences,3.65,1000,Yes,No,Yes,F,0,1,W,2.8,Y,Yes
+175630,Undeclared SSHA,3.7,1080,,Yes,No,F,10,1,W,2.8,Y,Yes
+150780,Undeclared Natural Sciences,3.68,1090,,No,No,F,16,1,W,2.8,Y,Yes
+159664,Computer Science & Engineering,3.68,1120,,No,No,F,8,1,W,2.8,Y,Yes
+141300,Anthropology,3.66,1030,,Yes,No,F,0,9,A,2.81,N,No
+183946,Undeclared,3.71,980,Yes,Yes,Yes,M,8,7,B+,2.81,Y,Yes
+232838,Anthropology,3.76,940,,No,Yes,F,0,1,W,2.82,N,No
+62642,Undeclared,3.59,960,Yes,Yes,No,M,13,9,B,2.82,Y,Yes
+229826,Applied Mathematical Sciences,3.76,1000,,Yes,No,F,0,,W,2.85,N,No
+66206,Undeclared,3.6,820,,No,Yes,F,12,10,B-,2.85,Y,No
+65486,Undeclared,3.59,910,Yes,Yes,No,F,16,10,A+,2.85,Y,Yes
+149590,Bioengineering,2.87,690,,No,Yes,M,8,10,B-,2.85,Y,Yes
+66038,Undeclared,3.6,740,,Yes,Yes,M,12,9,I,2.85,Y,Yes
+229110,Anthropology,3.76,830,,Yes,No,M,11,1,W,2.85,Y,Yes
+240692,Bioengineering,3.77,900,,Yes,Yes,F,19,1,W,2.85,Y,Yes
+267104,Biological Sciences,3.8,1080,,Yes,Yes,F,8,1,W,2.85,Y,Yes
+70286,Biological Sciences,3.6,940,Yes,Yes,Yes,F,0,,A+,2.86,N,No
+147604,Undeclared,3.68,1060,,Yes,No,F,24,7,B,2.86,N,No
+60506,Biological Sciences,3.59,1080,,No,Yes,M,6,7,A-,2.86,Y,Yes
+65938,Undeclared,3.6,1070,,Yes,Yes,M,10,10,A+,2.86,Y,Yes
+77020,Biological Sciences,3.6,1030,,Yes,Yes,M,6,5,A+,2.87,N,No
+183902,Biological Sciences,3.71,820,,Yes,Yes,F,1,8,C+,2.87,N,No
+270696,Psychology,3.8,1060,,No,Yes,F,4,9,A,2.89,N,No
+199648,Management & Business Economics,3.72,1200,,Yes,Yes,F,1,8,C+,2.89,N,No
+178732,Computer Science & Engineering,3.7,720,No,No,Yes,M,12,9,C+,2.89,N,No
+50766,Undeclared,4.06,1320,,Yes,Yes,F,0,6,A,2.89,Y,Yes
+265122,Materials Sci & Engineering,3.8,780,Yes,Yes,Yes,F,4,7,A,2.9,N,No
+107756,History,3.63,1180,Yes,Yes,Yes,F,12,7,A,2.9,N,No
+163426,Mechanical Engineering,3.69,1100,,Yes,Yes,F,0,9,A,2.9,N,No
+179234,Undeclared Natural Sciences,3.7,1000,Yes,Yes,Yes,F,1,5,A-,2.9,N,No
+143500,History,3.66,1120,,No,Yes,F,1,5,A-,2.9,N,No
+85602,Undeclared,3.61,1080,Yes,No,Yes,F,0,7,A-,2.9,N,No
+153330,Biological Sciences,3.68,920,,Yes,Yes,F,0,5,A+,2.9,N,No
+154662,Psychology,3.68,920,,No,No,F,0,5,A+,2.9,N,No
+67382,Undeclared,3.6,950,,Yes,Yes,F,11,5,A+,2.9,N,No
+78178,Psychology,3.6,970,,No,Yes,F,8,5,A+,2.9,N,No
+119524,Chemical Sciences,3.65,1010,,No,Yes,M,11,5,A+,2.9,N,No
+78346,Economics,3.6,1040,,Yes,Yes,F,6,5,A+,2.9,N,No
+77680,Psychology,3.6,1060,,No,Yes,F,12,5,A+,2.9,N,No
+85342,Undeclared,3.61,1080,Yes,No,Yes,F,8,5,A+,2.9,N,No
+76474,Economics,3.6,1090,,No,Yes,F,8,5,A+,2.9,N,No
+84726,Undeclared Natural Sciences,3.61,1110,Yes,Yes,No,F,0,5,A+,2.9,N,No
+126548,History,3.65,1130,Yes,No,No,F,9,5,A+,2.9,N,No
+206538,Economics,3.73,620,,Yes,No,F,6,3,B,2.9,N,No
+97188,Biological Sciences,3.62,650,No,No,No,F,0,5,B,2.9,N,No
+112234,Computer Science & Engineering,3.64,840,,No,No,M,10,7,B,2.9,N,No
+142982,Undeclared SSHA,2.85,750,No,No,Yes,F,0,1,C+,2.9,N,No
+79080,Computer Science & Engineering,3.6,840,Yes,Yes,Yes,M,6,5,D,2.9,N,No
+160226,Computer Science & Engineering,3.69,850,Yes,Yes,Yes,F,10,5,D,2.9,N,No
+77500,Computer Science & Engineering,3.6,890,Yes,Yes,No,M,6,5,D,2.9,N,No
+199650,Bioengineering,3.72,880,,No,Yes,F,0,9,D,2.9,N,No
+228362,Sociology,3.76,880,,No,No,F,0,1,D-,2.9,N,No
+74610,Computer Science & Engineering,3.6,750,,Yes,No,F,14,5,D-,2.9,N,No
+112648,Undeclared SSHA,3.64,970,Yes,Yes,No,F,0,1,D+,2.9,N,No
+276136,Psychology,3.81,990,,No,No,F,0,1,D+,2.9,N,No
+216636,Undeclared,3.03,1090,,No,Yes,F,0,1,D+,2.9,N,No
+278876,Undeclared,3.81,910,Yes,No,Yes,F,0,2,D+,2.9,N,No
+195928,Undeclared,3.72,920,,No,Yes,F,0,5,D+,2.9,N,No
+61606,Applied Mathematical Sciences,3.59,830,,No,No,F,0,2,F,2.9,N,No
+77818,Undeclared SSHA,3.6,760,,Yes,Yes,F,0,5,I,2.9,N,No
+264952,Political Science,3.8,1080,Yes,Yes,Yes,F,7,1,W,2.9,N,No
+182704,Management & Business Economics,3.71,830,,Yes,No,F,2,8,A-,2.9,Y,No
+116318,Undeclared,2.75,840,No,No,No,M,7,1,F,2.9,Y,No
+222726,Computer Science & Engineering,3.75,1010,Yes,No,Yes,F,9,5,A,2.9,Y,Yes
+282076,Political Science,3.81,1040,,No,Yes,F,1,5,A,2.9,Y,Yes
+243622,Undeclared Engineering,3.77,930,Yes,No,No,F,0,6,A,2.9,Y,Yes
+78456,Computer Science & Engineering,3.6,940,,Yes,Yes,M,18,5,A+,2.9,Y,Yes
+164008,Biological Sciences,3.69,990,Yes,Yes,No,M,9,5,A+,2.9,Y,Yes
+123056,Mechanical Engineering,3.65,1070,Yes,Yes,No,F,11,5,A+,2.9,Y,Yes
+106148,Undeclared SSHA,3.63,1120,,No,No,F,10,5,A+,2.9,Y,Yes
+39232,Computer Science & Engineering,4.14,1240,,No,Yes,F,2,7,B-,2.9,Y,Yes
+97698,Biological Sciences,3.62,800,Yes,Yes,No,F,12,5,D,2.9,Y,Yes
+75122,History,3.6,860,Yes,Yes,No,F,8,5,D,2.9,Y,Yes
+239820,Political Science,3.77,780,Yes,Yes,No,F,0,1,D-,2.9,Y,Yes
+148130,Undeclared SSHA,2.86,980,,No,No,F,0,1,D-,2.9,Y,Yes
+105166,Psychology,3.63,750,,Yes,Yes,F,0,1,D+,2.9,Y,Yes
+66508,Biological Sciences,2.36,820,Yes,No,Yes,F,0,1,D+,2.9,Y,Yes
+278920,Undeclared SSHA,3.81,950,,No,Yes,F,0,1,D+,2.9,Y,Yes
+283740,Chemical Sciences,3.82,970,Yes,No,No,F,0,1,D+,2.9,Y,Yes
+224506,Psychology,3.75,1010,,Yes,,F,0,1,D+,2.9,Y,Yes
+245896,Biological Sciences,3.77,1080,Yes,No,No,F,0,1,D+,2.9,Y,Yes
+142790,Anthropology,3.66,760,Yes,Yes,No,F,10,5,I,2.9,Y,Yes
+75020,Biological Sciences,3.6,770,,No,Yes,M,6,6,I,2.9,Y,Yes
+275354,Political Science,3.81,1100,,No,Yes,F,6,1,W,2.9,Y,Yes
+67142,Undeclared Natural Sciences,2.37,920,Yes,Yes,No,F,0,1,F,2.91,N,No
+162102,Computer Science & Engineering,3.69,1140,,Yes,No,M,9,5,A+,2.91,Y,Yes
+179954,Biological Sciences,3.7,880,Yes,Yes,Yes,F,6,5,D,2.92,N,No
+72514,Psychology,2.38,940,,Yes,No,F,0,1,F,2.92,Y,Yes
+97846,Chemical Sciences,3.62,1080,Yes,No,No,F,0,5,A-,2.93,N,No
+179266,Earth Systems Science,3.7,950,,Yes,Yes,M,6,5,A+,2.93,N,No
+76190,Biological Sciences,3.6,1070,,Yes,Yes,F,0,7,A,2.94,N,No
+176892,Economics,3.7,1230,Yes,Yes,No,F,8,5,A+,2.94,Y,Yes
+177932,Political Science,3.7,950,Yes,Yes,Yes,M,6,5,A+,2.95,N,No
+170586,Undeclared,3.7,1150,,Yes,Yes,F,10,5,A+,2.95,N,No
+119478,Undeclared Engineering,3.65,990,,No,No,M,6,8,A,2.95,Y,Yes
+190088,Computer Science & Engineering,3.72,1010,,Yes,No,F,10,5,A+,2.95,Y,Yes
+190874,Undeclared,3.72,1090,,Yes,Yes,M,12,5,A+,2.97,N,No
+212618,Sociology,3.75,1130,Yes,Yes,Yes,M,6,5,A+,2.98,N,No
+208966,Spanish,3.74,1140,Yes,No,No,F,12,5,A+,2.98,N,No
+84686,Undeclared Natural Sciences,2.54,920,,No,Yes,F,0,1,I,2.98,N,No
+93638,Undeclared,2.62,1080,,No,Yes,F,0,1,I,2.98,Y,Yes
+75930,History,3.6,780,,No,Yes,F,2,5,W,2.98,Y,Yes
+237896,Management & Business Economics,3.77,1100,Yes,,No,F,7,5,A+,2.99,N,No
+77678,Literatures and Cultures,3.6,820,,No,Yes,F,12,5,W,2.99,N,No
+153672,History,3.68,890,,No,No,F,0,5,W,2.99,N,No
+62736,Undeclared SSHA,4.15,1160,No,No,Yes,F,0,,A,3,N,No
+62812,Undeclared SSHA,4.15,1370,Yes,No,Yes,M,6,3,A,3,N,No
+280718,Mechanical Engineering,3.12,970,,Yes,No,F,0,10,W,3,N,No
+283434,Biological Sciences,3.12,1010,,Yes,No,F,0,10,W,3,N,No
+159980,Mechanical Engineering,3.69,780,,No,Yes,F,2,4,W,3,N,No
+208832,Undeclared,3,890,,No,No,F,0,7,A,3,Y,No
+174640,Physics,3.7,920,,No,No,F,0,8,A,3,Y,No
+61584,Undeclared,4.09,1300,No,No,No,F,12,8,A,3,Y,No
+263188,Psychology,3.1,840,,No,No,F,0,6,A-,3,Y,No
+62994,Undeclared SSHA,3.59,1030,,Yes,No,F,0,3,B,3,Y,No
+61988,Undeclared,3.59,1050,,Yes,No,F,8,3,B,3,Y,No
+62586,Biological Sciences,4.14,1570,Yes,Yes,No,F,7,8,B,3,Y,No
+75770,Anthropology,3.6,770,Yes,Yes,No,M,2,8,B-,3,Y,No
+49266,Undeclared SSHA,4.15,1010,,No,Yes,F,0,2,B+,3,Y,No
+195196,Undeclared,3,920,,No,No,F,0,3,B+,3,Y,No
+63674,Computer Science & Engineering,3.59,1220,,Yes,Yes,M,6,2,C+,3,Y,No
+209502,Applied Mathematical Sciences,3.74,900,,Yes,Yes,F,0,1,I,3,Y,No
+83622,Undeclared Engineering,3.61,1040,Yes,Yes,Yes,F,0,5,A,3,Y,Yes
+208508,Undeclared,3,850,No,No,No,F,0,6,A,3,Y,Yes
+183456,Undeclared,3.71,1080,Yes,Yes,Yes,F,2,6,A,3,Y,Yes
+272478,Psychology,3.8,1160,,Yes,No,M,4,6,A,3,Y,Yes
+76208,Economics,3.6,1200,Yes,Yes,Yes,F,14,6,A,3,Y,Yes
+163812,English,3.69,780,No,No,Yes,F,12,7,A,3,Y,Yes
+222896,Biological Sciences,3.75,840,No,No,No,F,0,7,A,3,Y,Yes
+174266,Sociology,3.7,870,,No,No,F,0,7,A,3,Y,Yes
+133820,Sociology,3.66,1220,,Yes,No,F,6,7,A,3,Y,Yes
+62056,Undeclared,4.11,1490,,No,No,F,1,7,A,3,Y,Yes
+61976,Undeclared,4.11,1580,,Yes,Yes,F,0,7,A,3,Y,Yes
+198116,Undeclared,3.72,850,No,No,No,F,0,8,A,3,Y,Yes
+61400,Undeclared Natural Sciences,4.09,1030,,No,No,F,18,8,A,3,Y,Yes
+61592,Undeclared,4.09,1470,,No,No,F,0,8,A,3,Y,Yes
+165736,Applied Mathematical Sciences,3.7,890,,No,No,F,0,4,A-,3,Y,Yes
+159050,Biological Sciences,3.68,720,,Yes,No,F,0,5,A-,3,Y,Yes
+250620,Undeclared,3.78,760,,No,No,F,0,5,A-,3,Y,Yes
+205078,Undeclared,3,770,,No,No,F,0,6,A-,3,Y,Yes
+164094,Undeclared SSHA,3.69,850,No,No,Yes,F,8,7,A-,3,Y,Yes
+137478,Biological Sciences,3.66,1140,,No,No,F,2,7,A-,3,Y,Yes
+276822,Undeclared,3.12,1110,Yes,No,No,F,0,2,A+,3,Y,Yes
+45720,Computer Science & Engineering,3.59,1110,Yes,Yes,Yes,F,9,2,A+,3,Y,Yes
+244640,Public Health,3.77,890,,Yes,Yes,F,0,5,A+,3,Y,Yes
+261732,Management &Business Economics,3.8,910,Yes,Yes,No,M,11,5,A+,3,Y,Yes
+275770,Bioengineering,3.81,1000,,No,No,F,0,5,A+,3,Y,Yes
+156634,Mechanical Engineering,3.68,790,,No,No,F,0,5,B,3,Y,Yes
+132038,Biological Sciences,3.66,820,Yes,Yes,Yes,F,0,5,B,3,Y,Yes
+220936,Undeclared,3.75,890,,No,Yes,F,1,6,B,3,Y,Yes
+78024,Psychology,3.6,900,,Yes,No,F,0,7,B,3,Y,Yes
+281114,Management &Business Economics,3.81,1040,Yes,Yes,No,M,4,8,B,3,Y,Yes
+219344,Economics,3.75,700,Yes,No,No,F,2,9,B,3,Y,Yes
+149398,Computer Science & Engineering,3.68,590,No,No,Yes,F,9,10,B,3,Y,Yes
+206064,Psychology,3.73,620,Yes,Yes,Yes,F,7,3,B,3,Y,Yes
+63006,Biological Sciences,3.59,600,,No,No,F,2,6,B,3,Y,Yes
+73734,Environmental Engineering,3.6,1090,,No,Yes,F,11,1,B-,3,Y,Yes
+124194,Psychology,3.65,900,,Yes,No,F,0,8,B-,3,Y,Yes
+139108,Mechanical Engineering,3.66,920,,Yes,No,F,1,8,B-,3,Y,Yes
+206868,Management & Business Economics,3.73,590,No,No,No,F,4,9,B-,3,Y,Yes
+152736,Psychology,3.68,700,,No,No,F,11,9,B-,3,Y,Yes
+181934,Undeclared,3.71,700,,No,No,F,12,9,B-,3,Y,Yes
+182830,Psychology,3.05,910,Yes,No,Yes,F,0,9,B-,3,Y,Yes
+136254,Undeclared SSHA,2.82,820,No,No,Yes,M,8,2,B+,3,Y,Yes
+69428,Biological Sciences,2.53,610,,No,No,F,0,3,B+,3,Y,Yes
+153586,Economics,3.68,900,No,No,No,F,0,3,B+,3,Y,Yes
+271798,Psychology,3.8,900,No,No,No,F,0,3,B+,3,Y,Yes
+102508,Chemical Sciences,3.63,910,No,No,No,F,0,3,B+,3,Y,Yes
+91710,Undeclared SSHA,2.61,900,Yes,Yes,No,M,0,1,C,3,Y,Yes
+99476,Management & Business Economics,2.66,970,,No,No,M,0,1,C,3,Y,Yes
+89988,Undeclared,2.6,1070,Yes,Yes,No,M,0,1,C,3,Y,Yes
+89790,Psychology,2.6,1120,Yes,Yes,No,M,0,1,C,3,Y,Yes
+64788,Anthropology,3.59,1110,,Yes,Yes,F,0,7,C,3,Y,Yes
+166882,Biological Sciences,2.92,1260,,Yes,Yes,F,0,6,C,3,Y,Yes
+166856,Biological Sciences,3.7,850,Yes,Yes,Yes,F,0,7,C-,3,Y,Yes
+271676,Sociology,3.8,910,,No,No,F,9,7,C-,3,Y,Yes
+173918,Biological Sciences,3.7,950,Yes,No,Yes,F,6,7,C-,3,Y,Yes
+176610,Undeclared Engineering,3.7,950,,No,Yes,F,8,7,C-,3,Y,Yes
+223038,Anthropology,3.75,990,,No,No,F,0,7,C-,3,Y,Yes
+172438,Psychology,3.7,1040,,No,Yes,M,6,7,C-,3,Y,Yes
+178518,Management & Business Economics,3.7,1040,Yes,Yes,Yes,F,10,7,C-,3,Y,Yes
+256904,Biological Sciences,3.79,1060,Yes,No,No,F,12,7,C-,3,Y,Yes
+168124,Undeclared,3.7,1100,Yes,No,No,F,0,7,C-,3,Y,Yes
+275928,Mechanical Engineering,3.11,720,Yes,Yes,Yes,F,0,2,C-,3,Y,Yes
+64890,Anthropology,3.57,1110,Yes,No,Yes,F,3,6,C-,3,Y,Yes
+67638,Biological Sciences,3.6,720,,Yes,No,M,8,7,C-,3,Y,Yes
+65318,Undeclared,3.59,1030,Yes,Yes,No,F,12,7,C-,3,Y,Yes
+248378,Psychology,3.78,690,,No,Yes,M,6,5,C+,3,Y,Yes
+194552,Undeclared Engineering,3,880,,Yes,No,M,0,5,C+,3,Y,Yes
+268944,Biological Sciences,3.1,750,Yes,No,Yes,F,0,10,C+,3,Y,Yes
+63586,Biological Sciences,3.59,870,,Yes,Yes,F,15,7,C+,3,Y,Yes
+126046,Biological Sciences,3.65,850,,Yes,No,F,7,5,D,3,Y,Yes
+275310,Management & Business Economics,3.11,1040,Yes,Yes,No,F,0,2,F,3,Y,Yes
+281428,Political Science,3.12,1100,Yes,Yes,No,M,0,,F,3,Y,Yes
+111278,Undeclared,2.72,1030,,Yes,Yes,M,6,2,I,3,Y,Yes
+282524,Biological Sciences,3.12,1050,Yes,Yes,No,F,0,2,I,3,Y,Yes
+152500,Management & Business Economics,2.88,680,No,No,Yes,F,0,1,I,3,Y,Yes
+137074,Undeclared SSHA,2.83,790,No,No,Yes,F,0,1,I,3,Y,Yes
+283628,Psychology,3.12,940,,No,Yes,F,0,1,I,3,Y,Yes
+210314,Physics,3.75,950,,No,Yes,F,0,1,I,3,Y,Yes
+183674,Biological Sciences,3.71,1030,Yes,Yes,Yes,F,0,1,I,3,Y,Yes
+138320,Undeclared SSHA,2.83,1120,Yes,No,Yes,F,0,1,I,3,Y,Yes
+176496,Biological Sciences,3.72,640,,No,Yes,F,4,7,I,3,Y,Yes
+81678,Psychology,2.6,860,,No,No,F,0,2,W,3,Y,Yes
+263406,Management &Business Economics,3.8,840,,Yes,No,F,0,3,W,3,Y,Yes
+260376,Mechanical Engineering,3.8,1030,,Yes,No,F,0,3,W,3,Y,Yes
+279960,Biological Sciences,3.12,970,,Yes,No,F,0,4,W,3,Y,Yes
+163638,Management & Business Economics,3.69,860,,No,Yes,F,10,5,W,3,Y,Yes
+277698,Political Science,3.12,1280,,Yes,No,F,0,5,W,3,Y,Yes
+174716,Environmental Engineering,3.7,810,,No,Yes,F,3,6,W,3,Y,Yes
+268194,Earth Systems Science,3.1,970,,No,No,F,0,8,W,3,Y,Yes
+81184,Undeclared,2.6,1080,,Yes,No,F,0,8,W,3,Y,Yes
+182440,Undeclared,3.05,1090,Yes,No,No,F,0,9,W,3,Y,Yes
+64312,Computer Science & Engineering,4.2,1320,Yes,No,No,F,1,3,A,3,Y,Yes
+63704,Management & Business Economics,4.18,1390,,No,Yes,F,7,3,A,3,Y,Yes
+61576,Undeclared,4.09,1470,,Yes,Yes,F,0,8,A,3,Y,Yes
+61354,Undeclared,4.08,1560,Yes,Yes,No,F,0,8,A,3,Y,Yes
+62834,Undeclared,4.15,1420,,Yes,Yes,F,9,5,A,3,Y,Yes
+107790,Sociology,3.63,940,,Yes,Yes,F,0,6,A,3,Y,Yes
+62114,Undeclared,4.11,1360,Yes,,No,F,1,7,A,3,Y,Yes
+62108,Undeclared,4.11,1560,Yes,Yes,Yes,F,1,7,A,3,Y,Yes
+61510,Undeclared Natural Sciences,4.09,1520,Yes,Yes,No,M,12,8,A,3,Y,Yes
+278598,Psychology,3.12,1130,,Yes,No,F,9,2,A+,3,Y,Yes
+246286,Spanish,3.78,1120,Yes,Yes,No,F,0,4,A+,3,Y,Yes
+285358,Economics,3.82,920,,Yes,Yes,F,0,5,A+,3,Y,Yes
+250520,Applied Mathematical Sciences,3.78,1040,,Yes,No,M,10,5,A+,3,Y,Yes
+282994,Biological Sciences,3.81,1080,,Yes,Yes,F,10,5,A+,3,Y,Yes
+283098,Undeclared,3.81,1220,Yes,Yes,No,F,14,7,A+,3,Y,Yes
+36438,Bioengineering,2.96,850,Yes,Yes,No,M,14,1,B+,3,Y,Yes
+164082,History,2.91,980,,Yes,No,M,6,2,C,3,Y,Yes
+64474,Materials Sci & Engineering,3.59,780,,No,Yes,M,10,,C,3,Y,Yes
+159242,Biological Sciences,2.9,770,,Yes,Yes,M,7,6,C,3,Y,Yes
+158110,Undeclared,2.9,860,Yes,Yes,Yes,F,0,6,C,3,Y,Yes
+163860,Undeclared,2.91,1070,,Yes,Yes,M,6,6,C,3,Y,Yes
+171024,Public Health,3.7,870,,No,Yes,F,10,7,C-,3,Y,Yes
+186570,Public Health,3.72,910,,No,Yes,M,14,7,C-,3,Y,Yes
+167542,Psychology,3.7,1110,Yes,Yes,Yes,F,8,7,C-,3,Y,Yes
+99512,Psychology,3.63,1110,,Yes,No,M,9,7,C-,3,Y,Yes
+176334,Undeclared,2.95,1280,,Yes,No,M,12,6,C-,3,Y,Yes
+128238,Undeclared,2.8,1170,Yes,Yes,No,M,0,4,C+,3,Y,Yes
+194522,Undeclared Natural Sciences,3,880,,Yes,No,M,0,5,C+,3,Y,Yes
+199940,Undeclared,3,900,Yes,Yes,No,M,0,5,C+,3,Y,Yes
+194480,Undeclared,3,1020,,Yes,No,M,0,5,C+,3,Y,Yes
+194404,Undeclared,3,1030,Yes,Yes,No,M,0,5,C+,3,Y,Yes
+189096,Undeclared Engineering,3,1060,Yes,No,No,M,0,5,C+,3,Y,Yes
+142646,Undeclared Engineering,2.85,900,No,No,Yes,M,11,6,C+,3,Y,Yes
+145386,Psychology,2.86,990,,Yes,No,M,7,7,C+,3,Y,Yes
+196834,Bioengineering,3.72,900,,Yes,Yes,F,0,1,I,3,Y,Yes
+203458,Psychology,3.73,960,,Yes,Yes,F,0,1,I,3,Y,Yes
+165838,Biological Sciences,2.91,1050,,Yes,Yes,F,0,1,I,3,Y,Yes
+177102,Psychology,2.95,1150,Yes,Yes,Yes,F,0,1,I,3,Y,Yes
+246748,Psychology,3.08,820,No,No,Yes,M,6,2,I,3,Y,Yes
+236688,Computer Science & Engineering,3.05,1250,,Yes,No,M,7,2,I,3,Y,Yes
+284616,Undeclared,3.13,980,,Yes,No,F,0,3,W,3,Y,Yes
+77926,Chemical Sciences,2.56,1080,,No,No,F,0,3,W,3,Y,Yes
+270410,Biological Sciences,3.1,1100,,No,No,F,0,3,W,3,Y,Yes
+65100,Undeclared,3.22,1120,Yes,Yes,No,F,0,3,W,3,Y,Yes
+281106,Mechanical Engineering,3.12,1070,Yes,Yes,No,F,0,5,W,3,Y,Yes
+274254,Undeclared SSHA,3.11,1140,,No,No,F,0,8,W,3,Y,Yes
+77804,Mechanical Engineering,2.56,1130,Yes,No,No,F,0,9,W,3,Y,Yes
+72944,Physics,2.69,700,,Yes,No,F,0,2,A,3.05,N,No
+61126,Undeclared Engineering,3.59,950,Yes,Yes,Yes,M,10,2,A,3.05,N,No
+243250,Management & Business Economics,3.77,700,No,No,No,F,0,5,A,3.05,N,No
+138472,Biological Sciences,3.66,730,,No,No,F,7,5,A,3.05,N,No
+65248,Mechanical Engineering,3.59,840,Yes,Yes,No,M,10,5,A,3.05,N,No
+73774,Undeclared,3.6,1000,Yes,Yes,Yes,F,8,5,A,3.05,N,No
+265166,Biological Sciences,3.8,840,No,No,Yes,F,4,6,A,3.05,N,No
+184370,Computer Science & Engineering,3.71,920,,No,No,F,0,6,A,3.05,N,No
+264446,Cognitive Science,3.8,1060,Yes,Yes,No,F,7,6,A,3.05,N,No
+140050,Undeclared Engineering,3.04,860,,No,No,F,0,7,A,3.05,N,No
+176858,Management & Business Economics,3.7,920,,No,No,F,0,7,A,3.05,N,No
+253896,English,3.79,930,No,No,No,F,0,7,A,3.05,N,No
+202860,Psychology,3.73,960,,No,No,F,0,7,A,3.05,N,No
+117624,Undeclared,2.85,990,Yes,Yes,No,F,0,7,A,3.05,N,No
+177014,Chemical Sciences,3.7,780,Yes,Yes,Yes,F,2,8,A,3.05,N,No
+86902,Computer Science & Engineering,3.61,940,,Yes,No,F,0,,A,3.05,N,No
+73244,Political Science,3.6,1060,Yes,No,No,F,0,9,A,3.05,N,No
+89606,Mechanical Engineering,2.79,770,Yes,No,No,F,0,3,A-,3.05,N,No
+243548,Mechanical Engineering,3.77,810,,No,Yes,F,2,7,A-,3.05,N,No
+281498,Management &Business Economics,3.81,1030,,Yes,Yes,F,8,8,A-,3.05,N,No
+112812,Biological Sciences,3.64,1100,,Yes,No,M,10,2,A+,3.05,N,No
+123820,Undeclared,3.65,1130,Yes,Yes,Yes,F,14,2,A+,3.05,N,No
+158878,Undeclared,3.68,1130,Yes,Yes,No,F,7,2,A+,3.05,N,No
+67418,Computer Science & Engineering,3.6,1180,Yes,Yes,No,M,6,2,A+,3.05,N,No
+82232,Bioengineering,3.61,1220,,Yes,No,F,0,2,A+,3.05,N,No
+74532,Political Science,3.6,920,Yes,Yes,No,F,12,5,A+,3.05,N,No
+76702,Literatures and Cultures,3.6,950,,Yes,Yes,F,12,5,A+,3.05,N,No
+70062,Biological Sciences,3.6,970,Yes,Yes,Yes,M,1,5,A+,3.05,N,No
+77448,Materials Sci & Engineering,3.6,1040,,Yes,Yes,M,6,5,A+,3.05,N,No
+77708,Bioengineering,3.6,1050,,No,Yes,M,4,5,A+,3.05,N,No
+70328,Biological Sciences,3.6,1220,Yes,Yes,No,M,0,5,A+,3.05,N,No
+73880,Mechanical Engineering,3.6,1270,Yes,Yes,Yes,M,3,5,A+,3.05,N,No
+100888,Bioengineering,3.63,890,No,No,Yes,F,0,10,A+,3.05,N,No
+206128,Biological Sciences,3.73,820,Yes,Yes,Yes,M,9,4,B,3.05,N,No
+222626,Chemical Sciences,3.75,590,,No,No,M,0,5,B,3.05,N,No
+106690,Computer Science & Engineering,3.63,830,Yes,Yes,Yes,F,1,5,B,3.05,N,No
+216712,English,3.75,590,No,No,Yes,F,7,6,B,3.05,N,No
+234654,Biological Sciences,3.77,720,Yes,Yes,No,F,14,10,B,3.05,N,No
+61842,Undeclared Engineering,3.59,1180,,Yes,No,M,7,2,B+,3.05,N,No
+148584,Psychology,3.68,920,,Yes,Yes,F,0,4,B+,3.05,N,No
+216802,Undeclared SSHA,3.75,690,,Yes,No,F,0,7,B+,3.05,N,No
+229448,Political Science,3.76,760,,Yes,No,F,0,7,B+,3.05,N,No
+259048,Mechanical Engineering,3.79,850,Yes,Yes,No,F,0,7,B+,3.05,N,No
+202666,Biological Sciences,3.73,900,Yes,Yes,No,F,0,7,B+,3.05,N,No
+199590,Undeclared,3.72,910,,Yes,No,F,0,7,B+,3.05,N,No
+202598,Mechanical Engineering,3.73,950,,No,No,F,0,7,B+,3.05,N,No
+258856,Psychology,3.79,950,,Yes,No,F,0,7,B+,3.05,N,No
+237372,History,3.77,990,Yes,No,No,F,0,7,B+,3.05,N,No
+247216,Cognitive Science,3.78,1020,Yes,Yes,No,F,0,7,B+,3.05,N,No
+231488,Undeclared,3.76,1080,,No,No,F,0,7,B+,3.05,N,No
+187140,Sociology,3.72,1100,,Yes,No,F,0,7,B+,3.05,N,No
+243600,Psychology,3.77,1120,,No,No,F,0,7,B+,3.05,N,No
+192170,Psychology,3.72,1210,Yes,Yes,No,F,0,7,B+,3.05,N,No
+207680,Undeclared,3.73,590,No,No,Yes,F,0,10,B+,3.05,N,No
+72374,Anthropology,3.65,790,,Yes,Yes,F,0,5,C,3.05,N,No
+123026,Biological Sciences,3.65,590,,No,Yes,F,4,,C,3.05,N,No
+65342,Biological Sciences,3.59,670,Yes,Yes,No,F,8,5,C-,3.05,N,No
+65246,Undeclared Natural Sciences,3.59,1010,,Yes,Yes,F,0,5,C-,3.05,N,No
+28026,Political Science,3.59,1050,,Yes,No,M,10,3,C+,3.05,N,No
+69122,Anthropology,3.61,960,Yes,Yes,No,F,0,7,C+,3.05,N,No
+180478,Mechanical Engineering,3.7,840,,No,Yes,F,0,5,I,3.05,N,No
+167746,Applied Mathematical Sciences,2.92,900,,Yes,Yes,F,0,5,I,3.05,N,No
+199642,Sociology,3.72,950,,,Yes,F,0,5,I,3.05,N,No
+138776,Biological Sciences,2.84,970,Yes,No,Yes,F,0,5,I,3.05,N,No
+279012,Economics,3.12,1040,Yes,Yes,Yes,F,0,5,I,3.05,N,No
+13508,Undeclared,3.01,530,,,No,M,5,1,W,3.05,N,No
+282478,Biological Sciences,3.12,1230,,Yes,No,F,0,3,W,3.05,N,No
+78156,Mechanical Engineering,2.56,1180,Yes,Yes,No,F,0,7,W,3.05,N,No
+67302,Undeclared Engineering,3.6,780,,Yes,No,M,14,9,W,3.05,N,No
+209288,Undeclared,3,950,,No,No,F,0,7,A,3.05,Y,No
+205036,Undeclared,3,980,,No,No,F,0,7,A,3.05,Y,No
+152648,Political Science,3.68,1020,Yes,No,No,F,0,7,A,3.05,Y,No
+202516,Undeclared,3,1030,Yes,No,No,F,0,7,A,3.05,Y,No
+122716,Sociology,3.65,820,,No,Yes,F,7,,A-,3.05,Y,No
+258276,Undeclared,3.09,850,,No,Yes,F,6,3,A-,3.05,Y,No
+62044,Anthropology,3.59,820,,No,Yes,M,10,6,B-,3.05,Y,No
+13304,Undeclared,3.59,870,,No,Yes,F,0,7,C-,3.05,Y,No
+116928,Undeclared Natural Sciences,3.65,710,,No,No,F,13,9,C+,3.05,Y,No
+152652,Mechanical Engineering,3.68,790,,No,Yes,F,0,,I,3.05,Y,No
+78828,Biological Sciences,3.6,850,Yes,Yes,No,F,8,2,I,3.05,Y,No
+108186,Psychology,3.63,850,,Yes,No,F,0,2,I,3.05,Y,No
+77670,Undeclared,3.6,900,,No,Yes,F,0,2,I,3.05,Y,No
+102496,Psychology,3.63,900,,No,Yes,F,0,2,I,3.05,Y,No
+134884,Undeclared,3.66,910,Yes,Yes,No,M,9,2,I,3.05,Y,No
+120628,Sociology,3.65,930,,,No,F,0,2,I,3.05,Y,No
+124072,Bioengineering,3.65,930,Yes,Yes,Yes,F,0,2,I,3.05,Y,No
+77988,Undeclared SSHA,3.6,940,,Yes,Yes,F,0,2,I,3.05,Y,No
+104682,Sociology,3.63,950,,No,Yes,M,6,2,I,3.05,Y,No
+68682,Psychology,3.6,960,Yes,Yes,Yes,F,0,2,I,3.05,Y,No
+78164,Psychology,3.6,970,Yes,Yes,Yes,F,12,2,I,3.05,Y,No
+77680,Undeclared,3.6,980,,Yes,Yes,F,13,2,I,3.05,Y,No
+145996,Political Science,3.68,1030,Yes,Yes,,F,0,2,I,3.05,Y,No
+68020,Computer Science & Engineering,3.6,1050,Yes,Yes,Yes,F,0,2,I,3.05,Y,No
+75010,Biological Sciences,3.6,1050,,No,No,F,12,2,I,3.05,Y,No
+156548,Undeclared,3.68,1050,,No,No,F,8,2,I,3.05,Y,No
+75426,Undeclared SSHA,3.6,1070,,Yes,Yes,M,12,2,I,3.05,Y,No
+260804,Bioengineering,3.8,850,,No,Yes,F,0,4,I,3.05,Y,No
+67364,Biological Sciences,2.38,590,,No,Yes,F,0,5,I,3.05,Y,No
+66010,Undeclared,3.6,710,No,No,Yes,F,0,5,I,3.05,Y,No
+13218,Earth Systems Science,3.12,550,,No,No,M,5,3,I,3.05,Y,No
+74498,Literatures and Cultures,3.42,1290,Yes,Yes,No,F,0,6,W,3.05,Y,No
+77496,Mechanical Engineering,2.95,770,Yes,No,No,F,0,,A,3.05,Y,Yes
+142256,Bioengineering,2.95,1130,,Yes,Yes,F,2,7,A,3.05,Y,Yes
+174810,Mechanical Engineering,3.7,970,,No,No,F,0,8,A,3.05,Y,Yes
+79304,Economics,3.6,1050,,Yes,No,F,0,,A,3.05,Y,Yes
+229406,Undeclared,3.76,980,Yes,Yes,No,F,8,3,A-,3.05,Y,Yes
+152794,Applied Mathematical Sciences,3.68,1010,,No,No,F,8,3,A-,3.05,Y,Yes
+122534,Psychology,3.65,1100,Yes,Yes,No,M,6,3,A-,3.05,Y,Yes
+99454,English,3.63,1110,,,No,M,6,2,A+,3.05,Y,Yes
+157382,Undeclared SSHA,3.68,1250,Yes,Yes,No,F,8,2,A+,3.05,Y,Yes
+76320,Mechanical Engineering,3.6,1080,Yes,Yes,,F,12,4,A+,3.05,Y,Yes
+67874,Psychology,3.6,900,Yes,Yes,No,M,2,5,A+,3.05,Y,Yes
+46230,Literatures and Cultures,3.59,970,Yes,Yes,No,M,0,5,A+,3.05,Y,Yes
+76914,Psychology,3.6,1090,,Yes,No,F,0,5,A+,3.05,Y,Yes
+85630,Undeclared,3.61,1120,,Yes,No,F,0,5,A+,3.05,Y,Yes
+46020,Undeclared Natural Sciences,3.59,1210,,Yes,Yes,M,4,5,A+,3.05,Y,Yes
+78046,Economics,3.6,1010,,Yes,Yes,F,0,10,A+,3.05,Y,Yes
+33544,Physics,3.59,1140,Yes,Yes,No,F,2,10,B,3.05,Y,Yes
+144768,Biological Sciences,3.67,910,Yes,No,No,M,0,9,B-,3.05,Y,Yes
+168368,Anthropology,3.7,910,,No,No,M,4,9,B-,3.05,Y,Yes
+183688,Anthropology,3.71,910,Yes,No,No,M,8,9,B-,3.05,Y,Yes
+235756,Biological Sciences,3.77,910,Yes,Yes,No,M,8,9,B-,3.05,Y,Yes
+207710,Undeclared,3.73,1010,Yes,Yes,No,F,0,7,B+,3.05,Y,Yes
+230358,Economics,3.76,1280,Yes,Yes,No,F,0,7,B+,3.05,Y,Yes
+275710,Sociology,3.81,910,,No,No,M,0,9,C,3.05,Y,Yes
+74654,Economics,3.6,720,Yes,Yes,Yes,F,10,,C-,3.05,Y,Yes
+65456,History,3.59,1100,,Yes,Yes,M,7,2,C-,3.05,Y,Yes
+279796,Management &Business Economics,3.91,1010,,No,No,F,14,9,C+,3.05,Y,Yes
+131702,Anthropology,3.66,840,,Yes,No,F,0,5,F,3.05,Y,Yes
+75924,Literatures and Cultures,3.6,820,Yes,Yes,No,M,6,,I,3.05,Y,Yes
+67792,Undeclared,3.6,930,,Yes,No,M,10,2,I,3.05,Y,Yes
+111950,Undeclared,3.64,940,,No,Yes,F,8,2,I,3.05,Y,Yes
+67034,Sociology,3.6,950,,Yes,Yes,F,0,2,I,3.05,Y,Yes
+72990,Political Science,3.6,970,Yes,Yes,No,M,10,2,I,3.05,Y,Yes
+69682,Undeclared SSHA,3.6,1070,Yes,Yes,Yes,M,8,2,I,3.05,Y,Yes
+68300,Undeclared Natural Sciences,2.3,1080,,Yes,Yes,F,0,5,I,3.05,Y,Yes
+67498,Chemical Sciences,3.6,780,Yes,Yes,Yes,M,8,,W,3.05,Y,Yes
+76726,Undeclared,2.65,670,No,No,No,F,5,4,A-,3.06,N,No
+249246,Undeclared,3.78,990,,No,No,M,8,6,A+,3.06,N,No
+164662,English,3.69,920,,No,No,F,0,2,I,3.06,N,No
+74904,Economics,3.6,940,,Yes,Yes,F,10,5,A,3.08,N,No
+75490,Anthropology,3.6,1030,,Yes,No,F,4,,B+,3.08,N,No
+230594,Mechanical Engineering,3.76,860,No,No,No,F,3,5,B+,3.08,Y,No
+261476,Biological Sciences,3.8,920,,Yes,Yes,F,14,6,A+,3.08,Y,Yes
+261506,Political Science,3.8,1140,,No,Yes,F,14,6,A+,3.08,Y,Yes
+121426,Undeclared,2.77,1130,,Yes,No,M,0,4,C+,3.08,Y,Yes
+174638,Biological Sciences,3.7,940,,No,Yes,F,9,2,I,3.08,Y,Yes
+174938,Management & Business Economics,3.7,990,Yes,No,Yes,F,0,2,I,3.08,Y,Yes
+85176,Undeclared Engineering,3.05,740,No,No,No,M,9,5,A,3.1,N,No
+159184,Undeclared,3.68,840,,No,No,M,7,5,A,3.1,N,No
+281362,Undeclared Engineering,3.81,990,,Yes,Yes,F,12,2,I,3.1,N,No
+208220,Computer Science & Engineering,3.73,1000,Yes,Yes,Yes,F,0,2,I,3.1,N,No
+240788,Biological Sciences,3.77,1060,,No,Yes,F,6,2,I,3.1,N,No
+66358,Undeclared,3.6,910,,Yes,Yes,F,0,,W,3.1,N,No
+137858,Political Science,3.66,960,,No,No,M,5,6,A,3.1,Y,No
+175904,Mechanical Engineering,3.7,880,No,No,No,F,7,4,B+,3.1,Y,No
+125800,Psychology,3.65,970,Yes,No,No,F,4,6,B+,3.1,Y,No
+112496,English,3.64,860,,No,Yes,F,12,,A,3.1,Y,Yes
+206312,Undeclared SSHA,3.73,960,,No,No,M,5,7,A,3.1,Y,Yes
+66420,Undeclared,3.6,930,,Yes,No,M,14,8,A,3.1,Y,Yes
+97226,Biological Sciences,3.62,770,No,No,Yes,F,9,3,A-,3.1,Y,Yes
+141346,Psychology,3.66,1140,Yes,Yes,Yes,F,0,3,A-,3.1,Y,Yes
+153482,Mechanical Engineering,3.68,880,,No,No,F,0,4,A-,3.1,Y,Yes
+99502,Undeclared SSHA,3.63,840,,No,No,F,9,5,A-,3.1,Y,Yes
+181030,Biological Sciences,3.71,840,No,No,No,F,10,5,A-,3.1,Y,Yes
+220294,Management & Business Economics,3.75,840,,No,No,F,10,5,A-,3.1,Y,Yes
+221098,Undeclared,3.75,960,,No,No,F,5,8,A-,3.1,Y,Yes
+174328,Political Science,3.7,1070,,Yes,Yes,F,0,2,A+,3.1,Y,Yes
+272522,Biological Sciences,3.8,1080,,Yes,Yes,F,0,2,A+,3.1,Y,Yes
+280618,Psychology,3.81,1100,,Yes,Yes,M,6,2,A+,3.1,Y,Yes
+173842,Psychology,3.7,1280,,Yes,Yes,M,8,2,A+,3.1,Y,Yes
+141008,Earth Systems Science,3.85,1290,,Yes,No,M,8,2,A+,3.1,Y,Yes
+149144,Economics,3.68,930,Yes,Yes,No,F,6,5,A+,3.1,Y,Yes
+114698,Undeclared,3.65,940,,Yes,Yes,F,13,5,A+,3.1,Y,Yes
+114450,Biological Sciences,3.65,950,Yes,Yes,Yes,F,2,5,A+,3.1,Y,Yes
+122332,Biological Sciences,3.65,980,,No,Yes,F,0,5,A+,3.1,Y,Yes
+133768,Anthropology,3.66,980,Yes,No,Yes,F,0,,A+,3.1,Y,Yes
+74718,Undeclared,3.6,1020,,No,No,M,10,5,A+,3.1,Y,Yes
+111162,Management & Business Economics,3.64,1020,,Yes,No,F,0,5,A+,3.1,Y,Yes
+105076,Chemical Sciences,3.63,1250,,Yes,No,M,0,5,A+,3.1,Y,Yes
+271892,Undeclared SSHA,3.8,830,,No,No,M,8,6,A+,3.1,Y,Yes
+266124,Psychology,3.8,980,,No,No,F,0,6,A+,3.1,Y,Yes
+279808,Economics,3.81,1280,,Yes,No,F,8,6,A+,3.1,Y,Yes
+119074,Psychology,3.65,970,,No,No,F,7,6,B,3.1,Y,Yes
+133620,Undeclared,3.01,870,,No,Yes,M,5,7,B,3.1,Y,Yes
+244682,Management & Business Economics,3.77,760,,Yes,No,F,0,10,B,3.1,Y,Yes
+271476,Computer Science & Engineering,3.8,770,Yes,No,No,F,0,10,B,3.1,Y,Yes
+113926,Cognitive Science,3.64,690,,Yes,No,F,0,5,B-,3.1,Y,Yes
+152494,Sociology,3.68,780,,No,No,F,0,10,B-,3.1,Y,Yes
+158266,Mechanical Engineering,3.68,960,Yes,No,No,F,5,7,B+,3.1,Y,Yes
+201402,Undeclared,3,970,,No,Yes,F,5,7,B+,3.1,Y,Yes
+165064,Computer Science & Engineering,3.01,970,,No,Yes,M,5,7,B+,3.1,Y,Yes
+100806,Biological Sciences,3.63,970,Yes,No,No,M,8,7,B+,3.1,Y,Yes
+175232,Undeclared,3.7,830,,No,Yes,F,10,2,I,3.1,Y,Yes
+270976,Undeclared SSHA,3.8,860,Yes,Yes,Yes,M,8,,I,3.1,Y,Yes
+208856,Undeclared,3.74,900,,,Yes,F,9,2,I,3.1,Y,Yes
+281320,Biological Sciences,3.81,960,Yes,Yes,No,M,7,2,I,3.1,Y,Yes
+176552,Undeclared,3.7,980,,No,Yes,F,0,,I,3.1,Y,Yes
+282242,Computer Science & Engineering,3.81,1090,Yes,No,No,F,8,2,A+,3.1,Y,Yes
+252946,Undeclared Engineering,3.79,1190,Yes,Yes,No,F,8,2,A+,3.1,Y,Yes
+227576,Chemical Sciences,3.76,1020,Yes,No,No,M,0,4,A+,3.1,Y,Yes
+112270,Computer Science & Engineering,3.64,920,,No,Yes,F,10,5,A+,3.1,Y,Yes
+110462,Mechanical Engineering,3.63,930,,No,No,M,0,5,A+,3.1,Y,Yes
+110270,Undeclared,3.63,960,Yes,Yes,Yes,M,2,5,A+,3.1,Y,Yes
+91548,Computer Science & Engineering,3.62,980,,Yes,Yes,M,4,5,A+,3.1,Y,Yes
+69628,Undeclared,3.6,1000,,Yes,No,M,6,5,A+,3.1,Y,Yes
+123936,Undeclared,3.65,1030,,Yes,Yes,M,0,5,A+,3.1,Y,Yes
+92366,Psychology,3.62,1060,Yes,No,No,M,8,5,A+,3.1,Y,Yes
+118062,Undeclared,3.65,1090,,Yes,Yes,F,0,5,A+,3.1,Y,Yes
+283042,Psychology,3.81,910,,Yes,No,M,9,6,A+,3.1,Y,Yes
+272846,Undeclared SSHA,3.8,1010,Yes,Yes,No,M,10,6,A+,3.1,Y,Yes
+261578,Undeclared,3.8,1240,,Yes,Yes,F,8,6,A+,3.1,Y,Yes
+260446,History,3.8,950,Yes,Yes,No,M,9,3,B+,3.1,Y,Yes
+279342,Political Science,3.81,940,Yes,No,No,M,10,2,I,3.1,Y,Yes
+264422,Computer Science & Engineering,3.8,960,Yes,Yes,No,F,8,2,I,3.1,Y,Yes
+13552,Mechanical Engineering,3.89,1090,,No,Yes,F,0,6,C-,3.12,Y,No
+77862,Undeclared,3.6,840,,No,No,F,0,6,A+,3.13,Y,Yes
+161304,Biological Sciences,3.69,1010,Yes,Yes,Yes,F,2,5,A+,3.14,N,No
+278638,Chemical Sciences,3.81,1060,Yes,Yes,No,M,2,5,A+,3.14,Y,Yes
+257794,Materials Sci & Engineering,3.79,820,No,No,Yes,M,8,3,A-,3.15,N,No
+164142,Management & Business Economics,3.69,1080,Yes,Yes,Yes,F,0,5,A+,3.15,N,No
+175860,Biological Sciences,3.7,1080,Yes,Yes,No,F,14,5,A+,3.15,N,No
+94844,Biological Sciences,3.62,1200,,Yes,No,F,0,7,B+,3.15,N,No
+176646,Bioengineering,3.7,1040,Yes,Yes,Yes,F,4,5,A+,3.15,Y,Yes
+124340,Management & Business Economics,3.65,590,,Yes,Yes,F,0,8,A,3.17,N,No
+69586,Management & Business Economics,2.33,1170,,Yes,Yes,F,0,6,I,3.17,N,No
+114918,Political Science,3.65,810,,Yes,No,F,0,2,F,3.18,N,No
+223440,Management & Business Economics,3.75,830,No,No,No,M,8,5,A,3.18,Y,No
+175184,Management & Business Economics,3.7,1280,,Yes,Yes,F,14,5,A+,3.18,Y,Yes
+66350,Undeclared,2.35,660,,Yes,Yes,F,0,6,I,3.18,Y,Yes
+63014,Psychology,3.59,810,,No,No,F,14,7,A,3.19,N,No
+190064,Biological Sciences,3.72,870,,No,No,F,0,5,B+,3.19,N,No
+177902,Mechanical Engineering,3.7,820,,Yes,Yes,F,9,5,D,3.19,N,No
+199740,Economics,3.72,1130,,Yes,No,F,0,2,F,3.19,N,No
+128676,Undeclared,2.8,1070,,No,Yes,F,0,2,I,3.19,N,No
+155642,Biological Sciences,3.68,1160,,Yes,Yes,F,0,6,I,3.19,N,No
+177670,Sociology,3.7,760,Yes,Yes,Yes,M,0,5,I,3.19,Y,Yes
+130532,Undeclared SSHA,3.66,1040,Yes,No,Yes,F,0,6,I,3.19,Y,Yes
+249806,Biological Sciences,3.78,700,,Yes,No,F,12,7,A,3.2,N,No
+68012,Biological Sciences,3.6,820,No,No,Yes,F,7,7,A,3.2,N,No
+152274,Undeclared SSHA,2.98,870,,Yes,Yes,F,0,7,A,3.2,N,No
+121138,Undeclared SSHA,3.65,1040,Yes,Yes,No,F,0,7,A,3.2,N,No
+95798,Biological Sciences,3.62,1140,,Yes,No,F,0,7,A,3.2,N,No
+93786,Undeclared Engineering,3.62,1160,Yes,Yes,No,F,0,7,A,3.2,N,No
+175024,Undeclared Natural Sciences,3.7,1160,,Yes,No,F,0,7,A,3.2,N,No
+88612,Biological Sciences,2.68,1170,Yes,Yes,No,F,0,7,A,3.2,N,No
+159798,Undeclared,3.69,1040,Yes,Yes,No,F,0,8,A,3.2,N,No
+118642,Biological Sciences,3.65,840,Yes,Yes,Yes,F,0,3,A-,3.2,N,No
+74500,Undeclared,3.6,990,Yes,No,Yes,F,16,3,A-,3.2,N,No
+253454,Computer Science & Engineering,3.79,720,,Yes,No,F,0,6,A-,3.2,N,No
+173136,Undeclared,3.7,900,,Yes,Yes,F,5,5,A+,3.2,N,No
+217216,Public Health,3.75,920,No,No,No,F,0,5,A+,3.2,N,No
+201490,Psychology,3.73,930,,No,No,M,10,5,A+,3.2,N,No
+192140,Political Science,3.72,1050,Yes,Yes,Yes,F,0,5,A+,3.2,N,No
+255596,Undeclared SSHA,3.79,1100,Yes,No,Yes,M,10,5,A+,3.2,N,No
+249666,English,3.78,1110,,No,No,M,7,5,A+,3.2,N,No
+234356,Undeclared Natural Sciences,3.77,1140,,No,No,M,3,5,A+,3.2,N,No
+171166,Undeclared,3.7,1230,,Yes,No,M,9,5,A+,3.2,N,No
+209514,Computer Science & Engineering,3.74,1230,,Yes,Yes,F,4,,A+,3.2,N,No
+74134,Biological Sciences,3.6,770,,No,Yes,M,2,6,I,3.2,N,No
+180092,Undeclared SSHA,3.7,950,No,No,Yes,F,0,6,I,3.2,N,No
+153424,Biological Sciences,3.68,680,No,No,Yes,F,18,7,A,3.2,Y,No
+126336,Biological Sciences,3.65,800,,No,Yes,F,8,7,A,3.2,Y,No
+136082,Biological Sciences,3.66,870,No,No,Yes,F,0,7,A,3.2,Y,No
+74246,Biological Sciences,3.6,900,No,No,Yes,M,12,7,A,3.2,Y,No
+115556,Biological Sciences,2.85,1160,Yes,Yes,No,F,0,7,A,3.2,Y,No
+174774,Public Health,3.7,1160,Yes,Yes,No,F,0,7,A,3.2,Y,No
+67764,Biological Sciences,3.6,810,,No,Yes,M,4,6,A+,3.2,Y,Yes
+74760,Biological Sciences,3.6,820,Yes,Yes,No,M,7,6,A+,3.2,Y,Yes
+67920,Economics,3.6,900,,No,Yes,F,0,6,A+,3.2,Y,Yes
+74330,Environmental Engineering,3.6,900,,No,No,F,2,6,A+,3.2,Y,Yes
+68132,Applied Mathematical Sciences,3.6,930,,Yes,Yes,M,10,6,A+,3.2,Y,Yes
+71856,Chemical Sciences,3.6,940,Yes,No,Yes,F,14,6,A+,3.2,Y,Yes
+74556,Economics,3.6,950,Yes,Yes,Yes,F,0,6,A+,3.2,Y,Yes
+67580,Computer Science & Engineering,3.6,990,,Yes,Yes,M,3,6,A+,3.2,Y,Yes
+70980,Computer Science & Engineering,3.6,1010,Yes,Yes,Yes,F,4,6,A+,3.2,Y,Yes
+111802,Undeclared,2.72,1050,,Yes,Yes,F,4,6,A+,3.2,Y,Yes
+71978,Applied Mathematical Sciences,3.6,1070,Yes,Yes,No,F,0,6,A+,3.2,Y,Yes
+106410,Undeclared,2.7,1120,,Yes,No,M,0,6,A+,3.2,Y,Yes
+276182,Psychology,3.11,1120,,Yes,Yes,F,0,6,A+,3.2,Y,Yes
+74296,Biological Sciences,3.6,1120,,,No,F,0,6,A+,3.2,Y,Yes
+60822,Undeclared SSHA,3.59,1160,Yes,Yes,Yes,F,4,6,A+,3.2,Y,Yes
+54582,Undeclared Engineering,3.59,1200,Yes,Yes,Yes,F,18,6,A+,3.2,Y,Yes
+73748,Biological Sciences,3.6,1280,,Yes,Yes,F,11,6,A+,3.2,Y,Yes
+236810,Economics,3.77,1020,,Yes,No,M,17,,A+,3.2,Y,Yes
+98120,Anthropology,3.62,1130,Yes,No,Yes,F,1,5,B,3.2,Y,Yes
+62482,Economics,3.59,1120,,No,Yes,M,6,3,B,3.2,Y,Yes
+96702,Anthropology,3.62,760,,Yes,No,F,0,8,B-,3.2,Y,Yes
+129376,Bioengineering,3.66,830,,No,No,F,0,8,B-,3.2,Y,Yes
+137298,Biological Sciences,3.66,820,Yes,No,No,F,0,,B-,3.2,Y,Yes
+231076,Economics,3.76,820,,No,Yes,F,0,2,I,3.2,Y,Yes
+209392,Biological Sciences,3.74,920,No,No,Yes,F,0,2,I,3.2,Y,Yes
+161948,Undeclared Natural Sciences,2.9,1000,,No,Yes,F,0,2,I,3.2,Y,Yes
+270136,Biological Sciences,3.8,1030,,Yes,Yes,F,0,2,I,3.2,Y,Yes
+175382,Undeclared,2.95,1040,,Yes,No,F,0,7,A,3.2,Y,Yes
+61172,Biological Sciences,3.59,880,,Yes,Yes,F,12,6,A,3.2,Y,Yes
+74884,Biological Sciences,3.6,660,No,No,Yes,F,9,7,A,3.2,Y,Yes
+124316,Biological Sciences,3.65,780,No,No,No,F,0,7,A,3.2,Y,Yes
+165658,Undeclared,3.01,790,Yes,Yes,No,F,0,7,A,3.2,Y,Yes
+165982,Psychology,3.7,820,Yes,Yes,No,F,0,7,A,3.2,Y,Yes
+79350,Psychology,3.6,860,,Yes,No,F,0,7,A,3.2,Y,Yes
+77780,Biological Sciences,3.6,930,,No,Yes,F,0,7,A,3.2,Y,Yes
+123766,Biological Sciences,3.65,930,No,No,Yes,F,0,7,A,3.2,Y,Yes
+151246,Biological Sciences,3.68,940,No,No,Yes,F,9,7,A,3.2,Y,Yes
+208772,Undeclared,3,1180,Yes,Yes,No,F,0,7,A,3.2,Y,Yes
+208970,Undeclared,3,1210,,Yes,No,F,0,7,A,3.2,Y,Yes
+280970,Undeclared,3.12,1280,Yes,Yes,No,F,0,7,A,3.2,Y,Yes
+114178,Undeclared Engineering,3.64,830,Yes,No,No,F,1,8,A,3.2,Y,Yes
+163220,Computer Science & Engineering,3.69,860,,No,No,F,9,8,A,3.2,Y,Yes
+76790,Undeclared,3.63,880,,Yes,Yes,F,0,4,A-,3.2,Y,Yes
+220152,Public Health,3.75,970,Yes,No,No,F,0,6,A-,3.2,Y,Yes
+189744,Undeclared,3.72,960,,Yes,Yes,F,0,5,A+,3.2,Y,Yes
+253348,Mechanical Engineering,3.79,970,Yes,No,Yes,F,0,5,A+,3.2,Y,Yes
+180996,Spanish,3.71,1000,,Yes,No,F,0,5,A+,3.2,Y,Yes
+182854,Physics,3.71,1030,,Yes,No,F,0,5,A+,3.2,Y,Yes
+197774,Political Science,3.72,1040,,No,Yes,F,0,5,A+,3.2,Y,Yes
+220380,Materials Sci & Engineering,3.75,1070,,No,No,F,0,5,A+,3.2,Y,Yes
+282782,Undeclared,3.81,1110,Yes,No,Yes,F,2,5,A+,3.2,Y,Yes
+282320,Psychology,3.81,1160,,Yes,No,F,9,5,A+,3.2,Y,Yes
+74344,Computer Science & Engineering,3.6,810,No,No,Yes,M,2,6,A+,3.2,Y,Yes
+78408,Biological Sciences,3.6,980,,Yes,Yes,M,13,6,A+,3.2,Y,Yes
+43106,Literatures and Cultures,3.59,990,,Yes,Yes,F,4,6,A+,3.2,Y,Yes
+45822,Psychology,3.59,1000,Yes,Yes,Yes,F,0,6,A+,3.2,Y,Yes
+74204,Economics,3.6,1010,,Yes,No,M,4,6,A+,3.2,Y,Yes
+67100,Biological Sciences,3.6,1050,Yes,,No,F,6,6,A+,3.2,Y,Yes
+282708,Undeclared,3.12,1120,Yes,No,No,M,16,6,A+,3.2,Y,Yes
+196906,Environmental Engineering,3,990,,Yes,Yes,M,6,2,B,3.2,Y,Yes
+63238,Sociology,3.59,1020,,No,No,M,0,6,B-,3.2,Y,Yes
+61762,Biological Sciences,3.59,750,No,No,No,M,2,6,B+,3.2,Y,Yes
+251240,Biological Sciences,3.08,930,,No,Yes,F,0,2,I,3.2,Y,Yes
+67926,Computer Science & Engineering,3.6,780,,No,No,F,6,6,W,3.2,Y,Yes
+66802,Applied Mathematical Sciences,3.6,790,,Yes,No,F,4,6,W,3.2,Y,Yes
+66550,Biological Sciences,3.6,990,,Yes,No,F,12,6,W,3.2,Y,Yes
+78322,Literatures and Cultures,3.6,1070,Yes,No,Yes,M,14,6,A+,3.21,N,No
+175842,Political Science,3.7,790,No,No,Yes,M,0,,D+,3.21,N,No
+198398,Undeclared,3,960,,Yes,No,M,0,5,C+,3.21,Y,Yes
+257740,Undeclared,3.09,860,,No,Yes,F,0,3,D,3.21,Y,Yes
+78326,Psychology,3.6,1130,Yes,No,No,M,9,7,A,3.23,N,No
+126090,Management & Business Economics,3.65,850,,No,No,F,10,8,A-,3.23,N,No
+74038,Management & Business Economics,3.6,930,No,No,Yes,F,0,6,A+,3.23,N,No
+67536,Literatures and Cultures,3.6,1010,,,Yes,M,4,6,A+,3.23,Y,Yes
+192118,Undeclared,3,1020,,Yes,No,M,0,5,C+,3.23,Y,Yes
+209324,Undeclared,3,1030,Yes,Yes,No,M,0,5,C+,3.23,Y,Yes
+258258,Undeclared,3.09,930,No,No,Yes,F,0,,D,3.23,Y,Yes
+257526,Undeclared,3.09,1040,,Yes,No,F,0,3,D,3.23,Y,Yes
+70966,Management &Business Economics,3.6,1250,Yes,Yes,Yes,M,6,6,A+,3.25,N,No
+148426,Undeclared,3.68,720,,No,Yes,F,0,10,B-,3.25,N,No
+67466,Management & Business Economics,3.6,730,Yes,Yes,No,F,3,6,D+,3.25,N,No
+80460,Biological Sciences,2.6,900,,No,No,F,0,2,W,3.25,N,No
+86228,Social and Cognitive Science,2.66,1080,Yes,No,,F,0,8,W,3.25,N,No
+190856,Mechanical Engineering,3.72,900,Yes,Yes,No,F,0,7,B+,3.25,Y,No
+189456,Biological Sciences,3.72,990,,No,No,F,0,7,B+,3.25,Y,No
+199108,Computer Science & Engineering,3.72,1010,,No,No,F,0,7,B+,3.25,Y,No
+184790,Undeclared Engineering,3.71,1270,Yes,Yes,No,F,0,7,B+,3.25,Y,No
+99218,Management & Business Economics,3.52,1040,,Yes,No,F,0,,A-,3.25,Y,Yes
+276354,English,3.81,950,,Yes,Yes,F,7,10,A+,3.25,Y,Yes
+65838,Biological Sciences,3.59,740,,No,Yes,M,10,10,B-,3.25,Y,Yes
+198162,Biological Sciences,3.72,950,Yes,Yes,No,F,0,7,B+,3.25,Y,Yes
+182932,Psychology,3.71,970,,Yes,No,F,0,7,B+,3.25,Y,Yes
+182848,Undeclared,3.71,1150,Yes,Yes,No,F,0,7,B+,3.25,Y,Yes
+273190,Management & Business Economics,3.11,1060,Yes,Yes,No,F,0,3,D,3.25,Y,Yes
+279940,Psychology,3.12,1070,,No,Yes,F,0,3,D,3.25,Y,Yes
+135258,Management & Business Economics,3.66,1040,,Yes,Yes,F,10,7,A,3.26,N,No
+75976,Mechanical Engineering,3.6,860,,No,No,F,7,6,A+,3.26,N,No
+67614,Materials Sci & Engineering,3.6,1020,,Yes,No,F,0,6,A+,3.26,Y,Yes
+76616,Literatures and Cultures,2.45,810,,Yes,No,M,8,1,I,3.26,Y,Yes
+248852,Undeclared Natural Sciences,3.08,1060,,No,No,F,0,1,W,3.26,Y,Yes
+261900,Computer Science & Engineering,3.8,1220,Yes,Yes,Yes,M,14,4,A-,3.27,N,No
+73796,Mechanical Engineering,3.6,1080,,Yes,Yes,F,6,6,A+,3.27,N,No
+68178,Computer Science & Engineering,3,900,No,No,No,M,7,2,B+,3.27,Y,Yes
+153052,Undeclared,3.68,1000,,Yes,No,F,0,8,A,3.28,N,No
+248354,Computer Science & Engineering,3.78,1210,Yes,Yes,Yes,M,8,3,A+,3.28,N,No
+73564,Political Science,3.6,920,,Yes,No,M,1,6,A+,3.28,Y,Yes
+75942,Mechanical Engineering,3.6,1070,Yes,Yes,Yes,F,0,,A+,3.28,Y,Yes
+77882,Psychology,3.6,1000,,No,No,F,0,8,A+,3.28,Y,Yes
+159350,Computer Science & Engineering,3.68,930,,No,No,M,16,5,A,3.3,N,No
+131486,Undeclared,2.97,960,Yes,No,No,M,7,5,A,3.3,N,No
+215158,Economics,3.75,890,No,No,Yes,F,6,7,B,3.3,N,No
+151648,Economics,3.68,920,No,No,Yes,F,10,7,B,3.3,N,No
+156718,Economics,3.68,930,,No,Yes,F,8,7,B,3.3,N,No
+91192,Anthropology,3.62,860,Yes,Yes,Yes,F,4,5,B-,3.3,N,No
+90116,Anthropology,3.62,980,Yes,No,No,F,10,,B-,3.3,N,No
+89544,Anthropology,3.62,990,,Yes,No,F,18,5,B-,3.3,N,No
+89362,Anthropology,3.62,1080,Yes,No,No,M,3,5,B-,3.3,N,No
+86268,Anthropology,3.61,990,,Yes,No,F,2,6,B-,3.3,N,No
+86908,Anthropology,3.61,1000,,,Yes,M,6,6,B-,3.3,N,No
+283596,English,3.81,760,No,No,Yes,F,0,7,B-,3.3,N,No
+90630,English,3.62,930,,No,Yes,M,10,7,B-,3.3,N,No
+95900,Anthropology,3.62,1100,,Yes,No,F,5,8,B-,3.3,N,No
+121392,Undeclared,3.65,660,,Yes,No,M,9,6,B+,3.3,N,No
+81090,Chemical Sciences,3.61,540,,Yes,Yes,F,0,6,B+,3.3,N,No
+142372,Political Science,3.66,860,No,No,No,F,3,6,B+,3.3,N,No
+114458,Anthropology,3.65,1000,Yes,No,No,F,8,6,B+,3.3,N,No
+121048,Anthropology,3.65,1100,Yes,Yes,No,F,11,6,B+,3.3,N,No
+71842,Economics,3.6,800,,No,Yes,F,8,7,B+,3.3,N,No
+279644,Computer Science & Engineering,3.81,870,No,No,No,M,8,8,B+,3.3,N,No
+121452,Anthropology,3.65,930,,No,Yes,F,1,9,B+,3.3,N,No
+118556,Undeclared,3.65,890,,No,No,F,8,2,I,3.3,N,No
+231566,Biological Sciences,3.76,550,,No,No,M,0,9,I,3.3,N,No
+103204,Chemical Sciences,3.63,820,,,Yes,M,11,7,A-,3.3,Y,No
+249630,Mechanical Engineering,3.78,890,No,No,No,F,6,8,A-,3.3,Y,No
+159128,Biological Sciences,3.68,860,No,No,No,F,10,9,A-,3.3,Y,No
+227674,Anthropology,3.76,940,Yes,No,Yes,M,8,4,A+,3.3,Y,No
+181308,Biological Sciences,3.71,970,Yes,No,Yes,M,10,6,A+,3.3,Y,No
+66932,Undeclared,3.6,990,,Yes,Yes,F,0,6,A+,3.3,Y,No
+225612,Psychology,3.75,950,Yes,No,Yes,M,11,9,A+,3.3,Y,No
+87962,Anthropology,3.61,950,,No,Yes,M,6,5,B-,3.3,Y,No
+92926,Anthropology,3.62,1090,Yes,Yes,Yes,M,10,6,B-,3.3,Y,No
+74990,Computer Science & Engineering,3.6,940,,No,No,F,11,5,B+,3.3,Y,No
+155912,Computer Science & Engineering,3.68,910,No,No,Yes,F,14,6,B+,3.3,Y,No
+34018,Computer Science & Engineering,3.59,1090,Yes,Yes,Yes,F,9,7,B+,3.3,Y,No
+174006,Psychology,3.7,930,,No,Yes,F,0,2,I,3.3,Y,No
+205710,Anthropology,3.73,1030,,No,Yes,F,0,5,A,3.3,Y,Yes
+161594,Computer Science & Engineering,3,620,Yes,Yes,No,F,1,7,A,3.3,Y,Yes
+77302,Social and Cognitive Science,2.85,800,No,No,No,M,7,7,A,3.3,Y,Yes
+273658,Biological Sciences,3.11,900,No,No,No,M,7,7,A,3.3,Y,Yes
+67314,Biological Sciences,3.6,950,,Yes,No,F,5,,A,3.3,Y,Yes
+83326,Undeclared Engineering,3.61,840,Yes,Yes,No,F,0,8,A,3.3,Y,Yes
+175590,Materials Sci & Engineering,3.7,850,No,No,No,M,6,9,A,3.3,Y,Yes
+208196,Undeclared,3,860,,No,No,M,6,9,A,3.3,Y,Yes
+261662,Undeclared,3.09,860,,No,No,M,11,9,A,3.3,Y,Yes
+213900,Anthropology,3.75,770,,,No,F,8,10,A,3.3,Y,Yes
+87620,Computer Science & Engineering,2.77,690,,No,No,F,6,3,A-,3.3,Y,Yes
+96872,Management & Business Economics,2.75,730,,Yes,No,F,0,3,A-,3.3,Y,Yes
+95694,Undeclared,3.62,890,,No,No,M,6,3,A-,3.3,Y,Yes
+176232,Undeclared,3.7,890,,No,No,M,9,3,A-,3.3,Y,Yes
+178762,Management & Business Economics,3.7,890,,No,No,M,10,3,A-,3.3,Y,Yes
+158902,Anthropology,3.68,1100,,No,No,F,0,4,A-,3.3,Y,Yes
+123858,Psychology,3.65,1130,,No,No,F,0,4,A-,3.3,Y,Yes
+68708,Sociology,3.6,540,Yes,Yes,Yes,F,53,,A-,3.3,Y,Yes
+123144,Undeclared,3.65,820,No,No,No,F,2,6,A-,3.3,Y,Yes
+119808,Undeclared Natural Sciences,3.65,840,No,No,No,F,0,6,A+,3.3,Y,Yes
+112032,History,3.64,850,,No,Yes,F,0,6,A+,3.3,Y,Yes
+115820,Undeclared Natural Sciences,3.65,880,,Yes,No,F,0,6,A+,3.3,Y,Yes
+100706,Undeclared,3.63,920,,No,Yes,F,0,6,A+,3.3,Y,Yes
+190582,Sociology,3.72,930,Yes,No,Yes,F,13,6,A+,3.3,Y,Yes
+106742,Computer Science & Engineering,3.63,940,No,No,Yes,F,0,6,A+,3.3,Y,Yes
+96026,Undeclared,3.62,950,,Yes,No,F,11,6,A+,3.3,Y,Yes
+97828,Management & Business Economics,3.62,1000,,No,Yes,F,0,6,A+,3.3,Y,Yes
+120012,Undeclared,3.65,1020,Yes,No,Yes,F,0,6,A+,3.3,Y,Yes
+105124,Undeclared,3.63,1060,,No,Yes,F,0,6,A+,3.3,Y,Yes
+77580,Undeclared Natural Sciences,3.6,1070,,Yes,Yes,M,0,6,A+,3.3,Y,Yes
+70508,Undeclared SSHA,3.6,1090,,Yes,No,F,6,6,A+,3.3,Y,Yes
+124244,Undeclared,3.65,1090,,No,No,F,0,6,A+,3.3,Y,Yes
+115658,Undeclared,3.65,1100,Yes,No,Yes,F,8,,A+,3.3,Y,Yes
+85918,Computer Science & Engineering,3.61,1110,Yes,No,Yes,M,0,6,A+,3.3,Y,Yes
+74934,Undeclared,3.6,1210,,Yes,No,M,0,6,A+,3.3,Y,Yes
+35782,Economics,3.59,960,,Yes,No,M,0,8,A+,3.3,Y,Yes
+76384,Undeclared,3.6,540,,Yes,No,F,12,5,B,3.3,Y,Yes
+272834,Biological Sciences,3.8,720,,No,No,M,12,9,A,3.3,Y,Yes
+153974,Psychology,3.68,850,,Yes,No,F,0,9,A,3.3,Y,Yes
+174212,Spanish,3.7,850,,Yes,No,F,0,9,A,3.3,Y,Yes
+154254,Economics,3.68,880,Yes,Yes,No,F,0,9,A,3.3,Y,Yes
+280634,Management & Business Economics,3.12,1080,Yes,No,No,F,0,3,A-,3.3,Y,Yes
+96680,Economics,3.62,850,,Yes,No,F,0,6,A+,3.3,Y,Yes
+67916,Undeclared,3.6,950,Yes,Yes,Yes,F,0,6,A+,3.3,Y,Yes
+76606,Undeclared Natural Sciences,3.6,970,Yes,No,No,F,0,6,A+,3.3,Y,Yes
+74674,Undeclared,3.6,1000,Yes,Yes,Yes,F,9,6,A+,3.3,Y,Yes
+72662,Undeclared,3.6,1080,,Yes,No,F,0,6,A+,3.3,Y,Yes
+117224,Biological Sciences,3.65,1120,,No,Yes,F,0,6,A+,3.3,Y,Yes
+123538,Undeclared,3.65,1180,,Yes,No,F,10,6,A+,3.3,Y,Yes
+104980,Chemical Sciences,3.63,1190,,Yes,Yes,F,0,6,A+,3.3,Y,Yes
+149644,Computer Science & Engineering,3.68,610,No,No,No,F,10,6,B+,3.3,Y,Yes
+75534,Computer Science & Engineering,3.6,790,,No,Yes,M,6,6,B+,3.3,Y,Yes
+115958,Computer Science & Engineering,3.65,800,,No,Yes,M,8,6,B+,3.3,Y,Yes
+119348,Computer Science & Engineering,3.65,810,,No,Yes,F,6,6,B+,3.3,Y,Yes
+111214,Anthropology,3.64,890,No,,No,M,11,6,B+,3.3,Y,Yes
+110810,Anthropology,3.64,1250,Yes,Yes,No,F,0,6,B+,3.3,Y,Yes
+122472,Anthropology,3.65,740,,Yes,No,F,1,10,B+,3.3,Y,Yes
+123570,Anthropology,3.65,800,Yes,Yes,Yes,F,16,10,B+,3.3,Y,Yes
+122106,Anthropology,3.65,1110,,Yes,Yes,F,1,10,B+,3.3,Y,Yes
+67384,Sociology,3.6,760,,Yes,No,M,16,6,I,3.3,Y,Yes
+66028,Undeclared,3.6,890,,No,Yes,F,6,6,I,3.3,Y,Yes
+65954,Sociology,3.6,1140,Yes,Yes,No,F,8,6,I,3.3,Y,Yes
+168986,Management & Business Economics,3.7,900,No,No,Yes,M,6,5,W,3.3,Y,Yes
+66440,Undeclared,3.6,770,No,No,Yes,M,2,6,W,3.3,Y,Yes
+74906,Chemical Sciences,3.6,990,,No,Yes,M,12,6,A,3.31,N,No
+163844,Undeclared SSHA,3.69,820,No,No,No,F,8,7,A,3.31,N,No
+130316,Anthropology,3.66,1090,Yes,Yes,No,F,0,6,A+,3.31,N,No
+125750,Undeclared SSHA,3.65,1270,,Yes,No,F,0,6,A+,3.31,N,No
+43640,Undeclared,2.99,960,Yes,Yes,No,F,0,5,A-,3.31,Y,Yes
+119498,Undeclared SSHA,3.65,990,Yes,No,No,F,5,6,A+,3.31,Y,Yes
+262338,History,3.09,990,,Yes,No,M,0,10,A+,3.31,Y,Yes
+220070,Undeclared,3.14,1170,,Yes,No,M,0,10,A+,3.31,Y,Yes
+217104,Undeclared,3.13,1190,,Yes,No,M,0,10,A+,3.31,Y,Yes
+72152,Physics,3.6,1020,,Yes,No,F,0,4,A+,3.32,N,No
+131448,Bioengineering,3.66,810,Yes,Yes,Yes,F,6,6,A+,3.32,Y,Yes
+238042,Management & Business Economics,3.15,1100,,Yes,No,M,0,10,A+,3.32,Y,Yes
+148314,Biological Sciences,3.68,940,,No,Yes,M,6,6,A+,3.33,N,No
+261872,Mechanical Engineering,3.19,960,,No,No,M,0,10,A+,3.33,N,No
+152684,Biological Sciences,3.68,840,Yes,Yes,Yes,F,13,,A+,3.33,Y,Yes
+141894,Computer Science & Engineering,3.66,950,,Yes,No,F,2,6,A+,3.33,Y,Yes
+250968,Undeclared,3.18,1000,,Yes,No,M,0,10,A+,3.33,Y,Yes
+238568,Undeclared,3.15,1030,,,No,M,0,10,A+,3.33,Y,Yes
+123358,Undeclared,3.65,760,,Yes,No,F,6,4,A,3.35,N,No
+186758,Undeclared,3.72,870,Yes,Yes,Yes,F,8,5,A,3.35,N,No
+154444,Environmental Engineering,3.68,880,,Yes,Yes,M,6,6,A+,3.35,N,No
+157522,Economics,3.68,900,,Yes,Yes,M,5,6,A+,3.35,N,No
+146150,Chemical Sciences,3.68,960,,Yes,Yes,M,4,6,A+,3.35,N,No
+261800,Psychology,3.19,700,,Yes,No,M,0,10,B-,3.35,N,No
+199680,Biological Sciences,3.3,1110,Yes,No,No,M,0,10,A+,3.35,Y,Yes
+67136,Psychology,3.6,830,,Yes,Yes,F,10,6,A+,3.35,Y,Yes
+192396,Psychology,3.3,1230,,Yes,No,M,0,10,A+,3.35,Y,Yes
+134952,Undeclared,3.66,1130,Yes,Yes,No,F,6,4,A,3.38,N,No
+199492,Undeclared,3.3,1130,,No,No,M,0,10,A+,3.38,N,No
+148138,Mechanical Engineering,3.68,710,,No,Yes,M,0,6,C-,3.38,N,No
+138788,Undeclared SSHA,2.84,950,,No,No,M,0,2,F,3.38,N,No
+73740,Undeclared,3.6,1140,,Yes,Yes,F,14,4,A,3.4,N,No
+177138,Public Health,3.7,1160,,Yes,No,M,4,6,A+,3.4,N,No
+173158,Biological Sciences,3.7,1200,,Yes,Yes,F,2,6,A+,3.4,N,No
+176850,Chemical Sciences,3.7,1220,,Yes,Yes,F,8,6,A+,3.4,N,No
+161114,Undeclared,3.69,1240,,Yes,No,M,4,6,A+,3.4,N,No
+161130,Computer Science & Engineering,3.69,1240,,Yes,Yes,M,2,6,A+,3.4,N,No
+201160,Undeclared,3.3,1090,Yes,No,No,M,0,10,A+,3.4,N,No
+191882,Bioengineering,3.72,540,,Yes,Yes,F,4,6,B,3.4,N,No
+239696,Undeclared,3.77,550,Yes,Yes,No,F,0,9,B,3.4,N,No
+196140,Biological Sciences,3.72,540,Yes,Yes,Yes,M,2,7,B+,3.4,N,No
+152808,Psychology,3.68,550,,Yes,Yes,F,7,7,B+,3.4,N,No
+203850,Mechanical Engineering,3.73,560,No,No,No,F,8,8,C,3.4,N,No
+67860,Biological Sciences,3.6,550,,No,Yes,F,9,7,C+,3.4,N,No
+122784,Psychology,3.65,550,,No,Yes,F,1,7,C+,3.4,N,No
+144150,Undeclared,3.67,550,,Yes,No,F,6,7,C+,3.4,N,No
+186400,Management & Business Economics,3.72,830,,Yes,Yes,F,0,2,I,3.4,N,No
+91952,Biological Sciences,3.62,810,,No,Yes,F,1,3,A,3.4,Y,No
+206076,Anthropology,3.73,700,,No,No,F,0,9,A,3.4,Y,No
+43122,Undeclared,2.88,950,Yes,Yes,No,M,0,6,A-,3.4,Y,No
+156200,Undeclared,3.68,800,,,Yes,F,0,6,A+,3.4,Y,No
+162828,Undeclared,3.69,980,Yes,Yes,No,F,0,6,A+,3.4,Y,No
+178446,Biological Sciences,3.7,1020,,Yes,Yes,F,0,6,A+,3.4,Y,No
+165716,Biological Sciences,3.7,1030,,No,No,M,0,6,A+,3.4,Y,No
+162856,Undeclared Natural Sciences,3.69,1090,,Yes,Yes,M,0,6,A+,3.4,Y,No
+177516,Computer Science & Engineering,3.7,1130,,Yes,Yes,M,6,6,A+,3.4,Y,No
+116882,Biological Sciences,3.65,1050,,Yes,No,F,0,9,A+,3.4,Y,No
+138118,Management & Business Economics,3.03,550,Yes,Yes,No,F,0,6,B,3.4,Y,No
+115778,Undeclared,2.85,930,,No,No,F,0,9,B-,3.4,Y,No
+177492,Undeclared,3.05,890,Yes,Yes,Yes,F,0,1,A,3.4,Y,Yes
+99638,Undeclared,3.63,960,,Yes,Yes,F,1,3,A,3.4,Y,Yes
+140528,Undeclared SSHA,3.66,1000,Yes,Yes,Yes,F,10,3,A,3.4,Y,Yes
+186444,Undeclared,3.06,770,,Yes,Yes,F,11,1,A,3.4,Y,Yes
+171192,Management & Business Economics,3.7,920,No,No,Yes,F,0,6,A+,3.4,Y,Yes
+177342,Management & Business Economics,3.7,930,Yes,Yes,Yes,F,4,6,A+,3.4,Y,Yes
+199622,Undeclared,3.3,1100,,Yes,No,M,0,10,A+,3.4,Y,Yes
+198484,Undeclared,3.3,1120,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+194432,Undeclared,3.3,1130,Yes,Yes,No,M,0,,A+,3.4,Y,Yes
+202880,Undeclared,3.3,1140,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+149204,Sociology,3.68,870,,Yes,Yes,M,6,6,A+,3.4,Y,Yes
+153978,Undeclared,3.68,930,Yes,Yes,No,F,2,6,A+,3.4,Y,Yes
+162374,Psychology,3.69,1080,,Yes,Yes,F,0,6,A+,3.4,Y,Yes
+173846,Sociology,3.7,1110,,Yes,Yes,F,10,6,A+,3.4,Y,Yes
+152358,Undeclared,3.68,1150,,Yes,Yes,M,0,6,A+,3.4,Y,Yes
+233930,Anthropology,3.76,1000,Yes,Yes,No,F,0,9,A+,3.4,Y,Yes
+77838,Biological Sciences,3.6,1140,,No,No,F,0,9,A+,3.4,Y,Yes
+199930,Undeclared,3.3,1080,,Yes,No,M,0,10,A+,3.4,Y,Yes
+194440,Undeclared,3.3,1100,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+201034,Undeclared,3.3,1110,Yes,No,No,M,0,10,A+,3.4,Y,Yes
+200230,Undeclared,3.3,1130,,Yes,No,M,0,10,A+,3.4,Y,Yes
+201370,Undeclared,3.3,1140,,Yes,No,M,0,10,A+,3.4,Y,Yes
+200316,Undeclared,3.3,1150,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+198342,Undeclared,3.3,1160,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+192344,Undeclared,3.3,1170,,Yes,No,M,0,10,A+,3.4,Y,Yes
+200266,Undeclared,3.3,1180,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+201114,Undeclared,3.3,1180,Yes,Yes,No,M,0,10,A+,3.4,Y,Yes
+194436,Undeclared,3.3,1210,,Yes,No,M,0,10,A+,3.4,Y,Yes
+194418,Undeclared,3.3,1230,,Yes,No,M,0,10,A+,3.4,Y,Yes
+194422,Undeclared,3.3,1250,,Yes,No,M,0,10,A+,3.4,Y,Yes
+71896,Bioengineering,3.6,750,No,No,Yes,F,7,10,B-,3.4,Y,Yes
+96548,Undeclared,3.62,740,Yes,Yes,No,F,0,9,D-,3.4,Y,Yes
+153664,Computer Science & Engineering,3.68,610,No,No,Yes,F,2,5,A,3.43,N,No
+110354,Applied Mathematical Sciences,3.63,920,,No,Yes,F,12,5,A,3.43,N,No
+69646,Biological Sciences,3.6,1010,Yes,Yes,Yes,F,4,,A,3.43,N,No
+182618,Economics,3.71,910,No,No,No,F,0,6,A+,3.43,N,No
+87710,Psychology,3.61,1110,,Yes,Yes,F,0,1,W,3.43,N,No
+183086,Chemical Sciences,3.71,950,No,No,Yes,F,0,6,A+,3.43,Y,Yes
+171186,Undeclared,3.7,1110,,No,Yes,M,2,6,A+,3.43,Y,Yes
+198572,Undeclared,3.3,1060,,Yes,No,M,0,10,A+,3.43,Y,Yes
+199782,Undeclared,3.3,1110,,Yes,No,M,0,10,A+,3.43,Y,Yes
+200016,Undeclared,3.3,1120,,Yes,No,M,0,10,A+,3.43,Y,Yes
+135748,Undeclared,3.66,1130,Yes,Yes,Yes,F,0,6,C,3.43,Y,Yes
+238934,Psychology,3.77,870,Yes,Yes,No,M,6,1,W,3.43,Y,Yes
+180900,History,3.71,770,,No,Yes,F,0,6,I,3.44,N,No
+239178,Management & Business Economics,3.77,900,No,No,Yes,F,3,5,A,3.44,Y,No
+68394,Undeclared,3.6,820,,No,Yes,F,2,6,A+,3.44,Y,Yes
+200518,Undeclared,3.3,1110,Yes,Yes,No,M,0,10,A+,3.44,Y,Yes
+64264,Economics,3.59,880,Yes,Yes,Yes,F,4,6,A,3.45,N,No
+67338,Chemical Sciences,3.6,880,Yes,Yes,No,F,2,6,A,3.45,N,No
+173530,Sociology,3.73,830,Yes,No,No,F,0,10,B,3.45,N,No
+121466,Undeclared,2.77,1030,,Yes,No,M,9,6,B+,3.45,N,No
+118820,Biological Sciences,3.65,940,No,No,Yes,F,7,6,A,3.45,Y,No
+196390,Undeclared,3.72,880,Yes,Yes,Yes,F,0,6,A+,3.45,Y,No
+222776,Management & Business Economics,3.75,920,,No,No,M,12,6,A+,3.45,Y,No
+223342,Chemical Sciences,3.75,920,Yes,Yes,No,M,0,6,A+,3.45,Y,No
+207254,Anthropology,3.73,930,Yes,No,Yes,F,6,6,A+,3.45,Y,No
+213676,Anthropology,3.75,940,Yes,No,Yes,F,4,6,A+,3.45,Y,No
+199106,Computer Science & Engineering,3.72,950,Yes,Yes,Yes,F,2,6,A+,3.45,Y,No
+197818,Undeclared,3.72,960,Yes,Yes,No,F,0,6,A+,3.45,Y,No
+222606,Biological Sciences,3.75,1000,,,No,F,8,6,A+,3.45,Y,No
+202740,Computer Science & Engineering,3.73,920,No,No,No,F,0,6,A+,3.45,Y,No
+171108,Political Science,3.7,1000,Yes,Yes,Yes,F,10,6,A,3.45,Y,Yes
+109386,Psychology,3.63,1010,,No,No,F,0,6,A,3.45,Y,Yes
+68658,Biological Sciences,3.6,1110,Yes,Yes,Yes,F,5,,A,3.45,Y,Yes
+238914,Biological Sciences,3.77,1150,,Yes,Yes,F,3,6,A,3.45,Y,Yes
+64828,Undeclared SSHA,3.59,920,Yes,Yes,Yes,F,4,7,A,3.45,Y,Yes
+199470,Psychology,3.72,950,Yes,Yes,Yes,F,6,7,A,3.45,Y,Yes
+169858,Psychology,3.7,990,,No,No,F,0,7,A,3.45,Y,Yes
+61652,Computer Science & Engineering,3.59,1010,,No,No,F,0,7,A,3.45,Y,Yes
+77494,Undeclared,3.6,1110,,Yes,Yes,F,6,7,A,3.45,Y,Yes
+165258,Bioengineering,3.69,1150,,Yes,Yes,F,6,7,A,3.45,Y,Yes
+46302,Management & Business Economics,3.59,1200,,Yes,Yes,F,4,7,A,3.45,Y,Yes
+160422,Psychology,3.69,990,Yes,No,No,F,0,8,A,3.45,Y,Yes
+165696,Undeclared,3.7,1010,,No,Yes,F,0,8,A,3.45,Y,Yes
+191786,Biological Sciences,3.72,970,,No,Yes,F,3,9,A,3.45,Y,Yes
+171116,Management & Business Economics,3.7,1150,,Yes,Yes,F,12,9,A,3.45,Y,Yes
+96172,Undeclared,2.85,960,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+80304,Undeclared,3.61,1030,,No,No,F,0,5,A-,3.45,Y,Yes
+245326,Undeclared,3.77,1040,,No,No,F,0,5,A-,3.45,Y,Yes
+278926,Economics,3.12,1080,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+240932,English,3.77,1080,,No,No,F,0,5,A-,3.45,Y,Yes
+262768,History,3.1,1130,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+216098,Spanish,3.75,800,,No,Yes,F,0,6,A+,3.45,Y,Yes
+183784,Management & Business Economics,3.71,1010,,No,Yes,F,0,6,A+,3.45,Y,Yes
+200408,Anthropology,3.72,1010,,Yes,Yes,F,0,6,A+,3.45,Y,Yes
+191674,Undeclared,3.72,1050,Yes,Yes,Yes,F,0,6,A+,3.45,Y,Yes
+229190,Undeclared,3.76,1050,,Yes,No,M,4,6,A+,3.45,Y,Yes
+216184,Management & Business Economics,3.75,1070,,Yes,Yes,F,0,,A+,3.45,Y,Yes
+209168,Undeclared Engineering,3.74,1090,,No,Yes,F,8,6,A+,3.45,Y,Yes
+206666,Economics,3.73,1100,,No,Yes,F,0,6,A+,3.45,Y,Yes
+127950,Computer Science & Engineering,3.65,960,Yes,No,No,F,5,4,B,3.45,Y,Yes
+137428,Biological Sciences,2.83,1060,,Yes,Yes,M,10,6,B,3.45,Y,Yes
+127362,Undeclared,3.65,1170,Yes,Yes,Yes,F,6,6,A,3.45,Y,Yes
+228386,Anthropology,3.76,1030,,Yes,Yes,F,6,7,A,3.45,Y,Yes
+278974,Biological Sciences,3.81,1090,Yes,No,Yes,F,12,7,A,3.45,Y,Yes
+199080,Biological Sciences,3.72,960,,No,Yes,F,3,9,A,3.45,Y,Yes
+168982,Undeclared,3.7,980,,Yes,Yes,F,6,,A,3.45,Y,Yes
+249250,Psychology,3.78,880,,Yes,Yes,F,11,7,A,3.45,Y,Yes
+69342,Chemical Sciences,2.63,950,Yes,Yes,Yes,F,14,7,A,3.45,Y,Yes
+224588,Mechanical Engineering,3.75,1100,Yes,No,Yes,F,3,10,A,3.45,Y,Yes
+254434,Bioengineering,3.09,740,,Yes,No,F,0,5,A-,3.45,Y,Yes
+202858,Undeclared,3.73,780,Yes,Yes,No,F,0,5,A-,3.45,Y,Yes
+172378,English,3.7,810,Yes,Yes,No,F,0,5,A-,3.45,Y,Yes
+74794,Management & Business Economics,2.62,880,,No,No,F,0,5,A-,3.45,Y,Yes
+276922,Biological Sciences,3.12,970,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+253104,Management & Business Economics,3.08,990,,No,No,F,0,5,A-,3.45,Y,Yes
+113476,Undeclared SSHA,3.64,990,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+256850,Biological Sciences,3.09,1020,,No,No,F,0,5,A-,3.45,Y,Yes
+251326,Management & Business Economics,3.08,1070,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+172796,Political Science,3.05,1080,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+281706,Biological Sciences,3.12,1080,Yes,No,No,F,0,5,A-,3.45,Y,Yes
+233776,Undeclared,3.76,880,,Yes,No,F,0,6,A+,3.45,Y,Yes
+216828,Anthropology,3.75,940,,Yes,Yes,F,4,6,A+,3.45,Y,Yes
+188418,Biological Sciences,3.72,980,Yes,Yes,No,M,0,6,A+,3.45,Y,Yes
+211774,Political Science,3.75,1000,Yes,Yes,Yes,F,14,6,A+,3.45,Y,Yes
+112544,Undeclared,2.72,1010,,No,No,M,10,6,A+,3.45,Y,Yes
+207752,Undeclared,3.73,1020,Yes,No,Yes,F,0,,A+,3.45,Y,Yes
+216102,Psychology,3.75,1090,,Yes,Yes,F,0,6,A+,3.45,Y,Yes
+203022,Computer Science & Engineering,3.73,1130,Yes,Yes,Yes,F,0,6,A+,3.45,Y,Yes
+110788,Biological Sciences,2.72,1140,Yes,Yes,No,F,7,6,A+,3.45,Y,Yes
+203888,Undeclared,3.3,1100,Yes,Yes,No,M,0,10,A+,3.45,Y,Yes
+238122,Biological Sciences,3.77,1000,,Yes,No,M,0,6,A+,3.46,N,No
+105216,Undeclared SSHA,3.63,900,,No,,F,10,4,B+,3.46,N,No
+76432,Psychology,3.6,1130,Yes,Yes,Yes,M,9,3,A+,3.46,Y,Yes
+244732,Management & Business Economics,3.77,960,,No,Yes,F,0,6,A+,3.46,Y,Yes
+241630,Computer Science & Engineering,3.77,970,,No,No,F,10,6,A+,3.46,Y,Yes
+239870,Political Science,3.05,910,,No,Yes,M,6,6,I,3.46,Y,Yes
+67288,Biological Sciences,3.6,910,No,No,Yes,F,0,7,A,3.5,N,No
+62914,Applied Mathematical Sciences,3.59,930,Yes,No,No,F,8,5,A-,3.5,N,No
+100228,Undeclared,3.63,560,,Yes,Yes,F,1,8,A-,3.5,N,No
+212728,Biological Sciences,3.75,800,,No,No,F,2,3,A-,3.5,N,No
+168594,Biological Sciences,3.7,770,No,No,No,F,8,5,A-,3.5,N,No
+117270,Computer Science & Engineering,3.65,1020,,Yes,No,F,6,6,A-,3.5,N,No
+136934,Undeclared,3.66,1230,,Yes,No,F,7,7,A-,3.5,N,No
+162758,Computer Science & Engineering,3,570,,No,No,M,4,8,B,3.5,N,No
+213844,Economics,3.75,560,,No,No,M,8,8,B-,3.5,N,No
+157272,Undeclared,3.68,920,No,No,No,F,10,6,B+,3.5,N,No
+158504,Undeclared,3.68,690,,Yes,No,F,0,7,B+,3.5,N,No
+183408,Biological Sciences,3.71,1000,,Yes,No,F,0,7,B+,3.5,N,No
+231012,Sociology,3.76,760,,No,No,F,24,6,B+,3.5,N,No
+85948,Biological Sciences,3.61,1060,,Yes,Yes,M,8,7,C-,3.5,N,No
+65448,Biological Sciences,3.59,880,Yes,Yes,Yes,M,6,6,C-,3.5,N,No
+184050,Psychology,3.71,980,Yes,Yes,Yes,F,0,6,I,3.5,N,No
+250352,Computer Science & Engineering,3.08,1210,Yes,Yes,No,M,8,6,I,3.5,N,No
+172522,Anthropology,3.7,950,,No,Yes,F,0,10,A,3.5,Y,No
+97158,Biological Sciences,3.62,810,,No,No,F,4,6,A-,3.5,Y,No
+282908,Computer Science & Engineering,3.81,840,,No,No,F,2,6,A+,3.5,Y,No
+73728,Undeclared,3.6,870,,Yes,No,F,7,,A+,3.5,Y,No
+74810,Undeclared SSHA,3.6,1070,,Yes,Yes,F,6,6,A+,3.5,Y,No
+264048,Public Health,3.8,1080,Yes,Yes,Yes,F,10,6,A+,3.5,Y,No
+71924,Sociology,3.6,1090,,Yes,Yes,M,7,6,A+,3.5,Y,No
+278022,Biological Sciences,3.12,1100,,No,Yes,M,6,,A+,3.5,Y,No
+100686,Computer Science & Engineering,3.63,1120,Yes,No,No,F,8,6,A+,3.5,Y,No
+255664,Undeclared,3.79,1120,Yes,No,No,F,0,6,A+,3.5,Y,No
+272060,Computer Science & Engineering,3.8,1120,,Yes,No,F,0,6,A+,3.5,Y,No
+77812,Biological Sciences,3.6,1170,,Yes,No,F,0,6,A+,3.5,Y,No
+266584,Management &Business Economics,3.8,1170,,Yes,No,F,0,6,A+,3.5,Y,No
+239406,Anthropology,3.77,940,,No,No,F,0,10,A+,3.5,Y,No
+128356,Undeclared,3.66,960,Yes,No,Yes,F,10,10,A+,3.5,Y,No
+209308,Economics,3.74,920,Yes,No,Yes,F,6,8,A+,3.5,Y,No
+161388,Applied Mathematical Sciences,3,570,,No,No,F,0,8,B-,3.5,Y,No
+109482,Undeclared,3.63,920,No,No,Yes,F,0,6,A+,3.5,Y,Yes
+246716,Management & Business Economics,3.78,950,,No,No,F,0,6,A+,3.5,Y,Yes
+114140,Spanish,3.64,960,,Yes,Yes,F,0,6,A+,3.5,Y,Yes
+87126,Undeclared SSHA,3.61,970,,No,Yes,F,0,6,A+,3.5,Y,Yes
+275916,Mechanical Engineering,3.81,970,,Yes,No,F,0,6,A+,3.5,Y,Yes
+239724,Undeclared Engineering,3.77,980,,,No,M,4,6,A+,3.5,Y,Yes
+263924,Undeclared SSHA,3.8,1010,,Yes,Yes,F,4,6,A+,3.5,Y,Yes
+256694,Bioengineering,3.79,1020,Yes,No,Yes,F,0,6,A+,3.5,Y,Yes
+268540,Environmental Engineering,3.8,1030,,No,No,F,4,6,A+,3.5,Y,Yes
+56214,Undeclared,3.59,1040,,Yes,Yes,F,0,6,A+,3.5,Y,Yes
+282608,Bioengineering,3.81,1050,,No,No,F,0,6,A+,3.5,Y,Yes
+253196,Cognitive Science,3.79,1130,,Yes,No,M,16,3,A+,3.5,Y,Yes
+111100,Chemical Sciences,3.64,950,Yes,No,Yes,F,2,4,A+,3.5,Y,Yes
+240726,Undeclared SSHA,3.77,840,,No,Yes,F,0,6,A+,3.5,Y,Yes
+101524,Biological Sciences,3.63,860,Yes,Yes,Yes,F,0,6,A+,3.5,Y,Yes
+281780,Biological Sciences,3.81,870,No,No,Yes,F,4,6,A+,3.5,Y,Yes
+110096,Mechanical Engineering,3.63,880,Yes,Yes,Yes,F,6,6,A+,3.5,Y,Yes
+252044,Biological Sciences,3.79,880,Yes,Yes,No,F,4,,A+,3.5,Y,Yes
+67776,Materials Sci & Engineering,3.6,900,,No,Yes,M,6,6,A+,3.5,Y,Yes
+255994,Sociology,3.79,920,,No,Yes,F,4,6,A+,3.5,Y,Yes
+107470,Undeclared Engineering,3.63,930,,No,No,F,0,6,A+,3.5,Y,Yes
+253548,Undeclared Engineering,3.79,940,,No,No,F,7,6,A+,3.5,Y,Yes
+206116,Chemical Sciences,3.73,970,,No,Yes,F,12,6,A+,3.5,Y,Yes
+247726,Mechanical Engineering,3.78,970,,No,Yes,F,8,6,A+,3.5,Y,Yes
+251798,Undeclared,3.78,970,,,No,M,1,6,A+,3.5,Y,Yes
+239886,Political Science,3.77,1000,,No,No,F,4,6,A+,3.5,Y,Yes
+282278,Biological Sciences,3.81,1020,,Yes,No,M,12,6,A+,3.5,Y,Yes
+78234,Undeclared SSHA,3.6,1070,,Yes,Yes,F,8,6,A+,3.5,Y,Yes
+266070,Undeclared,3.8,1110,Yes,Yes,No,F,0,6,A+,3.5,Y,Yes
+71614,Sociology,3.6,1130,,No,No,F,8,6,A+,3.5,Y,Yes
+279206,Biological Sciences,3.81,1140,,No,No,F,0,6,A+,3.5,Y,Yes
+252842,Biological Sciences,3.79,1170,Yes,Yes,Yes,F,0,6,A+,3.5,Y,Yes
+72172,Economics,3.6,1180,,Yes,,F,0,6,A+,3.5,Y,Yes
+266156,Psychology,3.8,1180,,Yes,No,M,0,6,A+,3.5,Y,Yes
+118852,Biological Sciences,3.65,1070,,No,Yes,F,0,8,A+,3.5,Y,Yes
+251548,Bioengineering,3.78,940,No,No,Yes,F,12,9,A+,3.5,Y,Yes
+63578,Computer Science & Engineering,3.59,920,Yes,No,Yes,M,6,6,B-,3.5,Y,Yes
+84800,Anthropology,3.61,710,,No,No,M,8,6,B-,3.5,Y,Yes
+182620,Computer Science & Engineering,3.71,1020,,No,No,F,0,7,B+,3.5,Y,Yes
+282186,Economics,3.81,760,,No,No,F,0,6,I,3.5,Y,Yes
+260092,Undeclared SSHA,3.09,930,,No,No,M,7,6,W,3.5,Y,Yes
+136836,Anthropology,3.66,780,,No,Yes,F,1,9,W,3.5,Y,Yes
+229588,Undeclared SSHA,3.76,900,,No,No,F,8,5,A-,3.54,N,No
+192656,Biological Sciences,3.72,930,No,No,No,F,1,5,A-,3.54,N,No
+278338,Public Health,3.81,880,Yes,Yes,No,F,0,6,A+,3.54,N,No
+148624,Computer Science & Engineering,3.68,940,Yes,No,Yes,F,0,6,A+,3.54,N,No
+127560,Psychology,3.65,960,Yes,Yes,No,M,6,6,A+,3.54,N,No
+281394,Psychology,3.81,1080,,No,No,F,1,6,A+,3.54,N,No
+123068,Psychology,3.65,900,No,No,No,F,0,5,B+,3.54,N,No
+278586,Chemical Sciences,3.12,920,,,No,F,0,5,B+,3.54,N,No
+159450,Economics,3.68,940,Yes,Yes,Yes,F,15,6,A+,3.54,Y,Yes
+276008,Sociology,3.81,1020,,No,No,F,0,6,A+,3.54,Y,Yes
+280220,Psychology,3.81,1050,Yes,Yes,No,M,0,6,A+,3.54,Y,Yes
+153630,Mechanical Engineering,3.68,1120,,No,Yes,F,0,6,A+,3.54,Y,Yes
+201902,Undeclared,3.73,930,,No,No,F,0,6,A-,3.55,N,No
+277368,Undeclared,3.81,930,,No,No,F,0,6,A-,3.55,N,No
+165066,Bioengineering,3.69,850,Yes,Yes,Yes,F,0,6,A+,3.55,N,No
+283802,Earth Systems Science,3.82,910,,No,No,F,0,6,A+,3.55,N,No
+276750,Undeclared,3.81,940,,No,No,M,10,6,A+,3.55,N,No
+153340,Undeclared,3.68,1280,,Yes,Yes,F,13,6,A+,3.55,N,No
+280556,Biological Sciences,3.81,930,Yes,No,No,M,9,7,C-,3.55,N,No
+152474,Undeclared,3.68,770,,No,Yes,F,0,6,I,3.55,N,No
+278442,Undeclared,3.81,920,,No,Yes,F,0,6,A+,3.55,Y,Yes
+161088,Cognitive Science,3.69,1170,Yes,Yes,Yes,M,12,6,A+,3.56,N,No
+124412,Anthropology,3.65,940,,Yes,Yes,F,0,,A,3.56,Y,Yes
+163502,Psychology,3.69,1070,Yes,No,No,F,8,6,A+,3.58,N,No
+176870,English,3.7,1060,Yes,Yes,No,F,0,10,A+,3.58,Y,Yes
+161506,Undeclared,3.69,910,,Yes,No,M,7,6,A+,3.59,Y,Yes
+89680,Biological Sciences,2.89,770,Yes,Yes,No,F,0,2,A,3.6,N,No
+174406,Biological Sciences,3.7,620,,Yes,Yes,F,8,8,A,3.6,N,No
+180728,Undeclared Natural Sciences,3.71,1240,,Yes,No,F,8,9,A,3.6,N,No
+264494,Anthropology,3.1,650,,Yes,No,F,0,5,A-,3.6,N,No
+268712,Biological Sciences,3.8,940,,No,No,F,1,5,A-,3.6,N,No
+169020,Computer Science & Engineering,3.7,950,No,No,No,F,10,5,A-,3.6,N,No
+242994,Psychology,3.77,850,No,No,No,F,4,6,A-,3.6,N,No
+239556,Political Science,3.77,920,,,No,F,10,7,A-,3.6,N,No
+240378,Undeclared,3.77,880,,Yes,No,M,9,6,A+,3.6,N,No
+165608,Psychology,3.7,950,,Yes,Yes,F,0,6,A+,3.6,N,No
+188156,Computer Science & Engineering,3.72,980,Yes,Yes,Yes,F,11,6,A+,3.6,N,No
+250286,Political Science,3.78,1060,Yes,Yes,Yes,F,16,6,A+,3.6,N,No
+174558,Undeclared,3.7,1140,,No,Yes,M,8,6,A+,3.6,N,No
+257704,Biological Sciences,3.79,570,No,No,Yes,F,10,7,B,3.6,N,No
+183836,Undeclared,3.71,650,No,No,No,F,0,6,B+,3.6,N,No
+132970,Undeclared,2.81,720,No,No,No,M,6,7,B+,3.6,N,No
+177798,Biological Sciences,3.7,920,,No,No,F,0,7,B+,3.6,N,No
+126932,Undeclared,2.79,1040,Yes,No,Yes,F,0,7,B+,3.6,N,No
+219096,Bioengineering,3.75,770,No,No,Yes,F,4,6,I,3.6,N,No
+84148,Social and Cognitive Science,2.84,840,Yes,Yes,No,F,0,2,A,3.6,Y,No
+90052,Undeclared,2.9,930,,Yes,No,F,0,2,A,3.6,Y,No
+81432,Mechanical Engineering,2.8,1060,Yes,Yes,No,F,0,2,A,3.6,Y,No
+153934,Biological Sciences,2.88,910,No,No,No,M,0,,A,3.6,Y,No
+215256,Undeclared,3.75,910,,No,No,F,16,5,A,3.6,Y,No
+175906,Political Science,3.7,860,No,No,No,M,6,6,A,3.6,Y,No
+104066,Psychology,3.63,580,,Yes,No,M,1,7,A,3.6,Y,No
+74624,Social and Cognitive Science,2.73,830,,No,No,M,9,7,A,3.6,Y,No
+173992,Anthropology,3.7,930,,No,Yes,F,0,10,A,3.6,Y,No
+198322,Undeclared,3,950,No,No,No,F,13,5,A-,3.6,Y,No
+181734,Bioengineering,3.05,970,Yes,No,Yes,F,2,7,A-,3.6,Y,No
+175212,Biological Sciences,3.7,570,No,No,Yes,F,7,9,B,3.6,Y,No
+216376,History,3.75,570,,No,No,F,8,7,B-,3.6,Y,No
+122832,Undeclared,2.77,930,Yes,Yes,No,F,10,7,B+,3.6,Y,No
+77130,Computer Science & Engineering,2.75,870,Yes,Yes,No,F,0,2,A,3.6,Y,Yes
+82300,Applied Mathematical Sciences,2.82,950,,Yes,No,F,0,2,A,3.6,Y,Yes
+85318,Undeclared,2.85,990,,Yes,No,F,0,2,A,3.6,Y,Yes
+85306,Psychology,2.81,1040,Yes,Yes,No,F,0,2,A,3.6,Y,Yes
+185074,Chemical Sciences,3.71,920,,No,No,F,2,5,A,3.6,Y,Yes
+105658,Undeclared,3.63,600,Yes,Yes,Yes,F,4,6,A,3.6,Y,Yes
+175542,Undeclared SSHA,3.7,890,Yes,Yes,Yes,M,9,6,A+,3.6,Y,Yes
+175500,Psychology,3.7,940,,No,No,M,10,,A+,3.6,Y,Yes
+168496,Mechanical Engineering,3.7,1180,Yes,Yes,No,M,10,6,A+,3.6,Y,Yes
+107200,Undeclared,3,940,Yes,Yes,No,F,0,2,A,3.61,N,No
+101748,Psychology,2.97,1030,Yes,No,No,F,0,2,A,3.61,N,No
+177034,English,3.7,990,,,Yes,F,6,6,A,3.61,N,No
+132702,Undeclared,3.01,850,No,No,No,F,1,5,B+,3.61,N,No
+145200,Biological Sciences,2.86,1210,,Yes,No,M,6,7,C+,3.61,N,No
+78208,Psychology,3.6,990,,Yes,Yes,F,0,4,C-,3.61,Y,Yes
+143178,Undeclared,2.85,1180,Yes,Yes,Yes,M,10,7,C+,3.61,Y,Yes
+257220,Literatures and Cultures,3.09,900,,No,Yes,M,10,5,W,3.61,Y,Yes
+262322,Anthropology,3.09,950,,No,No,M,3,6,A-,3.64,N,No
+198720,Undeclared,3,1200,,Yes,No,F,0,2,A,3.64,Y,Yes
+250184,Biological Sciences,3.78,950,No,No,No,F,1,6,A,3.65,N,No
+79072,Literatures and Cultures,3.72,1200,Yes,Yes,No,M,10,9,A+,3.65,N,No
+270848,Political Science,3.8,940,,No,No,F,2,8,B+,3.65,N,No
+199506,Undeclared,3,950,,Yes,No,F,0,2,A,3.65,Y,Yes
+199610,Undeclared,3,1070,,Yes,No,F,0,2,A,3.65,Y,Yes
+158684,Mechanical Engineering,2.9,810,Yes,Yes,Yes,M,6,7,C,3.65,Y,Yes
+163854,Mechanical Engineering,2.91,1050,Yes,No,No,M,10,7,C,3.65,Y,Yes
+262766,Management & Business Economics,3.14,850,,No,No,F,0,6,B+,3.66,N,No
+200398,Undeclared,3,800,Yes,Yes,No,F,0,2,A,3.66,Y,Yes
+208402,Undeclared,3,1050,,Yes,No,F,0,,A,3.66,Y,Yes
+149946,Undeclared Engineering,3.07,730,,Yes,No,F,0,2,A,3.7,N,No
+149244,Biological Sciences,3.07,860,,,No,F,0,2,A,3.7,N,No
+113256,Undeclared,3.03,910,Yes,No,No,F,0,2,A,3.7,N,No
+200172,Psychology,3.72,1130,Yes,,Yes,F,3,3,A-,3.7,N,No
+184472,Anthropology,3.71,780,,No,No,F,0,8,A,3.7,Y,No
+201286,Anthropology,3.73,760,No,No,Yes,F,0,10,A,3.7,Y,No
+119432,Undeclared,3.06,1070,,Yes,No,F,0,2,A,3.7,Y,Yes
+184062,Undeclared,3.05,1080,Yes,Yes,No,F,0,2,A,3.7,Y,Yes
+184056,Earth Systems Science,3.05,1120,,No,No,F,0,2,A,3.7,Y,Yes
+235920,Bioengineering,3.77,950,No,No,Yes,F,8,9,A+,3.7,Y,Yes
+175560,Economics,3.7,800,,No,No,F,8,6,A-,3.72,N,No
+63018,Computer Science & Engineering,3.59,970,,No,No,F,14,,B,3.72,N,No
+224048,Chemical Sciences,3.75,830,,Yes,Yes,F,5,7,B+,3.72,N,No
+84240,Anthropology,3.61,550,No,No,Yes,M,6,6,W,3.72,Y,No
+154102,Undeclared,3.09,690,Yes,Yes,No,F,0,2,A,3.72,Y,Yes
+262030,Management & Business Economics,3.09,1090,,No,No,F,0,2,A,3.72,Y,Yes
+78218,Computer Science & Engineering,3.6,1120,,Yes,No,F,0,9,A+,3.72,Y,Yes
+283400,Management & Business Economics,3.12,1190,,Yes,No,F,0,2,A,3.75,N,No
+117916,Undeclared,3.65,700,,Yes,No,F,0,7,B+,3.75,N,No
+125386,Undeclared,3.65,1130,,Yes,No,F,0,7,B+,3.75,N,No
+116128,Undeclared,3.65,1100,,Yes,No,F,0,7,B+,3.75,N,No
+132612,Computer Science & Engineering,3.66,1140,Yes,Yes,No,F,0,7,B+,3.75,N,No
+182836,History,3.71,1030,Yes,Yes,No,F,0,7,B+,3.75,N,No
+60784,Applied Mathematical Sciences,3.59,1010,Yes,Yes,Yes,M,4,,A+,3.75,Y,No
+273064,Biological Sciences,3.11,980,Yes,Yes,No,F,0,2,A,3.75,Y,Yes
+115856,Undeclared,2.75,1190,Yes,Yes,No,F,10,3,A,3.75,Y,Yes
+111694,Undeclared,2.72,1030,Yes,Yes,Yes,M,12,3,A+,3.75,Y,Yes
+282740,Undeclared,3.12,1020,,No,No,F,0,2,A,3.79,N,No
+121246,Undeclared,2.77,1140,Yes,Yes,No,M,7,3,A-,3.79,Y,Yes
+203144,Undeclared,3.22,810,,No,No,M,3,2,A,3.8,N,No
+194456,Undeclared,3,630,,No,No,M,0,7,A,3.8,N,No
+96408,Sociology,3.62,1190,Yes,Yes,No,F,11,7,A+,3.8,N,No
+67152,Political Science,3.6,680,,Yes,Yes,M,8,7,B,3.8,N,No
+45772,Undeclared,3.59,1110,,Yes,No,F,0,2,A,3.8,Y,No
+192142,Undeclared,3,780,No,No,No,M,14,5,A,3.8,Y,No
+280276,Undeclared,3.81,720,,No,No,M,1,6,A,3.8,Y,No
+88482,Biological Sciences,2.68,620,,No,No,M,6,7,A,3.8,Y,No
+66482,Political Science,3.6,850,Yes,Yes,No,F,0,2,A,3.8,Y,Yes
+284560,Psychology,3.13,1090,,Yes,No,F,0,2,A,3.8,Y,Yes
+65358,Undeclared,3.59,1160,Yes,Yes,No,F,0,2,A,3.8,Y,Yes
+284820,Sociology,3.13,1280,,Yes,No,F,0,2,A,3.8,Y,Yes
+237950,Materials Sci & Engineering,3.77,1050,,No,No,F,12,8,A+,3.8,Y,Yes
+172050,Sociology,3.7,880,,Yes,Yes,F,6,6,A+,3.85,Y,Yes
+252586,Undeclared,3.08,1100,Yes,Yes,Yes,M,7,3,W,3.85,Y,Yes
+171150,Undeclared,3.7,920,,No,No,F,2,5,A+,3.86,N,No
+261892,Biological Sciences,3.09,1160,,Yes,No,M,6,3,W,3.86,N,No
+278248,Biological Sciences,3.12,1150,Yes,Yes,No,F,0,3,A+,3.93,N,No
+281110,History,3.12,1100,,Yes,Yes,F,0,3,A+,3.93,N,No
+201448,Political Science,3.73,970,Yes,No,No,M,0,7,A,3.93,Y,Yes
+111810,Sociology,3.64,1200,Yes,Yes,No,F,14,7,A+,3.93,Y,Yes
+193486,Management & Business Economics,3.72,1160,,Yes,No,M,0,10,A+,3.93,Y,Yes
+75416,Chemical Sciences,3.6,1090,Yes,Yes,No,F,16,3,A+,4,N,No
+162124,Computer Science & Engineering,3.69,1270,Yes,Yes,No,M,12,7,A+,4,N,No
+167172,Computer Science & Engineering,3.75,970,Yes,Yes,Yes,F,2,8,A+,4,Y,No
+61096,Management & Business Economics,4.16,1540,Yes,Yes,No,F,1,10,A+,4,Y,No
+66594,Undeclared SSHA,2.46,1120,,Yes,No,F,0,5,W,4,Y,No
+74044,Biological Sciences,3.6,1240,,Yes,Yes,M,8,3,A+,4,Y,Yes
+263880,Management & Business Economics,3.1,1080,,No,No,F,0,3,W,4,Y,Yes
+74850,Undeclared,2.52,1120,,Yes,No,F,0,3,W,4,Y,Yes
+66660,Mechanical Engineering,3.6,1140,,No,Yes,M,6,3,W,4,Y,Yes
+277488,Undeclared Natural Sciences,3.05,1396,,No,Yes,F,5,4,A+,1.74,No,Yes
+118267,Physics,3.07,553,No,No,Yes,M,1,5,I,3.13,No,Yes
+134278,Undeclared Natural Sciences,3.01,885,,Yes,No,M,1,9,C+,1.32,Yes,Yes
+149513,Undeclared Engineering,2.62,1246,,No,Yes,M,0,7,B+,3.52,Yes,Yes
+32333,Physics,3.76,849,No,No,Yes,M,0,8,A+,3.68,Yes,No
+18420,Political Science,3.39,1101,,Yes,No,M,1,4,C+,2.41,Yes,No
+62601,Earth Systems Science,3.67,1233,,No,Yes,M,0,3,I,1.47,Yes,Yes
+123508,Anthropology,3.85,764,,No,No,M,0,3,A-,3.09,No,No
+51878,History,2.94,1234,Yes,No,Yes,M,3,8,B+,1.51,Yes,No
+34655,Undeclared Natural Sciences,3.65,748,,No,No,M,1,3,B-,2.88,Yes,Yes
+168882,Undeclared,2.46,1196,,Yes,No,F,3,0,C+,2.4,No,Yes
+115318,History,3.58,625,Yes,Yes,No,F,4,10,A+,3.98,Yes,No
+122358,Materials Sci & Engineering,3.45,558,,No,No,F,3,3,I,1.91,Yes,No
+278265,Public Health,3.07,862,,,No,M,6,6,F,2.15,Yes,Yes
+15879,Public Health,3.16,938,,No,Yes,M,4,0,B-,3.86,Yes,No
+44663,Mechanical Engineering,3.01,923,,Yes,Yes,M,6,7,W,3.91,Yes,No
+162325,Social and Cognitive Science,3.64,1069,,No,No,M,2,6,B,2.93,No,No
+228189,Spanish,2.43,625,,Yes,No,F,0,2,F,1.3,Yes,No
+220420,Social and Cognitive Science,2.51,1076,,No,Yes,F,1,,I,1.78,Yes,No
+109761,Undeclared Engineering,2.8,1546,,Yes,No,M,2,3,I,3.15,No,No
+136970,Management & Business Economics,2.41,911,No,No,No,M,6,10,A+,3.78,No,Yes
+41295,Materials Sci & Engineering,2.41,1088,,Yes,No,M,6,4,C,1.77,No,Yes
+230406,History,2.28,1388,Yes,Yes,Yes,M,3,8,D+,1.42,No,No
+94603,Undeclared Engineering,3.9,537,Yes,Yes,Yes,M,2,4,I,2.49,No,Yes
+178228,Economics,2.61,572,Yes,Yes,Yes,F,5,5,A-,2.37,No,No
+279635,Management &Business Economics,3.73,968,,Yes,No,M,2,3,B-,2.1,No,Yes
+34919,English,3.03,583,No,Yes,No,F,6,4,D+,3.22,Yes,Yes
+186579,Literatures and Cultures,2.26,1236,,No,Yes,M,3,9,D,1.72,Yes,Yes
+143801,Chemical Sciences,3.42,901,,No,No,F,5,7,C,3.44,Yes,Yes
+196710,English,2.97,1568,,No,Yes,M,1,8,B+,1.82,No,No
+17937,History,2.69,850,,,Yes,F,5,3,W,2.67,Yes,No
+110473,Materials Sci & Engineering,2.57,1499,,No,No,F,6,0,D-,2.03,No,No
+51287,Earth Systems Science,3.31,547,No,Yes,No,M,6,8,D+,1.04,Yes,Yes
+93518,Physics,3.73,818,,No,Yes,F,5,10,B+,2.34,No,Yes
+28438,Anthropology,3.07,1135,,,No,M,0,10,I,1.29,No,Yes
+88447,Undeclared,2.43,1127,,Yes,Yes,M,4,0,A,1.46,Yes,No
+136171,Management &Business Economics,3.4,805,,Yes,No,M,4,3,C+,1.15,No,Yes
+278607,Psychology,3.31,1554,,No,Yes,F,4,1,C,3.22,No,Yes
+67925,Earth Systems Science,3.84,814,,Yes,No,M,3,3,C-,3.81,Yes,No
+172717,Mechanical Engineering,3.15,678,,No,Yes,M,1,9,A-,2.97,No,No
+121447,Economics,2.93,1118,,Yes,No,F,2,7,B,3.54,Yes,No
+156747,Economics,3.83,1187,,No,No,M,3,5,C,2.14,No,No
+224924,Earth Systems Science,2.72,1204,Yes,Yes,No,M,0,1,D-,3.18,Yes,Yes
+298135,Economics,2.71,1541,,No,Yes,F,4,,C+,1.08,No,No
+230106,Cognitive Science,3.38,1593,,,No,M,5,8,W,2.46,No,No
+264741,Materials Sci & Engineering,3.14,556,Yes,No,Yes,M,3,2,C-,2.18,Yes,No
+112449,Chemical Sciences,3.12,1241,No,No,No,F,1,5,D+,2.38,Yes,No
+30202,Public Health,3.3,1242,,No,No,M,4,7,A-,2.27,No,No
+89071,Literatures and Cultures,3.09,1496,,No,Yes,M,1,0,B,1.94,Yes,Yes
+292162,Public Health,3.4,1025,,Yes,No,F,6,8,I,3.04,Yes,Yes
+51559,Social and Cognitive Science,3.68,1105,No,No,Yes,M,5,9,W,3.91,No,No
+19194,Management & Business Economics,2.63,768,,Yes,No,F,0,4,D+,2.34,Yes,No
+142229,Earth Systems Science,3.12,1112,,Yes,No,M,2,4,D,1.2,No,No
+238289,Cognitive Science,2.87,943,,No,No,M,6,7,A-,3.48,Yes,No
+67980,Management &Business Economics,3.48,861,,No,Yes,F,4,0,F,3.88,Yes,No
+131232,Environmental Engineering,2.44,1133,No,Yes,Yes,M,2,9,C+,3.94,Yes,No
+117378,Materials Sci & Engineering,2.23,898,,,Yes,M,5,6,A+,2.94,Yes,Yes
+270328,Mechanical Engineering,3.61,809,,Yes,Yes,F,5,,I,1.28,Yes,No
+259225,Psychology,2.51,1376,,Yes,No,F,6,7,C+,3.27,No,Yes
+293473,Economics,2.37,1515,,Yes,Yes,F,6,6,C,3.53,No,No
+292066,Earth Systems Science,2.93,1574,,No,Yes,F,2,8,C,2.81,No,Yes
+27934,Political Science,2.8,1141,,Yes,Yes,M,2,4,C,2.66,Yes,No
+116285,Undeclared,3.73,658,,No,Yes,M,1,1,A-,1.4,No,Yes
+173377,Spanish,3.4,1287,,Yes,Yes,F,5,,C+,2.7,Yes,Yes
+267463,Materials Sci & Engineering,2.44,866,Yes,No,No,M,4,0,C-,2.99,No,No
+81555,Sociology,2.68,1189,,Yes,Yes,F,1,0,F,3.18,No,Yes
+265633,Applied Mathematical Sciences,3.89,861,,Yes,No,F,2,10,D+,2.93,Yes,No
+227466,English,3.72,572,,No,Yes,M,5,8,B,1.72,No,No
+109479,Chemical Sciences,3.71,1342,No,No,,F,3,8,B,3.35,No,No
+177467,Chemical Sciences,2.73,964,,No,No,M,6,3,B-,3.42,No,No
+21541,English,2.28,875,,Yes,Yes,F,4,3,A,2.78,Yes,Yes
+115275,Undeclared Engineering,3.34,1599,,,Yes,M,2,2,W,1.77,Yes,Yes
+45095,Spanish,3.23,1429,,No,Yes,M,6,5,C-,3.79,Yes,Yes
+287979,Applied Mathematical Sciences,2.77,1132,,Yes,Yes,F,1,1,C+,3.56,No,Yes
+122412,Psychology,3.78,1119,,No,No,F,2,4,B-,3.92,No,No
+43228,Psychology,2.28,1193,,No,No,F,6,9,B,3.96,No,Yes
+150807,Chemical Sciences,3.99,1427,Yes,No,No,F,5,1,C-,1.48,Yes,Yes
+71182,Sociology,2.46,1091,,Yes,Yes,F,4,,D-,3.57,Yes,No
+266017,Mechanical Engineering,3.56,923,,Yes,Yes,M,6,5,C,1.89,No,No
+265733,Environmental Engineering,2.67,1051,,Yes,Yes,F,0,0,D,2.29,Yes,Yes
+280303,Anthropology,2.92,577,,No,Yes,M,5,,C-,1.88,No,No
+22896,Psychology,3.62,602,,No,No,M,5,2,D,3.38,Yes,No
+260376,Materials Sci & Engineering,2.74,727,,Yes,No,M,1,7,C+,2.41,Yes,No
+246524,Physics,2.44,698,Yes,,No,M,5,4,D-,3.18,Yes,Yes
+91030,Spanish,3.69,567,,Yes,No,M,5,9,I,1.25,Yes,Yes
+299251,Undeclared SSHA,2.2,1124,,No,Yes,M,5,1,B-,1.77,No,Yes
+291220,Undeclared,2.77,1382,Yes,Yes,No,M,3,8,F,3.44,Yes,No
+75569,Sociology,3.37,1148,,No,No,M,4,,D-,3.45,Yes,No
+234718,Undeclared,2.32,852,,Yes,No,F,5,6,C,3.17,No,No
+256296,Economics,3.83,852,,Yes,No,M,1,4,A+,2.77,Yes,No
+283676,Literatures and Cultures,3.17,1270,,,Yes,F,5,3,W,1.39,Yes,No
+120838,Psychology,3.01,874,,No,No,F,1,4,A+,3.38,Yes,No
+275474,Biological Sciences,3.6,1364,,Yes,No,M,1,,D-,2.52,No,No
+34814,Spanish,3.4,1407,,Yes,Yes,F,2,6,C-,1.83,Yes,Yes
+275470,Materials Sci & Engineering,3.78,940,,Yes,Yes,M,2,1,I,2.68,Yes,No
+122045,Physics,3.97,1598,,Yes,Yes,F,1,,C,2.87,Yes,Yes
+149319,Literatures and Cultures,3.09,1483,Yes,Yes,No,M,4,8,D+,1.87,No,No
+41025,Cognitive Science,3.61,1556,No,No,No,M,0,10,A,2.61,No,No
+120923,History,3.98,1498,Yes,No,No,M,0,10,A,2.19,Yes,No
+207255,English,3.21,912,Yes,Yes,Yes,M,3,10,I,2.8,No,No
+269511,Physics,3.65,873,,Yes,Yes,F,6,10,B,1.72,Yes,Yes
+139519,Chemical Sciences,2.83,1424,,Yes,No,M,1,4,B,2.99,Yes,Yes
+187634,Political Science,3.65,789,,No,Yes,M,2,4,D,2,Yes,No
+156074,Materials Sci & Engineering,2.44,1581,,Yes,Yes,M,4,2,A-,2.97,Yes,No
+250116,Management &Business Economics,2.83,831,Yes,Yes,No,F,6,,B+,3.03,No,Yes
+144896,Cognitive Science,3.27,1480,,No,No,M,1,9,W,1.75,Yes,Yes
+218001,English,3.04,1169,,No,No,F,2,9,I,1.53,Yes,Yes
+18025,Psychology,2.31,1559,,No,No,M,4,4,D,3.6,No,Yes
